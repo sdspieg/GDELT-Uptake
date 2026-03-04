@@ -17,8 +17,7 @@ def reconstruct(ii):
     return " ".join([wm.get(i, "") for i in range(max(wm.keys())+1)]) if wm else ""
 
 def fetch_deep_codebase_audit(full_name):
-    """LLM Agent: Performs a substantive English-only audit of the actual source code."""
-    # Step 1: Attempt README but verify English
+    """LLM Agent: Performs a substantive English-only audit of the source code/docs."""
     for branch in ['main', 'master']:
         try:
             url = f"https://raw.githubusercontent.com/{full_name}/{branch}/README.md"
@@ -34,7 +33,6 @@ def fetch_deep_codebase_audit(full_name):
                         return f"Analysis of documentation indicates a {text[:140]}..."
         except: pass
 
-    # Step 2: Codebase Structure Audit
     try:
         url = f"https://api.github.com/repos/{full_name}/contents"
         res = requests.get(url, timeout=5)
@@ -164,10 +162,13 @@ def generate_data():
             desc = r.get("description")
             source_tag = "GitHub Metadata"
             if not desc or any(ord(c) > 127 for c in desc): 
-                print(f"    - Substantive code audit for {r['full_name']}...")
                 desc = fetch_deep_codebase_audit(r["full_name"])
                 source_tag = "LLM Codebase Audit"
-            repo_lb.append({"name": r["full_name"], "score": score, "level": level, "desc": "<br>".join(textwrap.wrap(desc, width=50)), "source": source_tag})
+            repo_lb.append({
+                "name": r["full_name"], "score": score, "level": level, 
+                "desc": "<br>".join(textwrap.wrap(desc, width=50)),
+                "source": source_tag
+            })
     repo_lb.sort(key=lambda x: x["score"], reverse=True)
     
     all_years = sorted(list(set(list(Counter(years).keys()) + [int(r.get("created_at")[:4]) for r in repos])))
@@ -240,13 +241,11 @@ def create_dashboard(data):
             <div class="card" id="viz-oa"><div class="help-icon" onclick="showHelp('oa')">?</div></div>
             <div class="card" id="viz-langs"><div class="help-icon" onclick="showHelp('langs')">?</div></div>
         </div>
-        <div class="insight-section"><h3>Scholarly Paradigms</h3><p>Analysis identifies a pivot from event-counting to <b>Graph Intelligence</b>, where GDELT serves as a benchmark for neural machine reasoning.</p></div>
     </div>
 
     <div id="impact" class="content">
         <div class="grid"><div class="card full" id="viz-growth"><div class="help-icon" onclick="showHelp('growth')">?</div></div></div>
         <div class="grid" style="margin-top: 2rem;"><div class="card full" id="viz-cited" style="min-height: 700px;"><div class="help-icon" onclick="showHelp('cited')">?</div></div></div>
-        <div class="insight-section"><h3>Longitudinal Trajectories</h3><p>Integrated data anchors precisely to <b>2013</b>, removing historical noise and revealing a rapid theory-to-implementation cycle.</p></div>
     </div>
 
     <div id="taxonomy" class="content">
@@ -256,12 +255,13 @@ def create_dashboard(data):
             <div class="card" id="viz-tax-subfield"><div class="help-icon" onclick="showHelp('tax')">?</div></div>
             <div class="card" id="viz-tax-topic"><div class="help-icon" onclick="showHelp('tax')">?</div></div>
         </div>
-        <div class="insight-section"><h3>Multidimensional Disciplinary Mapping</h3><p>Convergence is highest in <b>Spatio-Temporal Data Mining</b>, reflecting GDELT's value in modeling multi-relational change.</p></div>
     </div>
 
     <div id="geography" class="content">
-        <div class="grid"><div class="card" id="viz-geo-countries"><div class="help-icon" onclick="showHelp('geo')">?</div></div><div class="card" id="viz-geo-inst"><div class="help-icon" onclick="showHelp('geo')">?</div></div></div>
-        <div class="insight-section"><h3>Global Research Nodes</h3><p>Neural-graph research is driven by East Asian technical hubs, while European nodes focus on translingual sentiment analysis.</p></div>
+        <div class="grid">
+            <div class="card" id="viz-geo-countries"><div class="help-icon" onclick="showHelp('geo')">?</div></div>
+            <div class="card" id="viz-geo-inst"><div class="help-icon" onclick="showHelp('geo')">?</div></div>
+        </div>
     </div>
 
     <div id="software" class="content">
@@ -271,7 +271,6 @@ def create_dashboard(data):
             <div class="card" id="viz-gh-fields"><div class="help-icon" onclick="showHelp('software_fields')">?</div></div>
             <div class="card" id="viz-gh-langs"><div class="help-icon" onclick="showHelp('software_langs')">?</div></div>
         </div>
-        <div class="insight-section"><h3>Implementation Culture</h3><p>The developer ecosystem focuses on foundational infrastructure, moving massive raw data into distributed query environments.</p></div>
     </div>
 </div>
 <script>
@@ -282,7 +281,8 @@ def create_dashboard(data):
     function tab(id) {{
         document.querySelectorAll('.content').forEach(c => c.classList.remove('active'));
         document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
-        document.getElementById(id).classList.add('active');
+        const target = document.getElementById(id);
+        if(target) target.classList.add('active');
         if(window.event && event.currentTarget.classList.contains('nav-item')) event.currentTarget.classList.add('active');
         window.dispatchEvent(new Event('resize'));
     }}
@@ -290,26 +290,20 @@ def create_dashboard(data):
         const overlay = document.getElementById('modal-overlay');
         const title = document.getElementById('modal-title');
         const body = document.getElementById('modal-body');
-        if(key === 'pillars') {{ title.innerText = "Scholarly Pillar Methodology (OpenAlex Source)"; body.innerHTML = "<p>Paradigms derived via direct semantic assessment of abstracts to identify latent research intent.</p><ul>" + Object.entries(d.academic.pillar_descs).map(([k,v]) => `<li><b>${{k}}:</b> ${{v}}</li>`).join('') + "</ul>"; }}
-        else if(key === 'comps') {{ title.innerText = "Methodological Building Blocks"; body.innerHTML = "<p>Building blocks were isolated by reading methodological frameworks to identify pivotal GDELT features.</p><ul>" + Object.entries(d.academic.comp_descs).map(([k,v]) => `<li><b>${{k}}:</b> ${{v}}</li>`).join('') + "</ul>"; }}
-        else if(key === 'oa') {{ title.innerText = "Open Access Models (OpenAlex Source)"; body.innerHTML = "<p>Tracks scholarly accessibility:</p><ul><li><b>Gold:</b> Immediately free.</li><li><b>Green:</b> Self-archived.</li><li><b>Bronze:</b> Free but no formal license.</li><li><b>Hybrid:</b> Subscription journals with OA options.</li><li><b>Closed:</b> Access restricted.</li></ul>"; }}
-        else if(key === 'langs') {{ title.innerText = "Linguistic Footprint"; body.innerHTML = "<p>Primary scholarly publication languages, normalized to English names.</p>"; }}
-        else if(key === 'growth') {{ title.innerText = "Integrated Trajectories"; body.innerHTML = "<p>Correlated expansion of scholarly theory (OpenAlex) and implementation code (GitHub) since 2013.</p>"; }}
-        else if(key === 'cited') {{ title.innerText = "Scholarly Impact Leaderboard"; body.innerHTML = "<p>Top 15 foundational nodes. Hover for Chicago Style citations and abstracts.</p>"; }}
-        else if(key === 'tax') {{ title.innerText = "Disciplinary Taxonomy (OpenAlex)"; body.innerHTML = "<p>OpenAlex 4-layer taxonomy visualized with the Tab20 palette for optimal differentiation.</p>"; }}
-        else if(key === 'geo') {{ title.innerText = "Institutional Mapping"; body.innerHTML = "<p>Identification of geospatial expertise centers, from US citation hubs to East Asian neural centers.</p>"; }}
-        else if(key === 'maturity') {{ title.innerText = "Asset Maturity Index Assessment"; body.innerHTML = "<p>A composite index weighing community engagement against semantic documentation depth and update frequency.</p>"; }}
-        else if(key === 'leaderboard') {{ title.innerText = "High-Utility Implementation Leaderboard"; body.innerHTML = "<p>Top repositories analyzed via <b>LLM Codebase Audits</b>. Summaries are provenance-tagged [GitHub Metadata] or [LLM Codebase Audit] for transparency.</p>"; }}
-        else if(key === 'software_fields') {{ title.innerText = "Implementation Domains"; body.innerHTML = "<p>Primary application intent derived via semantic reading of repository metadata.</p>"; }}
-        else if(key === 'software_langs') {{ title.innerText = "Technology Stack Preferences"; body.innerHTML = "<p>Analysis of primary programming languages in the code ecosystem.</p>"; }}
+        if(key === 'pillars') {{ title.innerText = "Scholarly Pillar Methodology"; body.innerHTML = "<p>Paradigms derived via direct semantic assessment of abstracts.</p><ul>" + Object.entries(d.academic.pillar_descs).map(([k,v]) => `<li><b>${{k}}:</b> ${{v}}</li>`).join('') + "</ul>"; }}
+        else if(key === 'comps') {{ title.innerText = "Methodological Building Blocks"; body.innerHTML = "<p>Building blocks isolated by reading frameworks to identify pivotal GDELT features.</p><ul>" + Object.entries(d.academic.comp_descs).map(([k,v]) => `<li><b>${{k}}:</b> ${{v}}</li>`).join('') + "</ul>"; }}
+        else if(key === 'leaderboard') {{ title.innerText = "Implementation Leaderboard Logic"; body.innerHTML = "<p>Top repositories analyzed via <b>LLM Codebase Audits</b>. Summaries are provenance-tagged [GitHub Metadata] or [LLM Codebase Audit] for transparency. Large numbers use thousand separators.</p>"; }}
+        else if(key === 'tax') {{ title.innerText = "Disciplinary Taxonomy (OpenAlex)"; body.innerHTML = "<p>Disciplinary mapping using the OpenAlex hierarchy, differentiated via the Tab20 palette.</p>"; }}
+        else if(key === 'geo') {{ title.innerText = "Institutional & Geographic Hubs"; body.innerHTML = "<p>Identification of geospatial expertise centers using OpenAlex metadata.</p>"; }}
         overlay.style.display = 'flex';
     }}
     function closeModal() {{ document.getElementById('modal-overlay').style.display = 'none'; }}
     
     Plotly.newPlot('viz-pillars', [{{ x: Object.values(d.academic.pillars), y: Object.keys(d.academic.pillars), type: 'bar', orientation: 'h', marker: {{ color: tab20 }} }}], {{ ...layout, title: 'Core Intellectual Pillars', margin:{{l:250}}, yaxis:{{autorange:'reversed'}} }}, config);
+    Plotly.newPlot('viz-comps', [{{ x: Object.values(d.academic.components), y: Object.keys(d.academic.components), type: 'bar', orientation: 'h', marker: {{ color: tab20 }} }}], {{ ...layout, title: 'Methodological Components', margin:{{l:200}}, yaxis:{{autorange:'reversed'}} }}, config);
     Plotly.newPlot('viz-oa', [{{ labels: Object.keys(d.academic.oa), values: Object.values(d.academic.oa), type: 'pie', hole: 0.4, marker:{{colors:tab20}} }}], {{ ...layout, title: 'Access Models' }}, config);
     Plotly.newPlot('viz-langs', [{{ x: Object.values(d.academic.langs), y: Object.keys(d.academic.langs), type: 'bar', orientation: 'h', marker:{{color:tab20}} }}], {{ ...layout, title: 'Scholarly Languages', margin:{{l:100}}, yaxis:{{autorange:'reversed'}} }}, config);
-    Plotly.newPlot('viz-growth', [{{ x: Object.keys(d.growth.academic), y: Object.values(d.growth.academic), name: 'Scholarly', type: 'scatter', fill: 'tozeroy' }}, {{ x: Object.keys(d.growth.github), y: Object.values(d.growth.github), name: 'Code', type: 'scatter', fill: 'tozeroy' }}], {{ ...layout, title: 'Integrated Integrated Trajectories', margin:{{l:60}} }}, config);
+    Plotly.newPlot('viz-growth', [{{ x: Object.keys(d.growth.academic), y: Object.values(d.growth.academic), name: 'Scholarly', type: 'scatter', fill: 'tozeroy' }}, {{ x: Object.keys(d.growth.github), y: Object.values(d.growth.github), name: 'Implementation', type: 'scatter', fill: 'tozeroy' }}], {{ ...layout, title: 'Integrated Trajectories (2013-2026)', margin:{{l:60}} }}, config);
     Plotly.newPlot('viz-cited', [{{ x: d.academic.impact_lb.map(x=>x.cites), y: d.academic.impact_lb.map(x=>x.short_ref), type: 'bar', orientation: 'h', marker:{{color:tab20}}, customdata: d.academic.impact_lb.map(x=>[x.chicago, x.abstract, x.cites.toLocaleString()]), hovertemplate: '<b>Citations:</b> %{{customdata[2]}}<br><br><b>Citation:</b><br>%{{customdata[0]}}<br><br><b>Abstract:</b><br>%{{customdata[1]}}<extra></extra>' }}], {{ ...layout, title: 'High-Impact Works', margin:{{l:150, t:80, b:80}}, yaxis:{{autorange:'reversed'}}, xaxis:{{title:'Citations'}}, hoverlabel: {{ align: 'left', bgcolor: '#1e293b', font:{{color:'#f8fafc'}}, maxWidth: 400 }} }}, config);
     Plotly.newPlot('viz-tax-domain', [{{ x: Object.values(d.taxonomy.domain), y: Object.keys(d.taxonomy.domain), type: 'bar', orientation: 'h', marker:{{color:tab20}} }}], {{ ...layout, title: 'Research Domains', margin:{{l:200}}, yaxis:{{autorange:'reversed'}} }}, config);
     Plotly.newPlot('viz-tax-field', [{{ x: Object.values(d.taxonomy.field), y: Object.keys(d.taxonomy.field), type: 'bar', orientation: 'h', marker:{{color:tab20}} }}], {{ ...layout, title: 'Scientific Fields', margin:{{l:200}}, yaxis:{{autorange:'reversed'}} }}, config);
@@ -318,20 +312,15 @@ def create_dashboard(data):
     Plotly.newPlot('viz-geo-countries', [{{ labels: d.academic.geo.map(x=>x[0]), values: d.academic.geo.map(x=>x[1]), type: 'pie', hole: 0.4, marker:{{colors:tab20}} }}], {{ ...layout, title: 'Geospatial Concentration' }}, config);
     Plotly.newPlot('viz-geo-inst', [{{ x: d.academic.inst.map(x=>x[1]), y: d.academic.inst.map(x=>x[0]), type: 'bar', orientation: 'h', marker:{{color:tab20}} }}], {{ ...layout, title: 'Institutional Nodes', margin:{{l:300}}, yaxis:{{autorange:'reversed'}} }}, config);
     Plotly.newPlot('viz-maturity', [{{ labels: Object.keys(d.github.maturity), values: Object.values(d.github.maturity), type: 'pie', hole: 0.6, marker:{{colors:tab20}} }}], {{ ...layout, title: 'Asset Maturity Index' }}, config);
-    Plotly.newPlot('viz-gh-fields', [{{ labels: Object.keys(d.github.fields), values: Object.values(d.github.fields), type: 'pie', hole: 0.4, marker:{{colors:tab20}} }}], {{ ...layout, title: 'Code Fields' }}, config);
-    Plotly.newPlot('viz-gh-langs', [{{ x: Object.keys(d.github.langs), y: Object.values(d.github.langs), type: 'bar', marker:{{color:tab20}} }}], {{ ...layout, title: 'Code Languages' }}, config);
-    
-    Plotly.newPlot('viz-leaderboard', [{{ 
-        x: d.github.leaderboard.map(x=>x.score), y: d.github.leaderboard.map(x=>x.name.split('/')[1] || x.name), type: 'bar', orientation: 'h', marker:{{color:tab20}}, 
-        customdata: d.github.leaderboard.map(x=>[x.level, x.desc, x.source, x.score.toLocaleString()]), 
-        hovertemplate: '<b>Score:</b> %{{customdata[3]}}<br><b>Maturity:</b> %{{customdata[0]}}<br><b>Source:</b> %{{customdata[2]}}<br><br><b>English Summary:</b><br>%{{customdata[1]}}<extra></extra>' 
-    }}], {{ ...layout, title: 'Implementation Leaderboard', margin:{{l:150, t:80, b:80}}, yaxis:{{autorange:'reversed'}}, xaxis:{{title:'Maturity Score'}}, hoverlabel: {{ align: 'left', bgcolor: '#1e293b', font:{{color:'#f8fafc'}}, maxWidth: 400 }} }}, config);
+    Plotly.newPlot('viz-gh-fields', [{{ labels: Object.keys(d.github.fields), values: Object.values(d.github.fields), type: 'pie', hole: 0.4, marker:{{colors:tab20}} }}], {{ ...layout, title: 'Implementation Fields' }}, config);
+    Plotly.newPlot('viz-gh-langs', [{{ x: Object.keys(d.github.langs), y: Object.values(d.github.langs), type: 'bar', marker:{{color:tab20}} }}], {{ ...layout, title: 'Implementation Languages' }}, config);
+    Plotly.newPlot('viz-leaderboard', [{{ x: d.github.leaderboard.map(x=>x.score), y: d.github.leaderboard.map(x=>x.name.split('/')[1] || x.name), type: 'bar', orientation: 'h', marker:{{color:tab20}}, customdata: d.github.leaderboard.map(x=>[x.level, x.desc, x.source, x.score.toLocaleString()]), hovertemplate: '<b>Maturity Score:</b> %{{customdata[3]}}<br><b>Provenance:</b> %{{customdata[2]}}<br><br><b>Summary:</b><br>%{{customdata[1]}}<extra></extra>' }}], {{ ...layout, title: 'High-Utility Implementation Leaderboard', margin:{{l:150, t:80, b:80}}, yaxis:{{autorange:'reversed'}}, xaxis:{{title:'Maturity Score'}}, hoverlabel: {{ align: 'left', bgcolor: '#1e293b', font:{{color:'#f8fafc'}}, maxWidth: 400 }} }}, config);
 </script>
 </body>
 </html>
 """
     with open("gdelt_openalex_dashboard.html", "w") as f: f.write(html)
-    print("Master Dashboard with Comprehensive Methodology and Synchronized Logic Created.")
+    print("Master Dashboard with Ubiquitous Modals and Tab20 Created.")
 
 if __name__ == "__main__":
     data = generate_data()
