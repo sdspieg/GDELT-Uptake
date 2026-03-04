@@ -1,0 +1,172 @@
+{
+  "id": "https://openalex.org/A5074239467",
+  "orcid": null,
+  "display_name": "A Mazzacani",
+  "display_name_alternatives": [
+    "A Mazzacani"
+  ],
+  "works_count": 1,
+  "cited_by_count": 48,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 1
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5074239467",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I122346577",
+        "ror": "https://ror.org/02d4c4y02",
+        "display_name": "University of Modena and Reggio Emilia",
+        "country_code": "IT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I122346577"
+        ]
+      },
+      "years": [
+        2002
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I122346577",
+      "ror": "https://ror.org/02d4c4y02",
+      "display_name": "University of Modena and Reggio Emilia",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I122346577"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10294",
+      "display_name": "Cell death mechanisms and regulation",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10676",
+      "display_name": "Genetics, Aging, and Longevity in Model Organisms",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1302",
+        "display_name": "Aging"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10294",
+      "display_name": "Cell death mechanisms and regulation",
+      "value": 9.8e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10676",
+      "display_name": "Genetics, Aging, and Longevity in Model Organisms",
+      "value": 9.7e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1302",
+        "display_name": "Aging"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "180754005",
+      "wikidata": "https://www.wikidata.org/wiki/Q80726",
+      "display_name": "Allele",
+      "score": 0.7091127634048462
+    },
+    {
+      "id": "135763542",
+      "wikidata": "https://www.wikidata.org/wiki/Q106016",
+      "display_name": "Genotype",
+      "score": 0.6758003234863281
+    },
+    {
+      "id": "197754878",
+      "wikidata": "https://www.wikidata.org/wiki/Q80711",
+      "display_name": "Haplotype",
+      "score": 0.5942284464836121
+    },
+    {
+      "id": "190283241",
+      "wikidata": "https://www.wikidata.org/wiki/Q14599311",
+      "display_name": "Apoptosis",
+      "score": 0.4946293532848358
+    },
+    {
+      "id": "104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "score": 0.44319677352905273
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2002,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 48
+    }
+  ],
+  "longest_name": "A Mazzacani",
+  "parsed_longest_name": {
+    "first": "a",
+    "middle": "",
+    "last": "mazzacani",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "a mazzacani",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5074239467",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

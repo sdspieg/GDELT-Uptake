@@ -1,0 +1,274 @@
+{
+  "id": "https://openalex.org/A5102659672",
+  "orcid": null,
+  "display_name": "Roland Tian",
+  "display_name_alternatives": [
+    "Roland Tian"
+  ],
+  "works_count": 2,
+  "cited_by_count": 2,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5102659672",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1330342723",
+        "ror": "https://ror.org/02qp3tb03",
+        "display_name": "Mayo Clinic",
+        "country_code": "US",
+        "type": "funder",
+        "lineage": [
+          "https://openalex.org/I1330342723"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I1330342723",
+      "ror": "https://ror.org/02qp3tb03",
+      "display_name": "Mayo Clinic",
+      "country_code": "US",
+      "type": "funder",
+      "lineage": [
+        "https://openalex.org/I1330342723"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10134",
+      "display_name": "Inflammatory Bowel Disease",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10307",
+      "display_name": "Head and Neck Cancer Studies",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2733",
+        "display_name": "Otorhinolaryngology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12027",
+      "display_name": "Social Media in Health Education",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12438",
+      "display_name": "Urticaria and Related Conditions",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12538",
+      "display_name": "Eosinophilic Esophagitis",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12027",
+      "display_name": "Social Media in Health Education",
+      "value": 1.45e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10134",
+      "display_name": "Inflammatory Bowel Disease",
+      "value": 6.7e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12438",
+      "display_name": "Urticaria and Related Conditions",
+      "value": 6.1e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12538",
+      "display_name": "Eosinophilic Esophagitis",
+      "value": 6e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10307",
+      "display_name": "Head and Neck Cancer Studies",
+      "value": 5.2e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2733",
+        "display_name": "Otorhinolaryngology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "score": 0.7074139714241028
+    },
+    {
+      "id": "142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "score": 0.4992070198059082
+    },
+    {
+      "id": "15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "score": 0.32813510298728943
+    },
+    {
+      "id": "2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "score": 0.17637121677398682
+    },
+    {
+      "id": "136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "score": 0.11426982283592224
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    }
+  ],
+  "longest_name": "Roland Tian",
+  "parsed_longest_name": {
+    "first": "roland",
+    "middle": "",
+    "last": "tian",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "r tian",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5102659672",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

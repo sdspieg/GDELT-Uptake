@@ -1,0 +1,336 @@
+{
+  "id": "https://openalex.org/A5053743928",
+  "orcid": "https://orcid.org/0000-0002-0172-8162",
+  "display_name": "Stefan Hagedorn",
+  "display_name_alternatives": [
+    "Hagedorn, Stefan",
+    "Stefan Hagedorn"
+  ],
+  "works_count": 28,
+  "cited_by_count": 156,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 6,
+    "i10_index": 5
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5053743928",
+    "orcid": "https://orcid.org/0000-0002-0172-8162"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I119449181",
+        "ror": "https://ror.org/01weqhp73",
+        "display_name": "Technische Universität Ilmenau",
+        "country_code": "DE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I119449181"
+        ]
+      },
+      "years": [
+        2021,
+        2020,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I119449181",
+      "ror": "https://ror.org/01weqhp73",
+      "display_name": "Technische Universität Ilmenau",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I119449181"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10317",
+      "display_name": "Advanced Database Systems and Queries",
+      "count": 15,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "count": 11,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11106",
+      "display_name": "Data Management and Algorithms",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1711",
+        "display_name": "Signal Processing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11986",
+      "display_name": "Scientific Computing and Data Management",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10101",
+      "display_name": "Cloud Computing and Resource Management",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10317",
+      "display_name": "Advanced Database Systems and Queries",
+      "value": 6.92e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11106",
+      "display_name": "Data Management and Algorithms",
+      "value": 3.4e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1711",
+        "display_name": "Signal Processing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "value": 3.07e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11986",
+      "display_name": "Scientific Computing and Data Management",
+      "value": 2.83e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14513",
+      "display_name": "Leadership, Courage, and Heroism Studies",
+      "value": 2.5e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.9034902453422546
+    },
+    {
+      "id": "77088390",
+      "wikidata": "https://www.wikidata.org/wiki/Q8513",
+      "display_name": "Database",
+      "score": 0.5144026875495911
+    },
+    {
+      "id": "124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "score": 0.49823999404907227
+    },
+    {
+      "id": "199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "score": 0.39406728744506836
+    },
+    {
+      "id": "111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "score": 0.34390056133270264
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2011,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2013,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2014,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2015,
+      "works_count": 5,
+      "oa_works_count": 1,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2016,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2017,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 78
+    },
+    {
+      "year": 2018,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2019,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2021,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 7
+    }
+  ],
+  "longest_name": "Hagedorn, Stefan",
+  "parsed_longest_name": {
+    "first": "stefan",
+    "middle": "",
+    "last": "hagedorn",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "s hagedorn",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5053743928",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

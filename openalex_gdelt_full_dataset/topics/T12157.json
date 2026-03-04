@@ -1,0 +1,344 @@
+{
+  "id": "https://openalex.org/T12157",
+  "display_name": "Geochemistry and Geologic Mapping",
+  "description": "This cluster of papers focuses on the application of machine learning, remote sensing, and compositional data analysis techniques for mineral prospectivity mapping. It explores the use of advanced technologies such as ASTER and hyperspectral imaging to identify geological features, geochemical anomalies, and hydrothermal alterations associated with mineralization. The cluster also delves into the challenges and opportunities in using support vector machines, fractal modeling, and statistical analysis for predicting undiscovered mineral deposits.",
+  "keywords": [
+    "Machine Learning",
+    "Mineral Prospectivity",
+    "Remote Sensing",
+    "Compositional Data Analysis",
+    "Geological Mapping",
+    "Hyperspectral Imaging",
+    "Support Vector Machines",
+    "Fractal Modeling",
+    "Geochemical Anomalies",
+    "Lithological Mapping"
+  ],
+  "ids": {
+    "openalex": "https://openalex.org/T12157",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mineral_prospecting"
+  },
+  "subfield": {
+    "id": "https://openalex.org/subfields/1702",
+    "display_name": "Artificial Intelligence"
+  },
+  "field": {
+    "id": "https://openalex.org/fields/17",
+    "display_name": "Computer Science"
+  },
+  "domain": {
+    "id": "https://openalex.org/domains/3",
+    "display_name": "Physical Sciences"
+  },
+  "siblings": [
+    {
+      "id": "https://openalex.org/T10020",
+      "display_name": "Quantum Information and Cryptography"
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling"
+    },
+    {
+      "id": "https://openalex.org/T10100",
+      "display_name": "Metaheuristic Optimization Algorithms Research"
+    },
+    {
+      "id": "https://openalex.org/T10126",
+      "display_name": "Logic, programming, and type systems"
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques"
+    },
+    {
+      "id": "https://openalex.org/T10201",
+      "display_name": "Speech Recognition and Synthesis"
+    },
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies"
+    },
+    {
+      "id": "https://openalex.org/T10237",
+      "display_name": "Cryptography and Data Security"
+    },
+    {
+      "id": "https://openalex.org/T10320",
+      "display_name": "Neural Networks and Applications"
+    },
+    {
+      "id": "https://openalex.org/T10456",
+      "display_name": "Multi-Agent Systems and Negotiation"
+    },
+    {
+      "id": "https://openalex.org/T10462",
+      "display_name": "Reinforcement Learning in Robotics"
+    },
+    {
+      "id": "https://openalex.org/T10637",
+      "display_name": "Advanced Clustering Algorithms Research"
+    },
+    {
+      "id": "https://openalex.org/T10639",
+      "display_name": "Advanced Software Engineering Methodologies"
+    },
+    {
+      "id": "https://openalex.org/T10664",
+      "display_name": "Sentiment Analysis and Opinion Mining"
+    },
+    {
+      "id": "https://openalex.org/T10682",
+      "display_name": "Quantum Computing Algorithms and Architecture"
+    },
+    {
+      "id": "https://openalex.org/T10711",
+      "display_name": "Target Tracking and Data Fusion in Sensor Networks"
+    },
+    {
+      "id": "https://openalex.org/T10764",
+      "display_name": "Privacy-Preserving Technologies in Data"
+    },
+    {
+      "id": "https://openalex.org/T10820",
+      "display_name": "Fuzzy Logic and Control Systems"
+    },
+    {
+      "id": "https://openalex.org/T10862",
+      "display_name": "AI in cancer detection"
+    },
+    {
+      "id": "https://openalex.org/T10906",
+      "display_name": "AI-based Problem Solving and Planning"
+    },
+    {
+      "id": "https://openalex.org/T10951",
+      "display_name": "Cryptographic Implementations and Security"
+    },
+    {
+      "id": "https://openalex.org/T11010",
+      "display_name": "Logic, Reasoning, and Knowledge"
+    },
+    {
+      "id": "https://openalex.org/T11130",
+      "display_name": "Coding theory and cryptography"
+    },
+    {
+      "id": "https://openalex.org/T11269",
+      "display_name": "Algorithms and Data Compression"
+    },
+    {
+      "id": "https://openalex.org/T11273",
+      "display_name": "Advanced Graph Neural Networks"
+    },
+    {
+      "id": "https://openalex.org/T11276",
+      "display_name": "Solar Radiation and Photovoltaics"
+    },
+    {
+      "id": "https://openalex.org/T11303",
+      "display_name": "Bayesian Modeling and Causal Inference"
+    },
+    {
+      "id": "https://openalex.org/T11307",
+      "display_name": "Domain Adaptation and Few-Shot Learning"
+    },
+    {
+      "id": "https://openalex.org/T11424",
+      "display_name": "Security and Verification in Computing"
+    },
+    {
+      "id": "https://openalex.org/T11512",
+      "display_name": "Anomaly Detection Techniques and Applications"
+    },
+    {
+      "id": "https://openalex.org/T11550",
+      "display_name": "Text and Document Classification Technologies"
+    },
+    {
+      "id": "https://openalex.org/T11574",
+      "display_name": "Artificial Intelligence in Games"
+    },
+    {
+      "id": "https://openalex.org/T11598",
+      "display_name": "Internet Traffic Analysis and Secure E-voting"
+    },
+    {
+      "id": "https://openalex.org/T11612",
+      "display_name": "Stochastic Gradient Optimization Techniques"
+    },
+    {
+      "id": "https://openalex.org/T11652",
+      "display_name": "Imbalanced Data Classification Techniques"
+    },
+    {
+      "id": "https://openalex.org/T11689",
+      "display_name": "Adversarial Robustness in Machine Learning"
+    },
+    {
+      "id": "https://openalex.org/T11901",
+      "display_name": "Bayesian Methods and Mixture Models"
+    },
+    {
+      "id": "https://openalex.org/T11902",
+      "display_name": "Intelligent Tutoring Systems and Adaptive Learning"
+    },
+    {
+      "id": "https://openalex.org/T11975",
+      "display_name": "Evolutionary Algorithms and Applications"
+    },
+    {
+      "id": "https://openalex.org/T12026",
+      "display_name": "Explainable Artificial Intelligence (XAI)"
+    },
+    {
+      "id": "https://openalex.org/T12031",
+      "display_name": "Speech and dialogue systems"
+    },
+    {
+      "id": "https://openalex.org/T12072",
+      "display_name": "Machine Learning and Algorithms"
+    },
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions"
+    },
+    {
+      "id": "https://openalex.org/T12131",
+      "display_name": "Wireless Signal Modulation Classification"
+    },
+    {
+      "id": "https://openalex.org/T12260",
+      "display_name": "Educational Technology and Pedagogy"
+    },
+    {
+      "id": "https://openalex.org/T12262",
+      "display_name": "Hate Speech and Cyberbullying Detection"
+    },
+    {
+      "id": "https://openalex.org/T12380",
+      "display_name": "Authorship Attribution and Profiling"
+    },
+    {
+      "id": "https://openalex.org/T12535",
+      "display_name": "Machine Learning and Data Classification"
+    },
+    {
+      "id": "https://openalex.org/T12611",
+      "display_name": "Neural Networks and Reservoir Computing"
+    },
+    {
+      "id": "https://openalex.org/T12676",
+      "display_name": "Machine Learning and ELM"
+    },
+    {
+      "id": "https://openalex.org/T12761",
+      "display_name": "Data Stream Mining Techniques"
+    },
+    {
+      "id": "https://openalex.org/T12805",
+      "display_name": "Cognitive Science and Mapping"
+    },
+    {
+      "id": "https://openalex.org/T12814",
+      "display_name": "Gaussian Processes and Bayesian Inference"
+    },
+    {
+      "id": "https://openalex.org/T13018",
+      "display_name": "Seismology and Earthquake Studies"
+    },
+    {
+      "id": "https://openalex.org/T13062",
+      "display_name": "Cognitive Computing and Networks"
+    },
+    {
+      "id": "https://openalex.org/T13083",
+      "display_name": "Advanced Text Analysis Techniques"
+    },
+    {
+      "id": "https://openalex.org/T13398",
+      "display_name": "Data Analysis with R"
+    },
+    {
+      "id": "https://openalex.org/T13514",
+      "display_name": "Experience-Based Knowledge Management"
+    },
+    {
+      "id": "https://openalex.org/T13559",
+      "display_name": "Edcuational Technology Systems"
+    },
+    {
+      "id": "https://openalex.org/T13567",
+      "display_name": "AI and Multimedia in Education"
+    },
+    {
+      "id": "https://openalex.org/T13623",
+      "display_name": "Linguistic Studies and Language Acquisition"
+    },
+    {
+      "id": "https://openalex.org/T13629",
+      "display_name": "Text Readability and Simplification"
+    },
+    {
+      "id": "https://openalex.org/T13650",
+      "display_name": "Computational Physics and Python Applications"
+    },
+    {
+      "id": "https://openalex.org/T13674",
+      "display_name": "Computer Science and Engineering"
+    },
+    {
+      "id": "https://openalex.org/T13702",
+      "display_name": "Machine Learning in Healthcare"
+    },
+    {
+      "id": "https://openalex.org/T13734",
+      "display_name": "Advanced Computational Techniques and Applications"
+    },
+    {
+      "id": "https://openalex.org/T13851",
+      "display_name": "Law, AI, and Intellectual Property"
+    },
+    {
+      "id": "https://openalex.org/T13898",
+      "display_name": "Diverse Interdisciplinary Research Studies"
+    },
+    {
+      "id": "https://openalex.org/T13904",
+      "display_name": "Artificial Intelligence Applications"
+    },
+    {
+      "id": "https://openalex.org/T13935",
+      "display_name": "Mathematical Control Systems and Analysis"
+    },
+    {
+      "id": "https://openalex.org/T14064",
+      "display_name": "Organizational and Employee Performance"
+    },
+    {
+      "id": "https://openalex.org/T14175",
+      "display_name": "Intuitionistic Fuzzy Systems Applications"
+    },
+    {
+      "id": "https://openalex.org/T14335",
+      "display_name": "Educational Robotics and Engineering"
+    },
+    {
+      "id": "https://openalex.org/T14351",
+      "display_name": "Statistical and Computational Modeling"
+    },
+    {
+      "id": "https://openalex.org/T14381",
+      "display_name": "Psychiatry, Mental Health, Neuroscience"
+    },
+    {
+      "id": "https://openalex.org/T14413",
+      "display_name": "Advanced Technologies in Various Fields"
+    }
+  ],
+  "works_count": 3952998,
+  "cited_by_count": 1650791,
+  "works_api_url": "https://api.openalex.org/works?filter=topics.id:T12157",
+  "updated_date": "2026-03-03T03:01:31",
+  "created_date": "2024-01-23T15:27:13"
+}

@@ -1,0 +1,299 @@
+{
+  "id": "https://openalex.org/A5080774349",
+  "orcid": null,
+  "display_name": "Leonida Mutuku",
+  "display_name_alternatives": [
+    "Leonida Mutuku",
+    "Leonida N. Mutuku",
+    "Mutuku, Leonida"
+  ],
+  "works_count": 12,
+  "cited_by_count": 85,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 6,
+    "i10_index": 5
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5080774349",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210136782",
+        "ror": "https://ror.org/03pnptn66",
+        "display_name": "Universidad Internacional de Profesiones y Escuela Internacional de Turismo",
+        "country_code": "MX",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210136782"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210158342",
+        "ror": "https://ror.org/058cxws58",
+        "display_name": "Intel (United Kingdom)",
+        "country_code": "GB",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I1343180700",
+          "https://openalex.org/I4210158342"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "last_known_institutions": null,
+  "topics": [
+    {
+      "id": "https://openalex.org/T10953",
+      "display_name": "E-Government and Public Services",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11995",
+      "display_name": "FinTech, Crowdfunding, Digital Finance",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13194",
+      "display_name": "ICT in Developing Communities",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11499",
+      "display_name": "ICT Impact and Policies",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2214",
+        "display_name": "Media Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12786",
+      "display_name": "Innovation and Socioeconomic Development",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1403",
+        "display_name": "Business and International Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10953",
+      "display_name": "E-Government and Public Services",
+      "value": 8.44e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13194",
+      "display_name": "ICT in Developing Communities",
+      "value": 5.32e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11995",
+      "display_name": "FinTech, Crowdfunding, Digital Finance",
+      "value": 4.43e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14280",
+      "display_name": "Big Data Technologies and Applications",
+      "value": 2.03e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13057",
+      "display_name": "Asian Industrial and Economic Development",
+      "value": 2.01e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.5974248647689819
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.43573689460754395
+    },
+    {
+      "id": "136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "score": 0.34438425302505493
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.07488489151000977
+    },
+    {
+      "id": "138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "score": 0.0
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2012,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 44
+    },
+    {
+      "year": 2014,
+      "works_count": 7,
+      "oa_works_count": 1,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2023,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 10
+    }
+  ],
+  "longest_name": "Leonida N. Mutuku",
+  "parsed_longest_name": {
+    "first": "leonida",
+    "middle": "n",
+    "last": "mutuku",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "l mutuku",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080774349",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

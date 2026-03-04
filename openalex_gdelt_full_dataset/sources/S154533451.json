@@ -1,0 +1,1297 @@
+{
+  "id": "https://openalex.org/S154533451",
+  "issn_l": "0018-9391",
+  "issn": [
+    "0018-9391",
+    "1558-0040"
+  ],
+  "display_name": "IEEE Transactions on Engineering Management",
+  "host_organization": "https://openalex.org/P4310319808",
+  "host_organization_name": "Institute of Electrical and Electronics Engineers",
+  "host_organization_lineage": [
+    "https://openalex.org/P4310319808"
+  ],
+  "works_count": 5962,
+  "oa_works_count": 886,
+  "cited_by_count": 151429,
+  "summary_stats": {
+    "2yr_mean_citedness": 5.224646983311938,
+    "h_index": 155,
+    "i10_index": 2710
+  },
+  "is_oa": false,
+  "is_in_doaj": false,
+  "is_in_doaj_since_year": null,
+  "is_high_oa_rate": false,
+  "is_high_oa_rate_since_year": null,
+  "is_in_scielo": false,
+  "is_ojs": false,
+  "is_core": true,
+  "oa_flip_year": null,
+  "first_publication_year": 1963,
+  "last_publication_year": 2026,
+  "ids": {
+    "openalex": "https://openalex.org/S154533451",
+    "issn_l": "0018-9391",
+    "issn": [
+      "0018-9391",
+      "1558-0040"
+    ],
+    "mag": "154533451",
+    "wikidata": "https://www.wikidata.org/entity/Q15760101"
+  },
+  "homepage_url": "http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=17",
+  "apc_prices": [],
+  "apc_usd": null,
+  "country_code": "US",
+  "societies": [],
+  "alternate_titles": [
+    "Engineering management",
+    "Transactions on engineering management",
+    "Institute of Electrical and Electronics Engineers transactions on engineering management"
+  ],
+  "type": "journal",
+  "topics": [
+    {
+      "id": "https://openalex.org/T10003",
+      "display_name": "Innovation and Knowledge Management",
+      "count": 764,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14306",
+      "display_name": "Technology Assessment and Management",
+      "count": 358,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2213",
+        "display_name": "Safety, Risk, Reliability and Quality"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10539",
+      "display_name": "Sustainable Supply Chain Management",
+      "count": 326,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10395",
+      "display_name": "Construction Project Management and Performance",
+      "count": 299,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11729",
+      "display_name": "Product Development and Customization",
+      "count": 299,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12659",
+      "display_name": "Innovation Diffusion and Forecasting",
+      "count": 263,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11891",
+      "display_name": "Big Data and Business Intelligence",
+      "count": 244,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10328",
+      "display_name": "Supply Chain and Inventory Management",
+      "count": 243,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10164",
+      "display_name": "Quality and Supply Management",
+      "count": 230,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12722",
+      "display_name": "Innovation Policy and R&D",
+      "count": 202,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10068",
+      "display_name": "Technology Adoption and User Behaviour",
+      "count": 193,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11864",
+      "display_name": "Supply Chain Resilience and Risk Management",
+      "count": 173,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10058",
+      "display_name": "Entrepreneurship Studies and Influences",
+      "count": 172,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11159",
+      "display_name": "Manufacturing Process and Optimization",
+      "count": 171,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10050",
+      "display_name": "Multi-Criteria Decision Making",
+      "count": 159,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11437",
+      "display_name": "Digital Platforms and Economics",
+      "count": 158,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13402",
+      "display_name": "Business Strategy and Innovation",
+      "count": 153,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10763",
+      "display_name": "Digital Transformation in Industry",
+      "count": 151,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10672",
+      "display_name": "Design Education and Practice",
+      "count": 147,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11810",
+      "display_name": "Complex Systems and Decision Making",
+      "count": 146,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10270",
+      "display_name": "Blockchain Technology Applications and Security",
+      "count": 141,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11675",
+      "display_name": "Open Source Software Innovations",
+      "count": 136,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12000",
+      "display_name": "Systems Engineering Methodologies and Applications",
+      "count": 136,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2207",
+        "display_name": "Control and Systems Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11976",
+      "display_name": "Capital Investment and Risk Analysis",
+      "count": 135,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12851",
+      "display_name": "Firm Innovation and Growth",
+      "count": 135,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11729",
+      "display_name": "Product Development and Customization",
+      "value": 0.0041377,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12659",
+      "display_name": "Innovation Diffusion and Forecasting",
+      "value": 0.0038442,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12000",
+      "display_name": "Systems Engineering Methodologies and Applications",
+      "value": 0.0038248,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2207",
+        "display_name": "Control and Systems Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10003",
+      "display_name": "Innovation and Knowledge Management",
+      "value": 0.0034833,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14306",
+      "display_name": "Technology Assessment and Management",
+      "value": 0.0034163,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2213",
+        "display_name": "Safety, Risk, Reliability and Quality"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10328",
+      "display_name": "Supply Chain and Inventory Management",
+      "value": 0.0023168,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12945",
+      "display_name": "Quality Function Deployment in Product Design",
+      "value": 0.0020981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11675",
+      "display_name": "Open Source Software Innovations",
+      "value": 0.0019556,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12177",
+      "display_name": "Resource-Constrained Project Scheduling",
+      "value": 0.0019475,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10395",
+      "display_name": "Construction Project Management and Performance",
+      "value": 0.0019083,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10539",
+      "display_name": "Sustainable Supply Chain Management",
+      "value": 0.0018536,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12722",
+      "display_name": "Innovation Policy and R&D",
+      "value": 0.001838,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11864",
+      "display_name": "Supply Chain Resilience and Risk Management",
+      "value": 0.0017182,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11976",
+      "display_name": "Capital Investment and Risk Analysis",
+      "value": 0.0015769,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10672",
+      "display_name": "Design Education and Practice",
+      "value": 0.0012116,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11849",
+      "display_name": "Intellectual Capital and Performance Analysis",
+      "value": 0.0012067,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10763",
+      "display_name": "Digital Transformation in Industry",
+      "value": 0.0011797,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11437",
+      "display_name": "Digital Platforms and Economics",
+      "value": 0.0011135,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10164",
+      "display_name": "Quality and Supply Management",
+      "value": 0.0011105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11912",
+      "display_name": "Outsourcing and Supply Chain Management",
+      "value": 0.0010594,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12028",
+      "display_name": "Knowledge Management and Sharing",
+      "value": 0.0010423,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11572",
+      "display_name": "Information Technology Governance and Strategy",
+      "value": 0.0010374,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11891",
+      "display_name": "Big Data and Business Intelligence",
+      "value": 0.0010308,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10050",
+      "display_name": "Multi-Criteria Decision Making",
+      "value": 0.0009915,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13276",
+      "display_name": "University-Industry-Government Innovation Models",
+      "value": 0.0009673,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "works_count": 67,
+      "oa_works_count": 3,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "works_count": 355,
+      "oa_works_count": 34,
+      "cited_by_count": 759
+    },
+    {
+      "year": 2024,
+      "works_count": 357,
+      "oa_works_count": 64,
+      "cited_by_count": 3308
+    },
+    {
+      "year": 2023,
+      "works_count": 456,
+      "oa_works_count": 152,
+      "cited_by_count": 5981
+    },
+    {
+      "year": 2022,
+      "works_count": 401,
+      "oa_works_count": 127,
+      "cited_by_count": 8140
+    },
+    {
+      "year": 2021,
+      "works_count": 376,
+      "oa_works_count": 115,
+      "cited_by_count": 10369
+    },
+    {
+      "year": 2020,
+      "works_count": 341,
+      "oa_works_count": 99,
+      "cited_by_count": 11252
+    },
+    {
+      "year": 2019,
+      "works_count": 227,
+      "oa_works_count": 64,
+      "cited_by_count": 7853
+    },
+    {
+      "year": 2018,
+      "works_count": 149,
+      "oa_works_count": 51,
+      "cited_by_count": 3261
+    },
+    {
+      "year": 2017,
+      "works_count": 104,
+      "oa_works_count": 17,
+      "cited_by_count": 2837
+    },
+    {
+      "year": 2016,
+      "works_count": 72,
+      "oa_works_count": 7,
+      "cited_by_count": 1336
+    },
+    {
+      "year": 2015,
+      "works_count": 85,
+      "oa_works_count": 14,
+      "cited_by_count": 2301
+    },
+    {
+      "year": 2014,
+      "works_count": 91,
+      "oa_works_count": 28,
+      "cited_by_count": 1675
+    },
+    {
+      "year": 2013,
+      "works_count": 83,
+      "oa_works_count": 22,
+      "cited_by_count": 1629
+    },
+    {
+      "year": 2012,
+      "works_count": 91,
+      "oa_works_count": 6,
+      "cited_by_count": 2521
+    },
+    {
+      "year": 2011,
+      "works_count": 109,
+      "oa_works_count": 5,
+      "cited_by_count": 3845
+    },
+    {
+      "year": 2010,
+      "works_count": 94,
+      "oa_works_count": 4,
+      "cited_by_count": 2352
+    },
+    {
+      "year": 2009,
+      "works_count": 120,
+      "oa_works_count": 3,
+      "cited_by_count": 3801
+    },
+    {
+      "year": 2008,
+      "works_count": 108,
+      "oa_works_count": 5,
+      "cited_by_count": 4251
+    },
+    {
+      "year": 2007,
+      "works_count": 118,
+      "oa_works_count": 4,
+      "cited_by_count": 4644
+    },
+    {
+      "year": 2006,
+      "works_count": 92,
+      "oa_works_count": 4,
+      "cited_by_count": 4422
+    },
+    {
+      "year": 2005,
+      "works_count": 94,
+      "oa_works_count": 0,
+      "cited_by_count": 4498
+    },
+    {
+      "year": 2004,
+      "works_count": 103,
+      "oa_works_count": 3,
+      "cited_by_count": 3467
+    },
+    {
+      "year": 2003,
+      "works_count": 52,
+      "oa_works_count": 6,
+      "cited_by_count": 4652
+    },
+    {
+      "year": 2002,
+      "works_count": 45,
+      "oa_works_count": 0,
+      "cited_by_count": 4934
+    },
+    {
+      "year": 2001,
+      "works_count": 52,
+      "oa_works_count": 0,
+      "cited_by_count": 5159
+    },
+    {
+      "year": 2000,
+      "works_count": 45,
+      "oa_works_count": 0,
+      "cited_by_count": 3293
+    },
+    {
+      "year": 1999,
+      "works_count": 39,
+      "oa_works_count": 1,
+      "cited_by_count": 1915
+    },
+    {
+      "year": 1998,
+      "works_count": 45,
+      "oa_works_count": 0,
+      "cited_by_count": 1611
+    },
+    {
+      "year": 1997,
+      "works_count": 46,
+      "oa_works_count": 2,
+      "cited_by_count": 2423
+    },
+    {
+      "year": 1996,
+      "works_count": 41,
+      "oa_works_count": 0,
+      "cited_by_count": 2350
+    },
+    {
+      "year": 1995,
+      "works_count": 45,
+      "oa_works_count": 1,
+      "cited_by_count": 2966
+    },
+    {
+      "year": 1994,
+      "works_count": 44,
+      "oa_works_count": 0,
+      "cited_by_count": 1628
+    },
+    {
+      "year": 1993,
+      "works_count": 42,
+      "oa_works_count": 0,
+      "cited_by_count": 1278
+    },
+    {
+      "year": 1992,
+      "works_count": 41,
+      "oa_works_count": 0,
+      "cited_by_count": 1670
+    },
+    {
+      "year": 1991,
+      "works_count": 37,
+      "oa_works_count": 0,
+      "cited_by_count": 1600
+    },
+    {
+      "year": 1990,
+      "works_count": 35,
+      "oa_works_count": 1,
+      "cited_by_count": 1602
+    },
+    {
+      "year": 1989,
+      "works_count": 32,
+      "oa_works_count": 1,
+      "cited_by_count": 1479
+    },
+    {
+      "year": 1988,
+      "works_count": 28,
+      "oa_works_count": 2,
+      "cited_by_count": 1168
+    },
+    {
+      "year": 1987,
+      "works_count": 74,
+      "oa_works_count": 32,
+      "cited_by_count": 2418
+    },
+    {
+      "year": 1986,
+      "works_count": 68,
+      "oa_works_count": 1,
+      "cited_by_count": 660
+    },
+    {
+      "year": 1985,
+      "works_count": 58,
+      "oa_works_count": 0,
+      "cited_by_count": 663
+    },
+    {
+      "year": 1984,
+      "works_count": 62,
+      "oa_works_count": 0,
+      "cited_by_count": 1270
+    },
+    {
+      "year": 1983,
+      "works_count": 59,
+      "oa_works_count": 1,
+      "cited_by_count": 1290
+    },
+    {
+      "year": 1982,
+      "works_count": 51,
+      "oa_works_count": 0,
+      "cited_by_count": 3494
+    },
+    {
+      "year": 1981,
+      "works_count": 46,
+      "oa_works_count": 3,
+      "cited_by_count": 2005
+    },
+    {
+      "year": 1980,
+      "works_count": 52,
+      "oa_works_count": 0,
+      "cited_by_count": 805
+    },
+    {
+      "year": 1979,
+      "works_count": 44,
+      "oa_works_count": 0,
+      "cited_by_count": 204
+    },
+    {
+      "year": 1978,
+      "works_count": 41,
+      "oa_works_count": 0,
+      "cited_by_count": 450
+    },
+    {
+      "year": 1977,
+      "works_count": 51,
+      "oa_works_count": 1,
+      "cited_by_count": 406
+    },
+    {
+      "year": 1976,
+      "works_count": 46,
+      "oa_works_count": 0,
+      "cited_by_count": 454
+    },
+    {
+      "year": 1975,
+      "works_count": 49,
+      "oa_works_count": 0,
+      "cited_by_count": 330
+    },
+    {
+      "year": 1974,
+      "works_count": 49,
+      "oa_works_count": 0,
+      "cited_by_count": 284
+    },
+    {
+      "year": 1973,
+      "works_count": 44,
+      "oa_works_count": 0,
+      "cited_by_count": 194
+    },
+    {
+      "year": 1972,
+      "works_count": 41,
+      "oa_works_count": 0,
+      "cited_by_count": 55
+    },
+    {
+      "year": 1971,
+      "works_count": 36,
+      "oa_works_count": 0,
+      "cited_by_count": 513
+    },
+    {
+      "year": 1970,
+      "works_count": 36,
+      "oa_works_count": 0,
+      "cited_by_count": 158
+    },
+    {
+      "year": 1969,
+      "works_count": 44,
+      "oa_works_count": 0,
+      "cited_by_count": 262
+    },
+    {
+      "year": 1968,
+      "works_count": 39,
+      "oa_works_count": 0,
+      "cited_by_count": 176
+    },
+    {
+      "year": 1967,
+      "works_count": 45,
+      "oa_works_count": 0,
+      "cited_by_count": 427
+    },
+    {
+      "year": 1966,
+      "works_count": 37,
+      "oa_works_count": 1,
+      "cited_by_count": 160
+    },
+    {
+      "year": 1965,
+      "works_count": 42,
+      "oa_works_count": 2,
+      "cited_by_count": 145
+    },
+    {
+      "year": 1964,
+      "works_count": 42,
+      "oa_works_count": 0,
+      "cited_by_count": 263
+    },
+    {
+      "year": 1963,
+      "works_count": 44,
+      "oa_works_count": 0,
+      "cited_by_count": 110
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=primary_location.source.id:S154533451",
+  "updated_date": "2026-03-02T20:52:56",
+  "created_date": "2016-06-24T00:00:00"
+}

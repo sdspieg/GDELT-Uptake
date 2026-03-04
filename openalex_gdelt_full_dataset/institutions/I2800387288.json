@@ -1,0 +1,1265 @@
+{
+  "id": "https://openalex.org/I2800387288",
+  "ror": "https://ror.org/00k4n6c32",
+  "display_name": "European Commission",
+  "country_code": "BE",
+  "type": "government",
+  "type_id": "https://openalex.org/institution-types/government",
+  "lineage": [
+    "https://openalex.org/I1320481043",
+    "https://openalex.org/I2800387288"
+  ],
+  "homepage_url": "https://commission.europa.eu/index_en",
+  "image_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/European%20Commission.svg",
+  "image_thumbnail_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/European%20Commission.svg&width=300",
+  "display_name_acronyms": [
+    "EC"
+  ],
+  "display_name_alternatives": [
+    "Commission européenne",
+    "European Commission",
+    "Europese Commissie",
+    "Europäische Kommission"
+  ],
+  "repositories": [
+    {
+      "id": "https://openalex.org/S4306401126",
+      "display_name": "Joint Research Centre (European Commission)",
+      "host_organization": "https://openalex.org/I2800387288",
+      "host_organization_name": "European Commission",
+      "host_organization_lineage": [
+        "https://openalex.org/I2800387288"
+      ]
+    }
+  ],
+  "works_count": 16268,
+  "cited_by_count": 665809,
+  "summary_stats": {
+    "2yr_mean_citedness": 2.1658201374365103,
+    "h_index": 286,
+    "i10_index": 9805
+  },
+  "ids": {
+    "openalex": "https://openalex.org/I2800387288",
+    "ror": "https://ror.org/00k4n6c32",
+    "grid": "grid.270680.b",
+    "wikipedia": "https://en.wikipedia.org/wiki/European_Commission",
+    "wikidata": "Q8880"
+  },
+  "geo": {
+    "city": "Brussels",
+    "geonames_city_id": "2800866",
+    "region": "Brussels Capital",
+    "country_code": "BE",
+    "country": "Belgium",
+    "latitude": 50.85045,
+    "longitude": 4.34878
+  },
+  "international": {},
+  "associated_institutions": [
+    {
+      "id": "https://openalex.org/I1320481043",
+      "ror": "https://ror.org/019w4f821",
+      "display_name": "European Union",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "parent"
+    },
+    {
+      "id": "https://openalex.org/I1339201920",
+      "ror": "https://ror.org/033d3q980",
+      "display_name": "Eurostat",
+      "country_code": "LU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2800534741",
+      "ror": "https://ror.org/04gkw9q47",
+      "display_name": "Directorate-General for Energy",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2800809652",
+      "ror": "https://ror.org/020v07z27",
+      "display_name": "Directorate-General for Economic and Financial Affairs",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2801350356",
+      "ror": "https://ror.org/0472cxd90",
+      "display_name": "European Research Council",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2801397489",
+      "ror": "https://ror.org/0399w1j22",
+      "display_name": "Directorate-General for Health and Food Safety",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2801658071",
+      "ror": "https://ror.org/04h8m0888",
+      "display_name": "Directorate-General for Trade",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2801857084",
+      "ror": "https://ror.org/026rh8977",
+      "display_name": "Directorate-General for Taxation and Customs Union",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2802128111",
+      "ror": "https://ror.org/04m4a9x26",
+      "display_name": "Directorate-General for Maritime Affairs and Fisheries",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2802296230",
+      "ror": "https://ror.org/050zqsm78",
+      "display_name": "Directorate-General for International Cooperation and Development",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2802993344",
+      "ror": "https://ror.org/01ef4as46",
+      "display_name": "Directorate-General for Research and Innovation",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2898722043",
+      "ror": "https://ror.org/046epvs68",
+      "display_name": "Directorate-General for Justice and Consumers",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210090408",
+      "ror": "https://ror.org/00941sb79",
+      "display_name": "Directorate-General for Neighbourhood and Enlargement Negotiations",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096480",
+      "ror": "https://ror.org/00w9hey63",
+      "display_name": "Directorate General for Communications Networks, Content and Technology",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210124484",
+      "ror": "https://ror.org/03728bb41",
+      "display_name": "Directorate-General for Interpretation",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210154474",
+      "ror": "https://ror.org/0481qb682",
+      "display_name": "Directorate-General for Education, Youth, Sport and Culture",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210161702",
+      "ror": "https://ror.org/04j5wtv36",
+      "display_name": "Directorate-General Joint Research Centre",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154030",
+      "ror": "https://ror.org/03fcabp80",
+      "display_name": "European Climate, Infrastructure and Environment Executive Agency",
+      "country_code": null,
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154735",
+      "ror": "https://ror.org/01qanyf14",
+      "display_name": "Directorate-General for Employment, Social Affairs and Inclusion",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155327",
+      "ror": "https://ror.org/02qc43v06",
+      "display_name": "Directorate-General for Migration and Home Affairs",
+      "country_code": null,
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155652",
+      "ror": "https://ror.org/00r7apq26",
+      "display_name": "ERN Board of Member States",
+      "country_code": null,
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256231",
+      "ror": "https://ror.org/03xxypa75",
+      "display_name": "European Health and Digital Executive Agency",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257548",
+      "ror": "https://ror.org/05cx8cy07",
+      "display_name": "European Innovation Council",
+      "country_code": "BE",
+      "type": "nonprofit",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259364",
+      "ror": "https://ror.org/024fg8t29",
+      "display_name": "Interreg Vlaanderen-Nederland",
+      "country_code": "BE",
+      "type": "funder",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405261648",
+      "ror": "https://ror.org/05mkt9r11",
+      "display_name": "European Research Executive Agency",
+      "country_code": "BE",
+      "type": "government",
+      "relationship": "child"
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "works_count": 123,
+      "oa_works_count": 102,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2025,
+      "works_count": 989,
+      "oa_works_count": 850,
+      "cited_by_count": 1218
+    },
+    {
+      "year": 2024,
+      "works_count": 802,
+      "oa_works_count": 715,
+      "cited_by_count": 3097
+    },
+    {
+      "year": 2023,
+      "works_count": 773,
+      "oa_works_count": 650,
+      "cited_by_count": 7282
+    },
+    {
+      "year": 2022,
+      "works_count": 765,
+      "oa_works_count": 627,
+      "cited_by_count": 7108
+    },
+    {
+      "year": 2021,
+      "works_count": 748,
+      "oa_works_count": 584,
+      "cited_by_count": 9886
+    },
+    {
+      "year": 2020,
+      "works_count": 978,
+      "oa_works_count": 783,
+      "cited_by_count": 13119
+    },
+    {
+      "year": 2019,
+      "works_count": 762,
+      "oa_works_count": 528,
+      "cited_by_count": 12410
+    },
+    {
+      "year": 2018,
+      "works_count": 608,
+      "oa_works_count": 388,
+      "cited_by_count": 13600
+    },
+    {
+      "year": 2017,
+      "works_count": 726,
+      "oa_works_count": 430,
+      "cited_by_count": 24447
+    },
+    {
+      "year": 2016,
+      "works_count": 578,
+      "oa_works_count": 320,
+      "cited_by_count": 18018
+    },
+    {
+      "year": 2015,
+      "works_count": 594,
+      "oa_works_count": 333,
+      "cited_by_count": 15440
+    },
+    {
+      "year": 2014,
+      "works_count": 631,
+      "oa_works_count": 340,
+      "cited_by_count": 10393
+    },
+    {
+      "year": 2013,
+      "works_count": 498,
+      "oa_works_count": 200,
+      "cited_by_count": 15300
+    },
+    {
+      "year": 2012,
+      "works_count": 542,
+      "oa_works_count": 185,
+      "cited_by_count": 29937
+    },
+    {
+      "year": 2011,
+      "works_count": 578,
+      "oa_works_count": 236,
+      "cited_by_count": 19075
+    },
+    {
+      "year": 2010,
+      "works_count": 622,
+      "oa_works_count": 270,
+      "cited_by_count": 14071
+    }
+  ],
+  "roles": [
+    {
+      "role": "funder",
+      "id": "https://openalex.org/F4320320300",
+      "works_count": 585309
+    },
+    {
+      "role": "institution",
+      "id": "https://openalex.org/I2800387288",
+      "works_count": 16268
+    },
+    {
+      "role": "publisher",
+      "id": "https://openalex.org/P4310321968",
+      "works_count": 2216
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11949",
+      "display_name": "Nuclear Physics and Applications",
+      "count": 748,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10597",
+      "display_name": "Nuclear reactor physics and engineering",
+      "count": 588,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14448",
+      "display_name": "EU Law and Policy Analysis",
+      "count": 537,
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13710",
+      "display_name": "European and International Law Studies",
+      "count": 468,
+      "score": 0.9972000122070312,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12961",
+      "display_name": "Regional Development and Policy",
+      "count": 436,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14030",
+      "display_name": "Taxation and Legal Issues",
+      "count": 373,
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10128",
+      "display_name": "Global trade and economics",
+      "count": 341,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10093",
+      "display_name": "Nuclear physics research studies",
+      "count": 308,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10007",
+      "display_name": "Monetary Policy and Economic Impact",
+      "count": 299,
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11423",
+      "display_name": "Pesticide Residue Analysis and Safety",
+      "count": 291,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1106",
+        "display_name": "Food Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11770",
+      "display_name": "Fiscal Policy and Economic Growth",
+      "count": 291,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10503",
+      "display_name": "Global Financial Crisis and Policies",
+      "count": 262,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10289",
+      "display_name": "European Union Policy and Governance",
+      "count": 260,
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11890",
+      "display_name": "Scientific Measurement and Uncertainty Evaluation",
+      "count": 252,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10471",
+      "display_name": "Climate Change Policy and Economics",
+      "count": 251,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10180",
+      "display_name": "Analytical chemistry methods development",
+      "count": 250,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1602",
+        "display_name": "Analytical Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11043",
+      "display_name": "Merger and Competition Analysis",
+      "count": 249,
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11621",
+      "display_name": "Fiscal Policies and Political Economy",
+      "count": 247,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11242",
+      "display_name": "Nuclear Materials and Properties",
+      "count": 246,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14102",
+      "display_name": "Corporate Governance and Law",
+      "count": 226,
+      "score": 0.9980999827384949,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10946",
+      "display_name": "Radioactivity and Radon Measurements",
+      "count": 223,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3614",
+        "display_name": "Radiological and Ultrasound Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11216",
+      "display_name": "Radiation Detection and Scintillator Technologies",
+      "count": 217,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11089",
+      "display_name": "Radioactive contamination and transfer",
+      "count": 216,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13414",
+      "display_name": "Radioactive Decay and Measurement Techniques",
+      "count": 197,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10435",
+      "display_name": "Environmental Impact and Sustainability",
+      "count": 191,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14448",
+      "display_name": "EU Law and Policy Analysis",
+      "value": 0.0220371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14030",
+      "display_name": "Taxation and Legal Issues",
+      "value": 0.0070878,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12961",
+      "display_name": "Regional Development and Policy",
+      "value": 0.0061694,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14166",
+      "display_name": "European Monetary and Fiscal Policies",
+      "value": 0.0057909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13916",
+      "display_name": "Environmental Policies and Emissions",
+      "value": 0.0049297,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2310",
+        "display_name": "Pollution"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13414",
+      "display_name": "Radioactive Decay and Measurement Techniques",
+      "value": 0.0044705,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13710",
+      "display_name": "European and International Law Studies",
+      "value": 0.0042601,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13165",
+      "display_name": "Agricultural safety and regulations",
+      "value": 0.0041589,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1106",
+        "display_name": "Food Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11621",
+      "display_name": "Fiscal Policies and Political Economy",
+      "value": 0.0040294,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11043",
+      "display_name": "Merger and Competition Analysis",
+      "value": 0.003992,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11423",
+      "display_name": "Pesticide Residue Analysis and Safety",
+      "value": 0.0034399,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1106",
+        "display_name": "Food Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10289",
+      "display_name": "European Union Policy and Governance",
+      "value": 0.0034359,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10597",
+      "display_name": "Nuclear reactor physics and engineering",
+      "value": 0.0032325,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11890",
+      "display_name": "Scientific Measurement and Uncertainty Evaluation",
+      "value": 0.0032101,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1804",
+        "display_name": "Statistics, Probability and Uncertainty"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12722",
+      "display_name": "Innovation Policy and R&D",
+      "value": 0.0031917,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12156",
+      "display_name": "World Trade Organization Law",
+      "value": 0.0030904,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14102",
+      "display_name": "Corporate Governance and Law",
+      "value": 0.0030195,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13696",
+      "display_name": "Technology's Impact on Media",
+      "value": 0.0027397,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13756",
+      "display_name": "International Environmental Law and Policies",
+      "value": 0.0027355,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13825",
+      "display_name": "Economic Policies and Impacts",
+      "value": 0.0026917,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11426",
+      "display_name": "Genetically Modified Organisms Research",
+      "value": 0.0026687,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11949",
+      "display_name": "Nuclear Physics and Applications",
+      "value": 0.0026555,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3108",
+        "display_name": "Radiation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13240",
+      "display_name": "Bioeconomy and Sustainability Development",
+      "value": 0.0026445,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1100",
+        "display_name": "General Agricultural and Biological Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13146",
+      "display_name": "Sustainable Finance and Green Bonds",
+      "value": 0.0025333,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14094",
+      "display_name": "Italy: Economic History and Contemporary Issues",
+      "value": 0.0025075,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "is_super_system": false,
+  "works_api_url": "https://api.openalex.org/works?filter=institutions.id:I2800387288",
+  "updated_date": "2026-03-03T06:01:00",
+  "created_date": "2018-05-17T00:00:00"
+}

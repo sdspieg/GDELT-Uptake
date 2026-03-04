@@ -1,0 +1,172 @@
+{
+  "id": "https://openalex.org/A5084421006",
+  "orcid": "https://orcid.org/0000-0002-0631-7733",
+  "display_name": "Hee-Jae Jeon",
+  "display_name_alternatives": [
+    "Hee-Jae Jeon"
+  ],
+  "works_count": 1,
+  "cited_by_count": 1,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5084421006",
+    "orcid": "https://orcid.org/0000-0002-0631-7733"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I146496621",
+        "ror": "https://ror.org/05t1bc854",
+        "display_name": "Korea National Defense University",
+        "country_code": "KR",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I146496621"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I146496621",
+      "ror": "https://ror.org/05t1bc854",
+      "display_name": "Korea National Defense University",
+      "country_code": "KR",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I146496621"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T14280",
+      "display_name": "Big Data Technologies and Applications",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14484",
+      "display_name": "Technology and Data Analysis",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14280",
+      "display_name": "Big Data Technologies and Applications",
+      "value": 2.03e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14484",
+      "display_name": "Technology and Data Analysis",
+      "value": 9.9e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "201960208",
+      "wikidata": "https://www.wikidata.org/wiki/Q159385",
+      "display_name": "Geopolitics",
+      "score": 0.9173294305801392
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.3144899606704712
+    },
+    {
+      "id": "124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "score": 0.20520925521850586
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.14909249544143677
+    },
+    {
+      "id": "136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "score": 0.0
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "Hee-Jae Jeon",
+  "parsed_longest_name": {
+    "first": "hee-jae",
+    "middle": "",
+    "last": "jeon",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "h jeon",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084421006",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2022-12-27T00:00:00"
+}

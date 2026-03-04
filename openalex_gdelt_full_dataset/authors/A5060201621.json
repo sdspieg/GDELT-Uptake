@@ -1,0 +1,302 @@
+{
+  "id": "https://openalex.org/A5060201621",
+  "orcid": "https://orcid.org/0000-0002-0335-1653",
+  "display_name": "An Hu",
+  "display_name_alternatives": [
+    "An Hu"
+  ],
+  "works_count": 5,
+  "cited_by_count": 50,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 4,
+    "i10_index": 2
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5060201621",
+    "orcid": "https://orcid.org/0000-0002-0335-1653"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I4403386539",
+        "ror": "https://ror.org/0549ke970",
+        "display_name": "Software Engineering Institute of Guangzhou",
+        "country_code": null,
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4403386539"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I86519309",
+        "ror": "https://ror.org/00hj54h04",
+        "display_name": "The University of Texas at Austin",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I86519309"
+        ]
+      },
+      "years": [
+        2023,
+        2022
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I4403386539",
+      "ror": "https://ror.org/0549ke970",
+      "display_name": "Software Engineering Institute of Guangzhou",
+      "country_code": null,
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I4403386539"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10070",
+      "display_name": "Political Conflict and Governance",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11045",
+      "display_name": "Privacy, Security, and Data Protection",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12943",
+      "display_name": "COVID-19 Digital Contact Tracing",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11446",
+      "display_name": "Mobile Health and mHealth Applications",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11492",
+      "display_name": "Academic integrity and plagiarism",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12943",
+      "display_name": "COVID-19 Digital Contact Tracing",
+      "value": 0.0001187,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11492",
+      "display_name": "Academic integrity and plagiarism",
+      "value": 2.64e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10070",
+      "display_name": "Political Conflict and Governance",
+      "value": 2.1e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12785",
+      "display_name": "Hong Kong and Taiwan Politics",
+      "value": 1.75e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11045",
+      "display_name": "Privacy, Security, and Data Protection",
+      "value": 1.71e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.5615010261535645
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.42887288331985474
+    },
+    {
+      "id": "94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "score": 0.19966557621955872
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.1583549976348877
+    },
+    {
+      "id": "138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "score": 0.0
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 43
+    },
+    {
+      "year": 2023,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "An Hu",
+  "parsed_longest_name": {
+    "first": "an",
+    "middle": "",
+    "last": "hu",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "a hu",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5060201621",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

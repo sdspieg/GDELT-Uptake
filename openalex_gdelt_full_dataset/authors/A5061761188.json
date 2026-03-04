@@ -1,0 +1,333 @@
+{
+  "id": "https://openalex.org/A5061761188",
+  "orcid": null,
+  "display_name": "Shannon M. Fast",
+  "display_name_alternatives": [
+    "Shannon Fast",
+    "Shannon M. Fast"
+  ],
+  "works_count": 9,
+  "cited_by_count": 280,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 6,
+    "i10_index": 6
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5061761188",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1343143571",
+        "ror": "https://ror.org/04378d909",
+        "display_name": "Draper Laboratory",
+        "country_code": "US",
+        "type": "funder",
+        "lineage": [
+          "https://openalex.org/I1343143571"
+        ]
+      },
+      "years": [
+        2019,
+        2017,
+        2015,
+        2013
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210143601",
+        "ror": "https://ror.org/0434dpa13",
+        "display_name": "Decision Systems (United States)",
+        "country_code": "US",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210143601"
+        ]
+      },
+      "years": [
+        2017
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I63966007",
+        "ror": "https://ror.org/042nb2s44",
+        "display_name": "Massachusetts Institute of Technology",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I63966007"
+        ]
+      },
+      "years": [
+        2015,
+        2013
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I1343143571",
+      "ror": "https://ror.org/04378d909",
+      "display_name": "Draper Laboratory",
+      "country_code": "US",
+      "type": "funder",
+      "lineage": [
+        "https://openalex.org/I1343143571"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10410",
+      "display_name": "COVID-19 epidemiological studies",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2611",
+        "display_name": "Modeling and Simulation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10064",
+      "display_name": "Complex Network Analysis Techniques",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11147",
+      "display_name": "Misinformation and Its Impacts",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11581",
+      "display_name": "Viral Infections and Outbreaks Research",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12592",
+      "display_name": "Opinion Dynamics and Social Influence",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10410",
+      "display_name": "COVID-19 epidemiological studies",
+      "value": 4.72e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2611",
+        "display_name": "Modeling and Simulation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11581",
+      "display_name": "Viral Infections and Outbreaks Research",
+      "value": 2.91e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11147",
+      "display_name": "Misinformation and Its Impacts",
+      "value": 2.4e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12592",
+      "display_name": "Opinion Dynamics and Social Influence",
+      "value": 2.23e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10064",
+      "display_name": "Complex Network Analysis Techniques",
+      "value": 1.52e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "116675565",
+      "wikidata": "https://www.wikidata.org/wiki/Q3241045",
+      "display_name": "Outbreak",
+      "score": 0.8847975730895996
+    },
+    {
+      "id": "2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "score": 0.7092748284339905
+    },
+    {
+      "id": "524204448",
+      "wikidata": "https://www.wikidata.org/wiki/Q788926",
+      "display_name": "Infectious disease (medical specialty)",
+      "score": 0.5937735438346863
+    },
+    {
+      "id": "71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "score": 0.40370574593544006
+    },
+    {
+      "id": "159047783",
+      "wikidata": "https://www.wikidata.org/wiki/Q7215",
+      "display_name": "Virology",
+      "score": 0.26069116592407227
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2013,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2014,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2015,
+      "works_count": 4,
+      "oa_works_count": 3,
+      "cited_by_count": 117
+    },
+    {
+      "year": 2017,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2019,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 115
+    }
+  ],
+  "longest_name": "Shannon M. Fast",
+  "parsed_longest_name": {
+    "first": "shannon",
+    "middle": "m",
+    "last": "fast",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "s fast",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5061761188",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

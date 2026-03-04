@@ -1,0 +1,386 @@
+{
+  "id": "https://openalex.org/A5082496765",
+  "orcid": "https://orcid.org/0000-0002-5587-7075",
+  "display_name": "Julian Walterskirchen",
+  "display_name_alternatives": [
+    "Julian Walterskirchen",
+    "Walterskirchen, Julian"
+  ],
+  "works_count": 24,
+  "cited_by_count": 38,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.6363636363636364,
+    "h_index": 3,
+    "i10_index": 1
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5082496765",
+    "orcid": "https://orcid.org/0000-0002-5587-7075"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I190249584",
+        "ror": "https://ror.org/054pv6659",
+        "display_name": "Universität Innsbruck",
+        "country_code": "AT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I190249584"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I40527276",
+        "ror": "https://ror.org/05kkv3f82",
+        "display_name": "Universität der Bundeswehr München",
+        "country_code": "DE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I1315109972",
+          "https://openalex.org/I40527276",
+          "https://openalex.org/I4387152969"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210156192",
+        "ror": "https://ror.org/055mrxn09",
+        "display_name": "Early Warning (United States)",
+        "country_code": "US",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210156192"
+        ]
+      },
+      "years": [
+        2025,
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I52099693",
+        "ror": "https://ror.org/04m01e293",
+        "display_name": "University of York",
+        "country_code": "GB",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I52099693"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I60419261",
+        "ror": "https://ror.org/04dx54y73",
+        "display_name": "Peace Research Institute Oslo",
+        "country_code": "NO",
+        "type": "other",
+        "lineage": [
+          "https://openalex.org/I60419261"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I881427289",
+        "ror": "https://ror.org/01tm6cn81",
+        "display_name": "University of Gothenburg",
+        "country_code": "SE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I881427289"
+        ]
+      },
+      "years": [
+        2026
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I881427289",
+      "ror": "https://ror.org/01tm6cn81",
+      "display_name": "University of Gothenburg",
+      "country_code": "SE",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I881427289"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T13007",
+      "display_name": "Economic Sanctions and International Relations",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10994",
+      "display_name": "Terrorism, Counterterrorism, and Political Violence",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11121",
+      "display_name": "Public Relations and Crisis Communication",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11512",
+      "display_name": "Anomaly Detection Techniques and Applications",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13349",
+      "display_name": "Educational Research and Analysis",
+      "value": 0.0001284,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13007",
+      "display_name": "Economic Sanctions and International Relations",
+      "value": 0.0001,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13910",
+      "display_name": "Computational and Text Analysis Methods",
+      "value": 4.87e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3300",
+        "display_name": "General Social Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11121",
+      "display_name": "Public Relations and Crisis Communication",
+      "value": 3.41e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10994",
+      "display_name": "Terrorism, Counterterrorism, and Political Violence",
+      "value": 2.95e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.8365112543106079
+    },
+    {
+      "id": "154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "score": 0.7539637684822083
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.6377704739570618
+    },
+    {
+      "id": "94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "score": 0.6137629747390747
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.21304923295974731
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2019,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "works_count": 9,
+      "oa_works_count": 1,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2023,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2024,
+      "works_count": 5,
+      "oa_works_count": 5,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "works_count": 5,
+      "oa_works_count": 5,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2026,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Walterskirchen, Julian",
+  "parsed_longest_name": {
+    "first": "julian",
+    "middle": "",
+    "last": "walterskirchen",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "j walterskirchen",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5082496765",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2019-12-26T00:00:00"
+}

@@ -1,0 +1,546 @@
+{
+  "id": "https://openalex.org/A5050467922",
+  "orcid": null,
+  "display_name": "Pascal Poupart",
+  "display_name_alternatives": [
+    "Ghodsi, Ali",
+    "Hennig, Philipp",
+    "Kyle Hollins Wray",
+    "Luo, Jun",
+    "P. Poupart",
+    "Pascal Poupart",
+    "Poupart, P.",
+    "Poupart, Pacal",
+    "Poupart, Pascal"
+  ],
+  "works_count": 243,
+  "cited_by_count": 5483,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.7857142857142857,
+    "h_index": 38,
+    "i10_index": 92
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5050467922",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I141945490",
+        "ror": "https://ror.org/03rmrcq20",
+        "display_name": "University of British Columbia",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I141945490"
+        ]
+      },
+      "years": [
+        2013
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I151746483",
+        "ror": "https://ror.org/01aff2v68",
+        "display_name": "University of Waterloo",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I151746483"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2006,
+        2005
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I185261750",
+        "ror": "https://ror.org/03dbr7087",
+        "display_name": "University of Toronto",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I185261750"
+        ]
+      },
+      "years": [
+        2013,
+        2005,
+        2004,
+        2003,
+        2002,
+        2001
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210127509",
+        "ror": "https://ror.org/03kqdja62",
+        "display_name": "Vector Institute",
+        "country_code": "CA",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I4210127509"
+        ]
+      },
+      "years": [
+        2024,
+        2023,
+        2022,
+        2020,
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210159102",
+        "ror": "https://ror.org/0500fyd17",
+        "display_name": "Huawei Technologies (Sweden)",
+        "country_code": "SE",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I2250955327",
+          "https://openalex.org/I4210159102"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210162562",
+        "ror": "https://ror.org/05eat3g39",
+        "display_name": "Borealis (Austria)",
+        "country_code": "AT",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210162562"
+        ]
+      },
+      "years": [
+        2020,
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I84117484",
+        "ror": "https://ror.org/0561z3j45",
+        "display_name": "Collège Boréal",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I84117484"
+        ]
+      },
+      "years": [
+        2020
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I151746483",
+      "ror": "https://ror.org/01aff2v68",
+      "display_name": "University of Waterloo",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I151746483"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10462",
+      "display_name": "Reinforcement Learning in Robotics",
+      "count": 52,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "count": 44,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11303",
+      "display_name": "Bayesian Modeling and Causal Inference",
+      "count": 44,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques",
+      "count": 26,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12072",
+      "display_name": "Machine Learning and Algorithms",
+      "count": 23,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10462",
+      "display_name": "Reinforcement Learning in Robotics",
+      "value": 0.0006074,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11303",
+      "display_name": "Bayesian Modeling and Causal Inference",
+      "value": 0.0004665,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12814",
+      "display_name": "Gaussian Processes and Bayesian Inference",
+      "value": 0.0002984,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12101",
+      "display_name": "Advanced Bandit Algorithms Research",
+      "value": 0.0002826,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12072",
+      "display_name": "Machine Learning and Algorithms",
+      "value": 0.0002775,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.8801010251045227
+    },
+    {
+      "id": "154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "score": 0.7816089391708374
+    },
+    {
+      "id": "33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "score": 0.7735531330108643
+    },
+    {
+      "id": "119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "score": 0.6924827694892883
+    },
+    {
+      "id": "105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "score": 0.31277185678482056
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2001,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2002,
+      "works_count": 4,
+      "oa_works_count": 0,
+      "cited_by_count": 172
+    },
+    {
+      "year": 2003,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 184
+    },
+    {
+      "year": 2004,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 64
+    },
+    {
+      "year": 2005,
+      "works_count": 7,
+      "oa_works_count": 1,
+      "cited_by_count": 639
+    },
+    {
+      "year": 2006,
+      "works_count": 7,
+      "oa_works_count": 2,
+      "cited_by_count": 994
+    },
+    {
+      "year": 2007,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 33
+    },
+    {
+      "year": 2008,
+      "works_count": 7,
+      "oa_works_count": 1,
+      "cited_by_count": 242
+    },
+    {
+      "year": 2009,
+      "works_count": 6,
+      "oa_works_count": 3,
+      "cited_by_count": 95
+    },
+    {
+      "year": 2010,
+      "works_count": 4,
+      "oa_works_count": 0,
+      "cited_by_count": 237
+    },
+    {
+      "year": 2011,
+      "works_count": 17,
+      "oa_works_count": 1,
+      "cited_by_count": 229
+    },
+    {
+      "year": 2012,
+      "works_count": 13,
+      "oa_works_count": 5,
+      "cited_by_count": 253
+    },
+    {
+      "year": 2013,
+      "works_count": 10,
+      "oa_works_count": 5,
+      "cited_by_count": 230
+    },
+    {
+      "year": 2014,
+      "works_count": 8,
+      "oa_works_count": 3,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2015,
+      "works_count": 11,
+      "oa_works_count": 7,
+      "cited_by_count": 197
+    },
+    {
+      "year": 2016,
+      "works_count": 17,
+      "oa_works_count": 9,
+      "cited_by_count": 451
+    },
+    {
+      "year": 2017,
+      "works_count": 16,
+      "oa_works_count": 11,
+      "cited_by_count": 273
+    },
+    {
+      "year": 2018,
+      "works_count": 14,
+      "oa_works_count": 5,
+      "cited_by_count": 466
+    },
+    {
+      "year": 2019,
+      "works_count": 10,
+      "oa_works_count": 8,
+      "cited_by_count": 344
+    },
+    {
+      "year": 2020,
+      "works_count": 24,
+      "oa_works_count": 19,
+      "cited_by_count": 214
+    },
+    {
+      "year": 2021,
+      "works_count": 13,
+      "oa_works_count": 11,
+      "cited_by_count": 48
+    },
+    {
+      "year": 2022,
+      "works_count": 14,
+      "oa_works_count": 14,
+      "cited_by_count": 47
+    },
+    {
+      "year": 2023,
+      "works_count": 7,
+      "oa_works_count": 7,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "works_count": 14,
+      "oa_works_count": 12,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2025,
+      "works_count": 14,
+      "oa_works_count": 12,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Kyle Hollins Wray",
+  "parsed_longest_name": {
+    "first": "kyle",
+    "middle": "hollins",
+    "last": "wray",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "k wray",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5050467922",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

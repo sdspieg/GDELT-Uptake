@@ -1,0 +1,326 @@
+{
+  "id": "https://openalex.org/A5002981651",
+  "orcid": "https://orcid.org/0000-0001-8850-5545",
+  "display_name": "Farzam Fanitabasi",
+  "display_name_alternatives": [
+    "Fanitabasi, Farzam",
+    "Farzam Fanitabasi"
+  ],
+  "works_count": 16,
+  "cited_by_count": 132,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 4,
+    "i10_index": 3
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5002981651",
+    "orcid": "https://orcid.org/0000-0001-8850-5545"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I133529467",
+        "ror": "https://ror.org/024c2fq17",
+        "display_name": "Sharif University of Technology",
+        "country_code": "IR",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I133529467"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I35440088",
+        "ror": "https://ror.org/05a28rw58",
+        "display_name": "ETH Zurich",
+        "country_code": "CH",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I2799323385",
+          "https://openalex.org/I35440088"
+        ]
+      },
+      "years": [
+        2020,
+        2019,
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I865915315",
+        "ror": "https://ror.org/008xxew50",
+        "display_name": "Vrije Universiteit Amsterdam",
+        "country_code": "NL",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I865915315"
+        ]
+      },
+      "years": [
+        2021
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I865915315",
+      "ror": "https://ror.org/008xxew50",
+      "display_name": "Vrije Universiteit Amsterdam",
+      "country_code": "NL",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I865915315"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10603",
+      "display_name": "Smart Grid Energy Management",
+      "count": 7,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12238",
+      "display_name": "Green IT and Sustainability",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10400",
+      "display_name": "Network Security and Intrusion Detection",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11598",
+      "display_name": "Internet Traffic Analysis and Secure E-voting",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11954",
+      "display_name": "Energy Efficiency and Management",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12238",
+      "display_name": "Green IT and Sustainability",
+      "value": 4.51e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10603",
+      "display_name": "Smart Grid Energy Management",
+      "value": 3.04e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11954",
+      "display_name": "Energy Efficiency and Management",
+      "value": 2.86e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11479",
+      "display_name": "Smart Cities and Technologies",
+      "value": 1.69e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2214",
+        "display_name": "Media Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11598",
+      "display_name": "Internet Traffic Analysis and Secure E-voting",
+      "value": 1.69e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.8505258560180664
+    },
+    {
+      "id": "120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "score": 0.6523517370223999
+    },
+    {
+      "id": "206729178",
+      "wikidata": "https://www.wikidata.org/wiki/Q2271896",
+      "display_name": "Scheduling (production processes)",
+      "score": 0.5638332366943359
+    },
+    {
+      "id": "21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "score": 0.2433464229106903
+    },
+    {
+      "id": "127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "score": 0.20235991477966309
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2018,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2019,
+      "works_count": 6,
+      "oa_works_count": 6,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "works_count": 5,
+      "oa_works_count": 5,
+      "cited_by_count": 33
+    },
+    {
+      "year": 2021,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 83
+    }
+  ],
+  "longest_name": "Fanitabasi, Farzam",
+  "parsed_longest_name": {
+    "first": "farzam",
+    "middle": "",
+    "last": "fanitabasi",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "f fanitabasi",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002981651",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2022-07-28T00:00:00"
+}

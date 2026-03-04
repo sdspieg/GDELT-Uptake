@@ -1,0 +1,584 @@
+{
+  "id": "https://openalex.org/T12928",
+  "display_name": "Education and Cultural Studies",
+  "description": "This cluster of papers covers a wide range of topics related to education, pedagogy, social sciences, and cultural studies in the contemporary context. It includes discussions on lifelong learning, digital innovations in education, media literacy, youth development, ethics, and the impact of globalization on education and society.",
+  "keywords": [
+    "Education",
+    "Social Sciences",
+    "Pedagogy",
+    "Cultural Studies",
+    "Media Literacy",
+    "Youth Development",
+    "Ethics",
+    "Digital Innovations",
+    "Lifelong Learning",
+    "Globalization"
+  ],
+  "ids": {
+    "openalex": "https://openalex.org/T12928",
+    "wikipedia": "https://en.wikipedia.org/wiki/Education_and_society"
+  },
+  "subfield": {
+    "id": "https://openalex.org/subfields/3304",
+    "display_name": "Education"
+  },
+  "field": {
+    "id": "https://openalex.org/fields/33",
+    "display_name": "Social Sciences"
+  },
+  "domain": {
+    "id": "https://openalex.org/domains/2",
+    "display_name": "Social Sciences"
+  },
+  "siblings": [
+    {
+      "id": "https://openalex.org/T10008",
+      "display_name": "Teacher Education and Leadership Studies"
+    },
+    {
+      "id": "https://openalex.org/T10072",
+      "display_name": "Science Education and Pedagogy"
+    },
+    {
+      "id": "https://openalex.org/T10130",
+      "display_name": "Mathematics Education and Teaching Techniques"
+    },
+    {
+      "id": "https://openalex.org/T10162",
+      "display_name": "Online and Blended Learning"
+    },
+    {
+      "id": "https://openalex.org/T10267",
+      "display_name": "Higher Education Research Studies"
+    },
+    {
+      "id": "https://openalex.org/T10437",
+      "display_name": "Educational theories and practices"
+    },
+    {
+      "id": "https://openalex.org/T10457",
+      "display_name": "Education Pedagogy and Practices"
+    },
+    {
+      "id": "https://openalex.org/T10561",
+      "display_name": "Educational Research and Methods"
+    },
+    {
+      "id": "https://openalex.org/T10589",
+      "display_name": "Early Childhood Education and Development"
+    },
+    {
+      "id": "https://openalex.org/T10674",
+      "display_name": "School Choice and Performance"
+    },
+    {
+      "id": "https://openalex.org/T10959",
+      "display_name": "Student Assessment and Feedback"
+    },
+    {
+      "id": "https://openalex.org/T11039",
+      "display_name": "Evaluation of Teaching Practices"
+    },
+    {
+      "id": "https://openalex.org/T11101",
+      "display_name": "Online Learning Methods and Innovations"
+    },
+    {
+      "id": "https://openalex.org/T11299",
+      "display_name": "Problem and Project Based Learning"
+    },
+    {
+      "id": "https://openalex.org/T11526",
+      "display_name": "Innovative Teaching Methods"
+    },
+    {
+      "id": "https://openalex.org/T11676",
+      "display_name": "Parental Involvement in Education"
+    },
+    {
+      "id": "https://openalex.org/T11715",
+      "display_name": "Education and Critical Thinking Development"
+    },
+    {
+      "id": "https://openalex.org/T11779",
+      "display_name": "Higher Education and Employability"
+    },
+    {
+      "id": "https://openalex.org/T11806",
+      "display_name": "Service-Learning and Community Engagement"
+    },
+    {
+      "id": "https://openalex.org/T11835",
+      "display_name": "Sustainability in Higher Education"
+    },
+    {
+      "id": "https://openalex.org/T12021",
+      "display_name": "Social and Educational Sciences"
+    },
+    {
+      "id": "https://openalex.org/T12060",
+      "display_name": "Child Development and Digital Technology"
+    },
+    {
+      "id": "https://openalex.org/T12070",
+      "display_name": "Writing and Handwriting Education"
+    },
+    {
+      "id": "https://openalex.org/T12160",
+      "display_name": "African cultural and philosophical studies"
+    },
+    {
+      "id": "https://openalex.org/T12204",
+      "display_name": "African Education and Politics"
+    },
+    {
+      "id": "https://openalex.org/T12217",
+      "display_name": "Higher Education Teaching and Evaluation"
+    },
+    {
+      "id": "https://openalex.org/T12345",
+      "display_name": "Adult and Continuing Education Topics"
+    },
+    {
+      "id": "https://openalex.org/T12354",
+      "display_name": "Innovations in Educational Methods"
+    },
+    {
+      "id": "https://openalex.org/T12363",
+      "display_name": "Academic Research in Diverse Fields"
+    },
+    {
+      "id": "https://openalex.org/T12474",
+      "display_name": "Education Discipline and Inequality"
+    },
+    {
+      "id": "https://openalex.org/T12500",
+      "display_name": "Reflective Practices in Education"
+    },
+    {
+      "id": "https://openalex.org/T12531",
+      "display_name": "Values and Moral Education"
+    },
+    {
+      "id": "https://openalex.org/T12545",
+      "display_name": "Global Education and Multiculturalism"
+    },
+    {
+      "id": "https://openalex.org/T12556",
+      "display_name": "Educational Methods and Analysis"
+    },
+    {
+      "id": "https://openalex.org/T12590",
+      "display_name": "STEM Education"
+    },
+    {
+      "id": "https://openalex.org/T12591",
+      "display_name": "Inclusive Education and Diversity"
+    },
+    {
+      "id": "https://openalex.org/T12616",
+      "display_name": "Religious Education and Schools"
+    },
+    {
+      "id": "https://openalex.org/T12826",
+      "display_name": "Education Methods and Technologies"
+    },
+    {
+      "id": "https://openalex.org/T12880",
+      "display_name": "Qualitative Research Methods and Applications"
+    },
+    {
+      "id": "https://openalex.org/T12884",
+      "display_name": "Educational Assessment and Pedagogy"
+    },
+    {
+      "id": "https://openalex.org/T12925",
+      "display_name": "Educational and Social Studies"
+    },
+    {
+      "id": "https://openalex.org/T12931",
+      "display_name": "Educational Methods and Outcomes"
+    },
+    {
+      "id": "https://openalex.org/T12950",
+      "display_name": "Educational Environments and Student Outcomes"
+    },
+    {
+      "id": "https://openalex.org/T12952",
+      "display_name": "School Leadership and Teacher Performance"
+    },
+    {
+      "id": "https://openalex.org/T12966",
+      "display_name": "Russian Literature and Bakhtin Studies"
+    },
+    {
+      "id": "https://openalex.org/T12978",
+      "display_name": "Innovative Teaching Methodologies in Social Sciences"
+    },
+    {
+      "id": "https://openalex.org/T12998",
+      "display_name": "Education and Islamic Studies"
+    },
+    {
+      "id": "https://openalex.org/T13040",
+      "display_name": "Gender, Education, and Development Issues"
+    },
+    {
+      "id": "https://openalex.org/T13056",
+      "display_name": "Various Academic Research Studies"
+    },
+    {
+      "id": "https://openalex.org/T13061",
+      "display_name": "Literacy and Educational Practices"
+    },
+    {
+      "id": "https://openalex.org/T13063",
+      "display_name": "Education and experiences of immigrants and refugees"
+    },
+    {
+      "id": "https://openalex.org/T13064",
+      "display_name": "Dutch Social and Cultural Studies"
+    },
+    {
+      "id": "https://openalex.org/T13084",
+      "display_name": "Education during COVID-19 pandemic"
+    },
+    {
+      "id": "https://openalex.org/T13085",
+      "display_name": "Education, Psychology, and Social Research"
+    },
+    {
+      "id": "https://openalex.org/T13117",
+      "display_name": "Health Education and Validation"
+    },
+    {
+      "id": "https://openalex.org/T13131",
+      "display_name": "Collaborative Teaching and Inclusion"
+    },
+    {
+      "id": "https://openalex.org/T13161",
+      "display_name": "Ideological and Political Education"
+    },
+    {
+      "id": "https://openalex.org/T13184",
+      "display_name": "Research in Social Sciences"
+    },
+    {
+      "id": "https://openalex.org/T13207",
+      "display_name": "Youth Substance Use and School Attendance"
+    },
+    {
+      "id": "https://openalex.org/T13273",
+      "display_name": "Knowledge Management in Higher Education"
+    },
+    {
+      "id": "https://openalex.org/T13299",
+      "display_name": "Educational Leadership and Administration"
+    },
+    {
+      "id": "https://openalex.org/T13305",
+      "display_name": "Teacher Professional Development and Motivation"
+    },
+    {
+      "id": "https://openalex.org/T13348",
+      "display_name": "Pancasila Values in Education"
+    },
+    {
+      "id": "https://openalex.org/T13349",
+      "display_name": "Educational Research and Analysis"
+    },
+    {
+      "id": "https://openalex.org/T13351",
+      "display_name": "Critical Theory and Political Philosophy"
+    },
+    {
+      "id": "https://openalex.org/T13368",
+      "display_name": "University Challenges and Reforms"
+    },
+    {
+      "id": "https://openalex.org/T13395",
+      "display_name": "Education, Leadership, and Health Research"
+    },
+    {
+      "id": "https://openalex.org/T13403",
+      "display_name": "Higher Education in Latin America"
+    },
+    {
+      "id": "https://openalex.org/T13412",
+      "display_name": "Education and Technology Integration"
+    },
+    {
+      "id": "https://openalex.org/T13425",
+      "display_name": "Rural and Ethnic Education"
+    },
+    {
+      "id": "https://openalex.org/T13464",
+      "display_name": "Higher Education and Sustainability"
+    },
+    {
+      "id": "https://openalex.org/T13502",
+      "display_name": "Community and Sustainable Development"
+    },
+    {
+      "id": "https://openalex.org/T13532",
+      "display_name": "Education Systems and Policy"
+    },
+    {
+      "id": "https://openalex.org/T13570",
+      "display_name": "Historical Education Studies Worldwide"
+    },
+    {
+      "id": "https://openalex.org/T13594",
+      "display_name": "Healthcare innovation and challenges"
+    },
+    {
+      "id": "https://openalex.org/T13627",
+      "display_name": "Cultural and Educational Studies"
+    },
+    {
+      "id": "https://openalex.org/T13646",
+      "display_name": "Qur’anic Interpretation Studies"
+    },
+    {
+      "id": "https://openalex.org/T13652",
+      "display_name": "Education and Social Development in Ukraine"
+    },
+    {
+      "id": "https://openalex.org/T13658",
+      "display_name": "Education and Professional Development"
+    },
+    {
+      "id": "https://openalex.org/T13662",
+      "display_name": "Qualitative research in health"
+    },
+    {
+      "id": "https://openalex.org/T13701",
+      "display_name": "Psycholinguistics and Behavioral Studies"
+    },
+    {
+      "id": "https://openalex.org/T13709",
+      "display_name": "Education in Diverse Contexts"
+    },
+    {
+      "id": "https://openalex.org/T13737",
+      "display_name": "Critical and Liberation Pedagogy"
+    },
+    {
+      "id": "https://openalex.org/T13774",
+      "display_name": "Citizenship Education and Democracy"
+    },
+    {
+      "id": "https://openalex.org/T13780",
+      "display_name": "Diverse Education Studies and Reforms"
+    },
+    {
+      "id": "https://openalex.org/T13789",
+      "display_name": "Global Education Systems and Policies"
+    },
+    {
+      "id": "https://openalex.org/T13830",
+      "display_name": "Educational Curriculum and Learning Methods"
+    },
+    {
+      "id": "https://openalex.org/T13844",
+      "display_name": "Higher Education Learning Practices"
+    },
+    {
+      "id": "https://openalex.org/T13853",
+      "display_name": "Teacher Education and Assessments"
+    },
+    {
+      "id": "https://openalex.org/T13872",
+      "display_name": "Vocational and Entrepreneurial Education"
+    },
+    {
+      "id": "https://openalex.org/T13884",
+      "display_name": "Educational Leadership and Practices"
+    },
+    {
+      "id": "https://openalex.org/T13895",
+      "display_name": "Educational Leadership and Innovation"
+    },
+    {
+      "id": "https://openalex.org/T13903",
+      "display_name": "Innovative Educational Techniques"
+    },
+    {
+      "id": "https://openalex.org/T13929",
+      "display_name": "Educational Outcomes and Influences"
+    },
+    {
+      "id": "https://openalex.org/T13930",
+      "display_name": "Diverse Education and Engineering Focus"
+    },
+    {
+      "id": "https://openalex.org/T13936",
+      "display_name": "Physical Education and Gymnastics"
+    },
+    {
+      "id": "https://openalex.org/T13952",
+      "display_name": "Information Technology and Learning"
+    },
+    {
+      "id": "https://openalex.org/T13958",
+      "display_name": "Education, Innovation and Language Studies"
+    },
+    {
+      "id": "https://openalex.org/T13978",
+      "display_name": "Foreign Language Teaching Methods"
+    },
+    {
+      "id": "https://openalex.org/T13981",
+      "display_name": "Violence, Education, and Gender Studies"
+    },
+    {
+      "id": "https://openalex.org/T13987",
+      "display_name": "Child Development and Education"
+    },
+    {
+      "id": "https://openalex.org/T14007",
+      "display_name": "Indigenous and Place-Based Education"
+    },
+    {
+      "id": "https://openalex.org/T14033",
+      "display_name": "Education in Rural Contexts"
+    },
+    {
+      "id": "https://openalex.org/T14037",
+      "display_name": "Arabic Language Education Studies"
+    },
+    {
+      "id": "https://openalex.org/T14060",
+      "display_name": "Education and Communication Studies"
+    },
+    {
+      "id": "https://openalex.org/T14061",
+      "display_name": "Educational Practices and Policies"
+    },
+    {
+      "id": "https://openalex.org/T14075",
+      "display_name": "Psychodrama and Leishmaniasis Studies"
+    },
+    {
+      "id": "https://openalex.org/T14095",
+      "display_name": "Literature, Musicology, and Cultural Analysis"
+    },
+    {
+      "id": "https://openalex.org/T14097",
+      "display_name": "Chemistry Education and Research"
+    },
+    {
+      "id": "https://openalex.org/T14122",
+      "display_name": "Impact of Education Environments"
+    },
+    {
+      "id": "https://openalex.org/T14136",
+      "display_name": "Education and Military Integration"
+    },
+    {
+      "id": "https://openalex.org/T14153",
+      "display_name": "Social Development and Education Research"
+    },
+    {
+      "id": "https://openalex.org/T14161",
+      "display_name": "Health and Education Studies"
+    },
+    {
+      "id": "https://openalex.org/T14182",
+      "display_name": "Technology-Enhanced Education Studies"
+    },
+    {
+      "id": "https://openalex.org/T14205",
+      "display_name": "Education and Art Integration"
+    },
+    {
+      "id": "https://openalex.org/T14207",
+      "display_name": "Higher Education Practises and Engagement"
+    },
+    {
+      "id": "https://openalex.org/T14227",
+      "display_name": "Educational Practices and Challenges"
+    },
+    {
+      "id": "https://openalex.org/T14240",
+      "display_name": "E-Learning and COVID-19"
+    },
+    {
+      "id": "https://openalex.org/T14267",
+      "display_name": "Technology in Education and Healthcare"
+    },
+    {
+      "id": "https://openalex.org/T14271",
+      "display_name": "Educational Methods and Psychological Studies"
+    },
+    {
+      "id": "https://openalex.org/T14274",
+      "display_name": "Education and Vocational Training"
+    },
+    {
+      "id": "https://openalex.org/T14277",
+      "display_name": "Social Skills and Education"
+    },
+    {
+      "id": "https://openalex.org/T14283",
+      "display_name": "Diverse Academic Research Areas"
+    },
+    {
+      "id": "https://openalex.org/T14287",
+      "display_name": "Music Education and Analysis"
+    },
+    {
+      "id": "https://openalex.org/T14290",
+      "display_name": "Education Methods and Practices"
+    },
+    {
+      "id": "https://openalex.org/T14376",
+      "display_name": "Science and Education Research"
+    },
+    {
+      "id": "https://openalex.org/T14391",
+      "display_name": "Forest, Soil, and Plant Ecology in China"
+    },
+    {
+      "id": "https://openalex.org/T14421",
+      "display_name": "Educational Philosophies and Pedagogies"
+    },
+    {
+      "id": "https://openalex.org/T14425",
+      "display_name": "Educational Practices and Sociocultural Research"
+    },
+    {
+      "id": "https://openalex.org/T14449",
+      "display_name": "Education and Character Development"
+    },
+    {
+      "id": "https://openalex.org/T14462",
+      "display_name": "Educational Methods and Impacts"
+    },
+    {
+      "id": "https://openalex.org/T14471",
+      "display_name": "Education, Literature, Philosophy Research"
+    },
+    {
+      "id": "https://openalex.org/T14480",
+      "display_name": "Historical Education and Society"
+    },
+    {
+      "id": "https://openalex.org/T14482",
+      "display_name": "Education Practices and Evaluation"
+    },
+    {
+      "id": "https://openalex.org/T14483",
+      "display_name": "Education and Teacher Training"
+    },
+    {
+      "id": "https://openalex.org/T14508",
+      "display_name": "Vocational Education and Training"
+    }
+  ],
+  "works_count": 63551,
+  "cited_by_count": 41824,
+  "works_api_url": "https://api.openalex.org/works?filter=topics.id:T12928",
+  "updated_date": "2026-03-02T03:00:51",
+  "created_date": "2024-01-23T15:27:16"
+}

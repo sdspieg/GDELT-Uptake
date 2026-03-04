@@ -1,0 +1,305 @@
+{
+  "id": "https://openalex.org/A5067674005",
+  "orcid": null,
+  "display_name": "André Rosa De Oliveira",
+  "display_name_alternatives": [
+    "Andre Rosa de Oliveira",
+    "André Rosa De Oliveira",
+    "Colleen Feriod"
+  ],
+  "works_count": 5,
+  "cited_by_count": 1,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5067674005",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I163039527",
+        "ror": "https://ror.org/012mm7y56",
+        "display_name": "Universidade Metodista de São Paulo",
+        "country_code": "BR",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I163039527"
+        ]
+      },
+      "years": [
+        2015
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2800468613",
+        "ror": "https://ror.org/0212h5y77",
+        "display_name": "Inova Fairfax Hospital",
+        "country_code": "US",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I116530498",
+          "https://openalex.org/I2800468613"
+        ]
+      },
+      "years": [
+        2017
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I2800468613",
+      "ror": "https://ror.org/0212h5y77",
+      "display_name": "Inova Fairfax Hospital",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+        "https://openalex.org/I116530498",
+        "https://openalex.org/I2800468613"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T12573",
+      "display_name": "Education and Digital Technologies",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11530",
+      "display_name": "Business and Management Studies",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11937",
+      "display_name": "Research Data Management Practices",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12016",
+      "display_name": "Web Data Mining and Analysis",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12720",
+      "display_name": "Multimedia Communication and Technology",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11937",
+      "display_name": "Research Data Management Practices",
+      "value": 1.09e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12016",
+      "display_name": "Web Data Mining and Analysis",
+      "value": 7.9e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13745",
+      "display_name": "Media and Digital Communication",
+      "value": 7.1e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12573",
+      "display_name": "Education and Digital Technologies",
+      "value": 6.7e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12720",
+      "display_name": "Multimedia Communication and Technology",
+      "value": 6.2e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "score": 0.7379853129386902
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.5211308598518372
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.45710572600364685
+    },
+    {
+      "id": "136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "score": 0.45077773928642273
+    },
+    {
+      "id": "142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "score": 0.23197337985038757
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2015,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2016,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2017,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "André Rosa De Oliveira",
+  "parsed_longest_name": {
+    "first": "andre",
+    "middle": "rosa",
+    "last": "de oliveira",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "a de oliveira",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5067674005",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2017-08-08T00:00:00"
+}

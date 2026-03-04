@@ -1,0 +1,265 @@
+{
+  "id": "https://openalex.org/A5026758449",
+  "orcid": null,
+  "display_name": "Amanda Moeser",
+  "display_name_alternatives": [
+    "Amanda Moeser"
+  ],
+  "works_count": 3,
+  "cited_by_count": 10,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5026758449",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I111236770",
+        "ror": "https://ror.org/0155zta11",
+        "display_name": "University of Vermont",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I111236770"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I131209590",
+        "ror": "https://ror.org/00nzje529",
+        "display_name": "Antioch University New England",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I131209590",
+          "https://openalex.org/I300131239"
+        ]
+      },
+      "years": [
+        2022,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210155413",
+        "ror": "https://ror.org/04qvzh720",
+        "display_name": "Bassett Healthcare Network",
+        "country_code": "US",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210155413"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I111236770",
+      "ror": "https://ror.org/0155zta11",
+      "display_name": "University of Vermont",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I111236770"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I131209590",
+      "ror": "https://ror.org/00nzje529",
+      "display_name": "Antioch University New England",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I131209590",
+        "https://openalex.org/I300131239"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210155413",
+      "ror": "https://ror.org/04qvzh720",
+      "display_name": "Bassett Healthcare Network",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+        "https://openalex.org/I4210155413"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11711",
+      "display_name": "COVID-19 Pandemic Impacts",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10410",
+      "display_name": "COVID-19 epidemiological studies",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2611",
+        "display_name": "Modeling and Simulation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12916",
+      "display_name": "COVID-19 impact on air quality",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12916",
+      "display_name": "COVID-19 impact on air quality",
+      "value": 3.15e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11711",
+      "display_name": "COVID-19 Pandemic Impacts",
+      "value": 1.97e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10410",
+      "display_name": "COVID-19 epidemiological studies",
+      "value": 5.9e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2611",
+        "display_name": "Modeling and Simulation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "3008058167",
+      "wikidata": "https://www.wikidata.org/wiki/Q84263196",
+      "display_name": "Coronavirus disease 2019 (COVID-19)",
+      "score": 0.500244140625
+    },
+    {
+      "id": "205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "score": 0.42302781343460083
+    },
+    {
+      "id": "524204448",
+      "wikidata": "https://www.wikidata.org/wiki/Q788926",
+      "display_name": "Infectious disease (medical specialty)",
+      "score": 0.14404743909835815
+    },
+    {
+      "id": "2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "score": 0.1281035840511322
+    },
+    {
+      "id": "142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "score": 0.0
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 9
+    }
+  ],
+  "longest_name": "Amanda Moeser",
+  "parsed_longest_name": {
+    "first": "amanda",
+    "middle": "",
+    "last": "moeser",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "a moeser",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5026758449",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2022-04-03T00:00:00"
+}

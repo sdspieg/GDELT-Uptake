@@ -1,0 +1,1509 @@
+{
+  "id": "https://openalex.org/I83558840",
+  "ror": "https://ror.org/02xankh89",
+  "display_name": "Universidade Nova de Lisboa",
+  "country_code": "PT",
+  "type": "education",
+  "type_id": "https://openalex.org/institution-types/education",
+  "lineage": [
+    "https://openalex.org/I83558840"
+  ],
+  "homepage_url": "https://www.unl.pt",
+  "image_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Universidade%20NOVA%20de%20Lisboa%20logo%20logotipo%202021.png",
+  "image_thumbnail_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Universidade%20NOVA%20de%20Lisboa%20logo%20logotipo%202021.png&width=300",
+  "display_name_acronyms": [
+    "NOVA"
+  ],
+  "display_name_alternatives": [
+    "Universidade Nova de Lisboa"
+  ],
+  "repositories": [
+    {
+      "id": "https://openalex.org/S4306400678",
+      "display_name": "Universidade Nova de Lisboa's Repository (Universidade Nova de Lisboa)",
+      "host_organization": "https://openalex.org/I83558840",
+      "host_organization_name": "Universidade Nova de Lisboa",
+      "host_organization_lineage": [
+        "https://openalex.org/I83558840"
+      ]
+    }
+  ],
+  "works_count": 63190,
+  "cited_by_count": 3255125,
+  "summary_stats": {
+    "2yr_mean_citedness": 2.4548381162619575,
+    "h_index": 456,
+    "i10_index": 55536
+  },
+  "ids": {
+    "openalex": "https://openalex.org/I83558840",
+    "ror": "https://ror.org/02xankh89",
+    "grid": "grid.10772.33",
+    "wikipedia": "http://en.wikipedia.org/wiki/Universidade_Nova_de_Lisboa",
+    "wikidata": null
+  },
+  "geo": {
+    "city": "Lisbon",
+    "geonames_city_id": "2267057",
+    "region": "Lisbon",
+    "country_code": "PT",
+    "country": "Portugal",
+    "latitude": 38.72509,
+    "longitude": -9.1498
+  },
+  "international": {},
+  "associated_institutions": [
+    {
+      "id": "https://openalex.org/I2799537865",
+      "ror": "https://ror.org/02cg59151",
+      "display_name": "Hospital Pulido Valente",
+      "country_code": "PT",
+      "type": "healthcare",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4210106487",
+      "ror": "https://ror.org/012habm93",
+      "display_name": "Hospital de Egas Moniz",
+      "country_code": "PT",
+      "type": "healthcare",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4210115157",
+      "ror": "https://ror.org/01jhsfg10",
+      "display_name": "Hospital de Dona Estefânia",
+      "country_code": "PT",
+      "type": "healthcare",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4210133653",
+      "ror": "https://ror.org/043ft3840",
+      "display_name": "Centre for Research in Anthropology",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210146790",
+      "ror": "https://ror.org/04jq4p608",
+      "display_name": "Hospital Garcia de Orta",
+      "country_code": "PT",
+      "type": "healthcare",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4387153947",
+      "ror": "https://ror.org/03cvzf910",
+      "display_name": "MARE - Centro de Ciências do Mar e do Ambiente",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4391767730",
+      "ror": "https://ror.org/047td8p12",
+      "display_name": "LAQV Requimte",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4391767960",
+      "ror": "https://ror.org/04c3k8v21",
+      "display_name": "Unidade em Ciências Biomoleculares Aplicadas",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405252559",
+      "ror": "https://ror.org/00fe63682",
+      "display_name": "Instituto de Etnomusicologia - Centro de Estudos em Música e Dança",
+      "country_code": null,
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405252741",
+      "ror": "https://ror.org/05r40wk77",
+      "display_name": "Centre for English, Translation, and Anglo-Portuguese Studies",
+      "country_code": null,
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405252820",
+      "ror": "https://ror.org/000c93k10",
+      "display_name": "Centro de Investigação em Materiais",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405252827",
+      "ror": "https://ror.org/000t9e931",
+      "display_name": "Centro de Estudos de Sociologia e Estética Musical",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405252841",
+      "ror": "https://ror.org/001cp5661",
+      "display_name": "Centro de Investigação em Estruturas e Construção",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405252956",
+      "ror": "https://ror.org/005a50d87",
+      "display_name": "MagIC",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253060",
+      "ror": "https://ror.org/008t8t864",
+      "display_name": "Saúde Global e Medicina Tropical",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253154",
+      "ror": "https://ror.org/00byekp78",
+      "display_name": "CHAM - Centro de Humanidades",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253347",
+      "ror": "https://ror.org/00js76g45",
+      "display_name": "Universidade Nova de Lisboa Associação para a Inovação e Desenvolvimento da FCT",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253709",
+      "ror": "https://ror.org/0104paa34",
+      "display_name": "Instituto de História Contemporânea",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253970",
+      "ror": "https://ror.org/018wkw265",
+      "display_name": "Centro de Engenharia Mecânica e Sustentabilidade de Recursos",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254038",
+      "ror": "https://ror.org/01bd2b489",
+      "display_name": "Unidade de Ensino e Investigação em Saúde Pública Global",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254223",
+      "ror": "https://ror.org/01jc8mb89",
+      "display_name": "Centro Interdisciplinar de Ciências Sociais",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254255",
+      "ror": "https://ror.org/01kh72s55",
+      "display_name": "Centro de Investigação em Ambiente e Sustentabilidade",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254257",
+      "ror": "https://ror.org/01kk7j351",
+      "display_name": "Instituto de Estudos de Literatura e Tradição",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254555",
+      "ror": "https://ror.org/01ymbe816",
+      "display_name": "Centro de Física e Investigação Tecnológica",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254744",
+      "ror": "https://ror.org/0265f3m16",
+      "display_name": "Centro de Investigação em Saúde Pública",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254965",
+      "ror": "https://ror.org/02er63282",
+      "display_name": "Centro de Linguística",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254992",
+      "ror": "https://ror.org/02fxtvv50",
+      "display_name": "Centro NOVAFRICA",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255047",
+      "ror": "https://ror.org/02j226352",
+      "display_name": "Instituto de Historia da Arte",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255208",
+      "ror": "https://ror.org/02r2e4917",
+      "display_name": "Unidade de Investigação e Desenvolvimento em Engenharia Mecânica e Industrial",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255488",
+      "ror": "https://ror.org/032p0ce74",
+      "display_name": "Instituto Português de Relações Internacionais",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255654",
+      "ror": "https://ror.org/038tjv815",
+      "display_name": "Unidade de Ensino e Investigação de Clínica Tropical",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255714",
+      "ror": "https://ror.org/03b4k4y74",
+      "display_name": "Molecular Structural and Cellular Microbiology",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255811",
+      "ror": "https://ror.org/03esshb58",
+      "display_name": "Centro de Investigação para Tecnologias Interactivas",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255849",
+      "ror": "https://ror.org/03g2ax673",
+      "display_name": "Unidade de Microbiologia Médica",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256010",
+      "ror": "https://ror.org/03nr2fs68",
+      "display_name": "NOVA School of Business and Economics",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256048",
+      "ror": "https://ror.org/03q1qyr62",
+      "display_name": "In Vivo Arthropod Security Facility",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256136",
+      "ror": "https://ror.org/03tashy42",
+      "display_name": "Instituto de Higiene e Medicina Tropical Biblioteca",
+      "country_code": "PT",
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256453",
+      "ror": "https://ror.org/0467pvr81",
+      "display_name": "Unidade de Investigação Nova SBE",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256460",
+      "ror": "https://ror.org/046hw5281",
+      "display_name": "Nova School of Business and Economics Library",
+      "country_code": "PT",
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256643",
+      "ror": "https://ror.org/04czk1152",
+      "display_name": "NOVAMath Center for Mathematics and Applications",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256697",
+      "ror": "https://ror.org/04em18c81",
+      "display_name": "NOVA SBE Venture Lab",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256943",
+      "ror": "https://ror.org/04pzdfg37",
+      "display_name": "Centro de Toxicogenómica e Saúde Humana",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257011",
+      "ror": "https://ror.org/04skveq52",
+      "display_name": "GeoBioTec - Geobiociências Geotecnologias e Geo-engenharias",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257113",
+      "ror": "https://ror.org/04xb2d077",
+      "display_name": "Instituto de Estudos Medievais",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257148",
+      "ror": "https://ror.org/04yfmyg44",
+      "display_name": "Instituto de Comunicação da Nova",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257240",
+      "ror": "https://ror.org/0528pfx89",
+      "display_name": "Unidade de Investigação Educação e Desenvolvimento",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257428",
+      "ror": "https://ror.org/058e2tg06",
+      "display_name": "Laboratório para a Ciência da Computação e Informática",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405258297",
+      "ror": "https://ror.org/00ee8az96",
+      "display_name": "The Knowledge Hub Universities",
+      "country_code": "EG",
+      "type": "education",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4405258683",
+      "ror": "https://ror.org/012bp0978",
+      "display_name": "Comprehensive Health Research Centre",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259466",
+      "ror": "https://ror.org/029c7fh08",
+      "display_name": "Laboratório de Instrumentação Engenharia Biomédica e Física da Radiação",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259923",
+      "ror": "https://ror.org/02y9krv25",
+      "display_name": "Centro de Investigacao e Desenvolvimento sobre Direito e Sociedade",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405260117",
+      "ror": "https://ror.org/039gvet66",
+      "display_name": "Universidade Nova de Lisboa Biblioteca e Serviços de Documentação",
+      "country_code": "PT",
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405260397",
+      "ror": "https://ror.org/03pntgn87",
+      "display_name": "Universidade Nova de Lisboa Bibliotecas",
+      "country_code": "PT",
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405260708",
+      "ror": "https://ror.org/045f3jn20",
+      "display_name": "Comprehensive Health Research Centre Escola Nacional Saúde Pública",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405261177",
+      "ror": "https://ror.org/04xe2fg96",
+      "display_name": "Laboratório de Análises LAQV-REQUIMTE",
+      "country_code": "PT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405261242",
+      "ror": "https://ror.org/0501adx40",
+      "display_name": "Unidade de Biotecnologia Ambiental",
+      "country_code": "PT",
+      "type": "education",
+      "relationship": "child"
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "works_count": 927,
+      "oa_works_count": 747,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2025,
+      "works_count": 4725,
+      "oa_works_count": 3708,
+      "cited_by_count": 5225
+    },
+    {
+      "year": 2024,
+      "works_count": 4800,
+      "oa_works_count": 3805,
+      "cited_by_count": 19279
+    },
+    {
+      "year": 2023,
+      "works_count": 4965,
+      "oa_works_count": 4091,
+      "cited_by_count": 34362
+    },
+    {
+      "year": 2022,
+      "works_count": 4445,
+      "oa_works_count": 3467,
+      "cited_by_count": 51848
+    },
+    {
+      "year": 2021,
+      "works_count": 4376,
+      "oa_works_count": 3231,
+      "cited_by_count": 72699
+    },
+    {
+      "year": 2020,
+      "works_count": 4498,
+      "oa_works_count": 3396,
+      "cited_by_count": 82135
+    },
+    {
+      "year": 2019,
+      "works_count": 3431,
+      "oa_works_count": 2187,
+      "cited_by_count": 81365
+    },
+    {
+      "year": 2018,
+      "works_count": 3413,
+      "oa_works_count": 2096,
+      "cited_by_count": 80491
+    },
+    {
+      "year": 2017,
+      "works_count": 2876,
+      "oa_works_count": 1738,
+      "cited_by_count": 82801
+    },
+    {
+      "year": 2016,
+      "works_count": 2656,
+      "oa_works_count": 1381,
+      "cited_by_count": 77281
+    },
+    {
+      "year": 2015,
+      "works_count": 2691,
+      "oa_works_count": 1374,
+      "cited_by_count": 75728
+    },
+    {
+      "year": 2014,
+      "works_count": 2598,
+      "oa_works_count": 1183,
+      "cited_by_count": 118241
+    },
+    {
+      "year": 2013,
+      "works_count": 2324,
+      "oa_works_count": 1053,
+      "cited_by_count": 73845
+    },
+    {
+      "year": 2012,
+      "works_count": 2067,
+      "oa_works_count": 865,
+      "cited_by_count": 63406
+    },
+    {
+      "year": 2011,
+      "works_count": 1800,
+      "oa_works_count": 690,
+      "cited_by_count": 64921
+    },
+    {
+      "year": 2010,
+      "works_count": 1515,
+      "oa_works_count": 561,
+      "cited_by_count": 51660
+    }
+  ],
+  "roles": [
+    {
+      "role": "funder",
+      "id": "https://openalex.org/F4320323459",
+      "works_count": 1518
+    },
+    {
+      "role": "institution",
+      "id": "https://openalex.org/I83558840",
+      "works_count": 63190
+    },
+    {
+      "role": "publisher",
+      "id": "https://openalex.org/P4310318451",
+      "works_count": 54
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10480",
+      "display_name": "Ionic liquids properties and applications",
+      "count": 741,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1503",
+        "display_name": "Catalysis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/15",
+        "display_name": "Chemical Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10015",
+      "display_name": "Genomics and Phylogenetic Studies",
+      "count": 647,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11643",
+      "display_name": "Building materials and conservation",
+      "count": 553,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10303",
+      "display_name": "Photosynthetic Processes and Mechanisms",
+      "count": 535,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10679",
+      "display_name": "Service-Oriented Architecture and Web Services",
+      "count": 534,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11212",
+      "display_name": "Cultural Heritage Materials Analysis",
+      "count": 527,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14507",
+      "display_name": "History, Culture, and Society",
+      "count": 525,
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3616",
+        "display_name": "Speech and Hearing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11010",
+      "display_name": "Logic, Reasoning, and Knowledge",
+      "count": 519,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12623",
+      "display_name": "Cultural, Media, and Literary Studies",
+      "count": 496,
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "count": 475,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10825",
+      "display_name": "Plant Pathogens and Fungal Diseases",
+      "count": 465,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10623",
+      "display_name": "Thin-Film Transistor Technologies",
+      "count": 449,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10166",
+      "display_name": "Mosquito-borne diseases and control",
+      "count": 433,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10639",
+      "display_name": "Advanced Software Engineering Methodologies",
+      "count": 412,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10451",
+      "display_name": "Mycorrhizal Fungi and Plant Interactions",
+      "count": 410,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11434",
+      "display_name": "Electrochemical Analysis and Applications",
+      "count": 396,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1603",
+        "display_name": "Electrochemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10091",
+      "display_name": "Malaria Research and Control",
+      "count": 395,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12981",
+      "display_name": "Conservation Techniques and Studies",
+      "count": 394,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1206",
+        "display_name": "Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11626",
+      "display_name": "Metalloenzymes and iron-sulfur proteins",
+      "count": 393,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10120",
+      "display_name": "Bacterial Genetics and Biotechnology",
+      "count": 387,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14480",
+      "display_name": "Historical Education and Society",
+      "count": 387,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11231",
+      "display_name": "Microbial Fuel Cells and Bioremediation",
+      "count": 386,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10703",
+      "display_name": "Business Process Modeling and Analysis",
+      "count": 384,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12594",
+      "display_name": "Collaboration in agile enterprises",
+      "count": 374,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10195",
+      "display_name": "Antimicrobial Resistance in Staphylococcus",
+      "count": 369,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14480",
+      "display_name": "Historical Education and Society",
+      "value": 0.025392,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14507",
+      "display_name": "History, Culture, and Society",
+      "value": 0.0201203,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3616",
+        "display_name": "Speech and Hearing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12512",
+      "display_name": "History of Colonial Brazil",
+      "value": 0.0110218,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13231",
+      "display_name": "History, Culture, and Diplomacy",
+      "value": 0.0104712,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1202",
+        "display_name": "History"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13195",
+      "display_name": "Medieval Iberian Studies",
+      "value": 0.0085108,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1205",
+        "display_name": "Classics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14000",
+      "display_name": "Cultural, Social, and Media Studies",
+      "value": 0.0069488,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11626",
+      "display_name": "Metalloenzymes and iron-sulfur proteins",
+      "value": 0.0069116,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12981",
+      "display_name": "Conservation Techniques and Studies",
+      "value": 0.0068166,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1206",
+        "display_name": "Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10480",
+      "display_name": "Ionic liquids properties and applications",
+      "value": 0.0067849,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1503",
+        "display_name": "Catalysis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/15",
+        "display_name": "Chemical Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11643",
+      "display_name": "Building materials and conservation",
+      "value": 0.0067731,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14366",
+      "display_name": "Schopenhauer and Stefan Zweig",
+      "value": 0.0063684,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1200",
+        "display_name": "General Arts and Humanities"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12594",
+      "display_name": "Collaboration in agile enterprises",
+      "value": 0.0060648,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12668",
+      "display_name": "Yeasts and Rust Fungi Studies",
+      "value": 0.0060159,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11212",
+      "display_name": "Cultural Heritage Materials Analysis",
+      "value": 0.0059421,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12778",
+      "display_name": "History of Medicine and Tropical Health",
+      "value": 0.005746,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1202",
+        "display_name": "History"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11231",
+      "display_name": "Microbial Fuel Cells and Bioremediation",
+      "value": 0.0057192,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13089",
+      "display_name": "Medieval and Early Modern Iberia",
+      "value": 0.0056703,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1202",
+        "display_name": "History"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10456",
+      "display_name": "Multi-Agent Systems and Negotiation",
+      "value": 0.005058,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13860",
+      "display_name": "Arts and Performance Studies",
+      "value": 0.0050006,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1213",
+        "display_name": "Visual Arts and Performing Arts"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13714",
+      "display_name": "Medieval Architecture and Archaeology",
+      "value": 0.0049463,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13513",
+      "display_name": "Urban and sociocultural dynamics",
+      "value": 0.0048843,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12623",
+      "display_name": "Cultural, Media, and Literary Studies",
+      "value": 0.0047741,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13179",
+      "display_name": "Literature, Culture, and Criticism",
+      "value": 0.0047611,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1208",
+        "display_name": "Literature and Literary Theory"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13850",
+      "display_name": "Night-time city culture",
+      "value": 0.0047476,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13046",
+      "display_name": "Electrokinetic Soil Remediation Techniques",
+      "value": 0.0047322,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "is_super_system": false,
+  "works_api_url": "https://api.openalex.org/works?filter=institutions.id:I83558840",
+  "updated_date": "2026-03-03T06:01:00",
+  "created_date": "2016-06-24T00:00:00"
+}

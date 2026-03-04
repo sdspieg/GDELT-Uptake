@@ -1,0 +1,206 @@
+{
+  "id": "https://openalex.org/A5110180531",
+  "orcid": null,
+  "display_name": "Nam-Kuk Kim",
+  "display_name_alternatives": [
+    "Nam-Kuk Kim"
+  ],
+  "works_count": 1,
+  "cited_by_count": 4,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5110180531",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210128007",
+        "ror": "https://ror.org/02ty3a980",
+        "display_name": "National Institute of Animal Science",
+        "country_code": "KR",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I4210128007"
+        ]
+      },
+      "years": [
+        2010
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I4210128007",
+      "ror": "https://ror.org/02ty3a980",
+      "display_name": "National Institute of Animal Science",
+      "country_code": "KR",
+      "type": "facility",
+      "lineage": [
+        "https://openalex.org/I4210128007"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10333",
+      "display_name": "Meat and Animal Product Quality",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1103",
+        "display_name": "Animal Science and Zoology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10594",
+      "display_name": "Genetic and phenotypic traits in livestock",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11970",
+      "display_name": "Molecular Biology Techniques and Applications",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11970",
+      "display_name": "Molecular Biology Techniques and Applications",
+      "value": 4.8e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10333",
+      "display_name": "Meat and Animal Product Quality",
+      "value": 3.1e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1103",
+        "display_name": "Animal Science and Zoology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10594",
+      "display_name": "Genetic and phenotypic traits in livestock",
+      "value": 3.1e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "153209595",
+      "wikidata": "https://www.wikidata.org/wiki/Q501128",
+      "display_name": "Single-nucleotide polymorphism",
+      "score": 0.6967697143554688
+    },
+    {
+      "id": "186413461",
+      "wikidata": "https://www.wikidata.org/wiki/Q744727",
+      "display_name": "Genetic association",
+      "score": 0.456104576587677
+    },
+    {
+      "id": "139275648",
+      "wikidata": "https://www.wikidata.org/wiki/Q17134011",
+      "display_name": "SNP",
+      "score": 0.44610610604286194
+    },
+    {
+      "id": "104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "score": 0.414840966463089
+    },
+    {
+      "id": "135763542",
+      "wikidata": "https://www.wikidata.org/wiki/Q106016",
+      "display_name": "Genotype",
+      "score": 0.35444921255111694
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2010,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 4
+    }
+  ],
+  "longest_name": "Nam-Kuk Kim",
+  "parsed_longest_name": {
+    "first": "nam-kuk",
+    "middle": "",
+    "last": "kim",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "n kim",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5110180531",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

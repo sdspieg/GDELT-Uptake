@@ -1,0 +1,120 @@
+{
+  "id": "https://openalex.org/A5099997629",
+  "orcid": null,
+  "display_name": "Qingbao Jia",
+  "display_name_alternatives": [
+    "Qingbao Jia"
+  ],
+  "works_count": 1,
+  "cited_by_count": 0,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 0,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5099997629",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210089383",
+        "ror": "https://ror.org/006ab0n43",
+        "display_name": "Community Frameworks",
+        "country_code": "US",
+        "type": "nonprofit",
+        "lineage": [
+          "https://openalex.org/I4210089383"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I4210089383",
+      "ror": "https://ror.org/006ab0n43",
+      "display_name": "Community Frameworks",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+        "https://openalex.org/I4210089383"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10715",
+      "display_name": "Distributed and Parallel Computing Systems",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10715",
+      "display_name": "Distributed and Parallel Computing Systems",
+      "value": 2.7e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.41461804509162903
+    },
+    {
+      "id": "39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "score": 0.3477756977081299
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Qingbao Jia",
+  "parsed_longest_name": {
+    "first": "qingbao",
+    "middle": "",
+    "last": "jia",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "q jia",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5099997629",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2024-02-16T00:00:00"
+}

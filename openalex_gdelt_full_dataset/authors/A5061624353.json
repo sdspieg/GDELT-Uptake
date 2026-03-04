@@ -1,0 +1,281 @@
+{
+  "id": "https://openalex.org/A5061624353",
+  "orcid": null,
+  "display_name": "Maurice Blackson",
+  "display_name_alternatives": [
+    "Maurice Blackson"
+  ],
+  "works_count": 2,
+  "cited_by_count": 40,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 2,
+    "i10_index": 1
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5061624353",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I29867402",
+        "ror": "https://ror.org/049c8eh51",
+        "display_name": "Central Washington University",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I29867402"
+        ]
+      },
+      "years": [
+        2022,
+        2021
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I29867402",
+      "ror": "https://ror.org/049c8eh51",
+      "display_name": "Central Washington University",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I29867402"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11214",
+      "display_name": "Human-Animal Interaction Studies",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11719",
+      "display_name": "Data Quality and Management",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11780",
+      "display_name": "Rabies epidemiology and control",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2406",
+        "display_name": "Virology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11937",
+      "display_name": "Research Data Management Practices",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11986",
+      "display_name": "Scientific Computing and Data Management",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11937",
+      "display_name": "Research Data Management Practices",
+      "value": 1.09e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11214",
+      "display_name": "Human-Animal Interaction Studies",
+      "value": 1.07e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11780",
+      "display_name": "Rabies epidemiology and control",
+      "value": 9.3e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2406",
+        "display_name": "Virology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11719",
+      "display_name": "Data Quality and Management",
+      "value": 8.3e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12492",
+      "display_name": "Zoonotic diseases and public health",
+      "value": 7.6e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "110354214",
+      "wikidata": "https://www.wikidata.org/wiki/Q6314146",
+      "display_name": "Engineering management",
+      "score": 0.5752336382865906
+    },
+    {
+      "id": "11922627",
+      "wikidata": "https://www.wikidata.org/wiki/Q850879",
+      "display_name": "Service science, management and engineering",
+      "score": 0.41771817207336426
+    },
+    {
+      "id": "116675565",
+      "wikidata": "https://www.wikidata.org/wiki/Q3241045",
+      "display_name": "Outbreak",
+      "score": 0.19591692090034485
+    },
+    {
+      "id": "166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "score": 0.0681367814540863
+    },
+    {
+      "id": "124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "score": 0.0
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 3
+    }
+  ],
+  "longest_name": "Maurice Blackson",
+  "parsed_longest_name": {
+    "first": "maurice",
+    "middle": "",
+    "last": "blackson",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "m blackson",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5061624353",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,397 @@
+{
+  "id": "https://openalex.org/A5058540878",
+  "orcid": "https://orcid.org/0000-0001-6782-247X",
+  "display_name": "Reem Alfayez",
+  "display_name_alternatives": [
+    "Alfayez, Reem",
+    "Reem Alfayez"
+  ],
+  "works_count": 27,
+  "cited_by_count": 315,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.8571428571428571,
+    "h_index": 9,
+    "i10_index": 8
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5058540878",
+    "orcid": "https://orcid.org/0000-0001-6782-247X"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I114972647",
+        "ror": "https://ror.org/05k89ew48",
+        "display_name": "University of Jordan",
+        "country_code": "JO",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I114972647"
+        ]
+      },
+      "years": [
+        2023,
+        2020
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I1174212",
+        "ror": "https://ror.org/03taz7m60",
+        "display_name": "University of Southern California",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I1174212"
+        ]
+      },
+      "years": [
+        2020,
+        2019,
+        2018,
+        2017,
+        2016
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2800817003",
+        "ror": "https://ror.org/058zz0t50",
+        "display_name": "Southern California University for Professional Studies",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I2800817003"
+        ]
+      },
+      "years": [
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I28022161",
+        "ror": "https://ror.org/02f81g417",
+        "display_name": "King Saud University",
+        "country_code": "SA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I28022161"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I39555362",
+        "ror": "https://ror.org/01a77tt86",
+        "display_name": "University of Warwick",
+        "country_code": "GB",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I39555362"
+        ]
+      },
+      "years": [
+        2013
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I28022161",
+      "ror": "https://ror.org/02f81g417",
+      "display_name": "King Saud University",
+      "country_code": "SA",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I28022161"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "count": 14,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10430",
+      "display_name": "Software Engineering Techniques and Practices",
+      "count": 9,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11675",
+      "display_name": "Open Source Software Innovations",
+      "count": 7,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12423",
+      "display_name": "Software Reliability and Analysis Research",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11675",
+      "display_name": "Open Source Software Innovations",
+      "value": 0.0001072,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13274",
+      "display_name": "Expert finding and Q&A systems",
+      "value": 9.71e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "value": 6.81e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10430",
+      "display_name": "Software Engineering Techniques and Practices",
+      "value": 6.24e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12933",
+      "display_name": "Franchising Strategies and Performance",
+      "value": 5.86e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.8683512210845947
+    },
+    {
+      "id": "2777904410",
+      "wikidata": "https://www.wikidata.org/wiki/Q7397",
+      "display_name": "Software",
+      "score": 0.6446009874343872
+    },
+    {
+      "id": "529173508",
+      "wikidata": "https://www.wikidata.org/wiki/Q638608",
+      "display_name": "Software development",
+      "score": 0.6300486922264099
+    },
+    {
+      "id": "199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "score": 0.25899678468704224
+    },
+    {
+      "id": "111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "score": 0.21100690960884094
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2013,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2016,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2017,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 82
+    },
+    {
+      "year": 2018,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 34
+    },
+    {
+      "year": 2019,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2020,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2022,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "works_count": 5,
+      "oa_works_count": 3,
+      "cited_by_count": 110
+    },
+    {
+      "year": 2024,
+      "works_count": 4,
+      "oa_works_count": 2,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Alfayez, Reem",
+  "parsed_longest_name": {
+    "first": "reem",
+    "middle": "",
+    "last": "alfayez",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "r alfayez",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058540878",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

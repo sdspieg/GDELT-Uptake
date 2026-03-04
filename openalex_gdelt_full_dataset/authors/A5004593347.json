@@ -1,0 +1,139 @@
+{
+  "id": "https://openalex.org/A5004593347",
+  "orcid": null,
+  "display_name": "A Jessen",
+  "display_name_alternatives": [
+    "A Jessen"
+  ],
+  "works_count": 2,
+  "cited_by_count": 2,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5004593347",
+    "orcid": null
+  },
+  "affiliations": [],
+  "last_known_institutions": null,
+  "topics": [
+    {
+      "id": "https://openalex.org/T14047",
+      "display_name": "Marine and environmental studies",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14339",
+      "display_name": "Image Processing and 3D Reconstruction",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14339",
+      "display_name": "Image Processing and 3D Reconstruction",
+      "value": 5.5e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14047",
+      "display_name": "Marine and environmental studies",
+      "value": 4.2e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "score": 0.6520222425460815
+    },
+    {
+      "id": "142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "score": 0.40036535263061523
+    },
+    {
+      "id": "138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "score": 0.31357330083847046
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 1915,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1916,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "A Jessen",
+  "parsed_longest_name": {
+    "first": "a",
+    "middle": "",
+    "last": "jessen",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "a jessen",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5004593347",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2021-06-22T00:00:00"
+}

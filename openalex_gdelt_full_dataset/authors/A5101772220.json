@@ -1,0 +1,480 @@
+{
+  "id": "https://openalex.org/A5101772220",
+  "orcid": "https://orcid.org/0000-0002-4314-101X",
+  "display_name": "Francisco J. Ruíz",
+  "display_name_alternatives": [
+    "F. J. Ruiz",
+    "F. Ruiz",
+    "F.J. Ruiz",
+    "Francisco J. Ruiz",
+    "Francisco J. Ruíz",
+    "Francisco Javier Ruiz",
+    "Francisco Ruiz",
+    "Nin, Jordi 1979-",
+    "Ruiz Francisco J.",
+    "Ruiz, F. J."
+  ],
+  "works_count": 40,
+  "cited_by_count": 381,
+  "summary_stats": {
+    "2yr_mean_citedness": 4.0,
+    "h_index": 11,
+    "i10_index": 11
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5101772220",
+    "orcid": "https://orcid.org/0000-0002-4314-101X"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210133992",
+        "ror": "https://ror.org/03v79p997",
+        "display_name": "Cidete (Spain)",
+        "country_code": "ES",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210133992"
+        ]
+      },
+      "years": [
+        2025,
+        2008
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210134254",
+        "ror": "https://ror.org/03ca7a577",
+        "display_name": "Fundación Universitaria Konrad Lorenz",
+        "country_code": "CO",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210134254"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210136471",
+        "ror": "https://ror.org/04bpz1v84",
+        "display_name": "FC Barcelona",
+        "country_code": "ES",
+        "type": "other",
+        "lineage": [
+          "https://openalex.org/I4210136471"
+        ]
+      },
+      "years": [
+        2023,
+        2021,
+        2017,
+        2016
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I5593406",
+        "ror": "https://ror.org/04p9k2z50",
+        "display_name": "Universitat Ramon Llull",
+        "country_code": "ES",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I5593406"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I9617848",
+        "ror": "https://ror.org/03mb6wj31",
+        "display_name": "Universitat Politècnica de Catalunya",
+        "country_code": "ES",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I9617848"
+        ]
+      },
+      "years": [
+        2025,
+        2023,
+        2022,
+        2021,
+        2020,
+        2018,
+        2017,
+        2016,
+        2013,
+        2011,
+        2009,
+        2008,
+        2007,
+        2006,
+        2005,
+        2003
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I4210133992",
+      "ror": "https://ror.org/03v79p997",
+      "display_name": "Cidete (Spain)",
+      "country_code": "ES",
+      "type": "company",
+      "lineage": [
+        "https://openalex.org/I4210133992"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I9617848",
+      "ror": "https://ror.org/03mb6wj31",
+      "display_name": "Universitat Politècnica de Catalunya",
+      "country_code": "ES",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I9617848"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10050",
+      "display_name": "Multi-Criteria Decision Making",
+      "count": 12,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11063",
+      "display_name": "Rough Sets and Fuzzy Logic",
+      "count": 7,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10320",
+      "display_name": "Neural Networks and Applications",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10820",
+      "display_name": "Fuzzy Logic and Control Systems",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10538",
+      "display_name": "Data Mining Algorithms and Applications",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10050",
+      "display_name": "Multi-Criteria Decision Making",
+      "value": 7.21e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11063",
+      "display_name": "Rough Sets and Fuzzy Logic",
+      "value": 5.23e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11653",
+      "display_name": "Financial Distress and Bankruptcy Prediction",
+      "value": 4.52e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11428",
+      "display_name": "Advanced Mathematical Identities",
+      "value": 4.32e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2602",
+        "display_name": "Algebra and Number Theory"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12740",
+      "display_name": "Gait Recognition and Analysis",
+      "value": 4.2e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "score": 0.7543758749961853
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.7415387630462646
+    },
+    {
+      "id": "154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "score": 0.7037674188613892
+    },
+    {
+      "id": "138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "score": 0.6094324588775635
+    },
+    {
+      "id": "121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "score": 0.13895249366760254
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2003,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2004,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2005,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2006,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 58
+    },
+    {
+      "year": 2007,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2008,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 37
+    },
+    {
+      "year": 2009,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2011,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2012,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2013,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2016,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 108
+    },
+    {
+      "year": 2017,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 45
+    },
+    {
+      "year": 2018,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2020,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2024,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2025,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    }
+  ],
+  "longest_name": "Francisco Javier Ruiz",
+  "parsed_longest_name": {
+    "first": "francisco",
+    "middle": "javier",
+    "last": "ruiz",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "f ruiz",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5101772220",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

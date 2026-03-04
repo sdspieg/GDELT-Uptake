@@ -1,0 +1,387 @@
+{
+  "id": "https://openalex.org/A5087503706",
+  "orcid": "https://orcid.org/0000-0002-8267-3326",
+  "display_name": "Sawood Alam",
+  "display_name_alternatives": [
+    "Alam, Sawood",
+    "Sawood Alam"
+  ],
+  "works_count": 52,
+  "cited_by_count": 198,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.45454545454545453,
+    "h_index": 8,
+    "i10_index": 6
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5087503706",
+    "orcid": "https://orcid.org/0000-0002-8267-3326"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210092569",
+        "ror": "https://ror.org/003kqe171",
+        "display_name": "Dominion University College",
+        "country_code": "GH",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210092569"
+        ]
+      },
+      "years": [
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210124753",
+        "ror": "https://ror.org/02z468g17",
+        "display_name": "Internet Archive",
+        "country_code": "US",
+        "type": "archive",
+        "lineage": [
+          "https://openalex.org/I4210124753"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I81365321",
+        "ror": "https://ror.org/04zjtrb98",
+        "display_name": "Old Dominion University",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I81365321"
+        ]
+      },
+      "years": [
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I4210124753",
+      "ror": "https://ror.org/02z468g17",
+      "display_name": "Internet Archive",
+      "country_code": "US",
+      "type": "archive",
+      "lineage": [
+        "https://openalex.org/I4210124753"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T12016",
+      "display_name": "Web Data Mining and Analysis",
+      "count": 41,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11181",
+      "display_name": "Advanced Data Storage Technologies",
+      "count": 14,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11478",
+      "display_name": "Caching and Content Delivery",
+      "count": 13,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11986",
+      "display_name": "Scientific Computing and Data Management",
+      "count": 9,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11269",
+      "display_name": "Algorithms and Data Compression",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12016",
+      "display_name": "Web Data Mining and Analysis",
+      "value": 0.0003227,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12479",
+      "display_name": "Web Application Security Vulnerabilities",
+      "value": 0.0002098,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13976",
+      "display_name": "Web visibility and informetrics",
+      "value": 0.0001042,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11478",
+      "display_name": "Caching and Content Delivery",
+      "value": 7.91e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11181",
+      "display_name": "Advanced Data Storage Technologies",
+      "value": 6.85e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.8940033912658691
+    },
+    {
+      "id": "136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "score": 0.8040228486061096
+    },
+    {
+      "id": "21959979",
+      "wikidata": "https://www.wikidata.org/wiki/Q36774",
+      "display_name": "Web page",
+      "score": 0.7624349594116211
+    },
+    {
+      "id": "23123220",
+      "wikidata": "https://www.wikidata.org/wiki/Q816826",
+      "display_name": "Information retrieval",
+      "score": 0.6549016237258911
+    },
+    {
+      "id": "111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "score": 0.5648407340049744
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2013,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2014,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2015,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2016,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 100
+    },
+    {
+      "year": 2017,
+      "works_count": 5,
+      "oa_works_count": 1,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2018,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2019,
+      "works_count": 5,
+      "oa_works_count": 5,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2020,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "works_count": 5,
+      "oa_works_count": 4,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2022,
+      "works_count": 5,
+      "oa_works_count": 2,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2023,
+      "works_count": 6,
+      "oa_works_count": 3,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2024,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "works_count": 9,
+      "oa_works_count": 3,
+      "cited_by_count": 3
+    }
+  ],
+  "longest_name": "Alam, Sawood",
+  "parsed_longest_name": {
+    "first": "sawood",
+    "middle": "",
+    "last": "alam",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "s alam",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5087503706",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

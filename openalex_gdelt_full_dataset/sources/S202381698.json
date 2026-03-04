@@ -1,0 +1,1510 @@
+{
+  "id": "https://openalex.org/S202381698",
+  "issn_l": "1932-6203",
+  "issn": [
+    "1932-6203"
+  ],
+  "display_name": "PLoS ONE",
+  "host_organization": "https://openalex.org/P4310315706",
+  "host_organization_name": "Public Library of Science",
+  "host_organization_lineage": [
+    "https://openalex.org/P4310315706"
+  ],
+  "works_count": 335224,
+  "oa_works_count": 334482,
+  "cited_by_count": 12045143,
+  "summary_stats": {
+    "2yr_mean_citedness": 2.2914206321639456,
+    "h_index": 587,
+    "i10_index": 229149
+  },
+  "is_oa": true,
+  "is_in_doaj": true,
+  "is_in_doaj_since_year": 2006,
+  "is_high_oa_rate": false,
+  "is_high_oa_rate_since_year": null,
+  "is_in_scielo": false,
+  "is_ojs": false,
+  "is_core": true,
+  "oa_flip_year": 2005,
+  "first_publication_year": 1806,
+  "last_publication_year": 2026,
+  "ids": {
+    "openalex": "https://openalex.org/S202381698",
+    "issn_l": "1932-6203",
+    "issn": [
+      "1932-6203"
+    ],
+    "mag": "202381698",
+    "wikidata": "https://www.wikidata.org/entity/Q564954"
+  },
+  "homepage_url": "http://www.plosone.org/",
+  "apc_prices": [
+    {
+      "price": 1805,
+      "currency": "USD"
+    }
+  ],
+  "apc_usd": 1805,
+  "country_code": "US",
+  "societies": [],
+  "alternate_titles": [
+    "PLoS ONE",
+    "Public Library of Science one",
+    "PLoS 1"
+  ],
+  "type": "journal",
+  "topics": [
+    {
+      "id": "https://openalex.org/T10082",
+      "display_name": "HIV/AIDS Research and Interventions",
+      "count": 5107,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10209",
+      "display_name": "Global Maternal and Child Health",
+      "count": 4640,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10487",
+      "display_name": "Plant and animal studies",
+      "count": 4623,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1105",
+        "display_name": "Ecology, Evolution, Behavior and Systematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10015",
+      "display_name": "Genomics and Phylogenetic Studies",
+      "count": 4322,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10112",
+      "display_name": "HIV Research and Treatment",
+      "count": 4236,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2406",
+        "display_name": "Virology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11020",
+      "display_name": "Immune Cell Function and Interaction",
+      "count": 4123,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10062",
+      "display_name": "MicroRNA in disease regulation",
+      "count": 4075,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10166",
+      "display_name": "Mosquito-borne diseases and control",
+      "count": 3679,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10269",
+      "display_name": "Epigenetics and DNA Methylation",
+      "count": 3650,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10199",
+      "display_name": "Wildlife Ecology and Conservation",
+      "count": 3541,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10038",
+      "display_name": "Tuberculosis Research and Epidemiology",
+      "count": 3499,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10521",
+      "display_name": "RNA and protein synthesis mechanisms",
+      "count": 3464,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11482",
+      "display_name": "RNA modifications and cancer",
+      "count": 3453,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10515",
+      "display_name": "Cancer-related molecular mechanisms research",
+      "count": 3438,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "count": 3395,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10351",
+      "display_name": "Liver Disease Diagnosis and Treatment",
+      "count": 3387,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10010",
+      "display_name": "Obesity, Physical Activity, Diet",
+      "count": 3134,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10596",
+      "display_name": "Child Nutrition and Water Access",
+      "count": 3123,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2916",
+        "display_name": "Nutrition and Dietetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/29",
+        "display_name": "Nursing"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10581",
+      "display_name": "Neural dynamics and brain function",
+      "count": 3064,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10005",
+      "display_name": "Ecology and Vegetation Dynamics Studies",
+      "count": 2965,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2309",
+        "display_name": "Nature and Landscape Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10077",
+      "display_name": "Neuroscience and Neuropharmacology Research",
+      "count": 2946,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2804",
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10167",
+      "display_name": "Influenza Virus Research Studies",
+      "count": 2867,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10895",
+      "display_name": "Species Distribution and Climate Change",
+      "count": 2813,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2302",
+        "display_name": "Ecological Modeling"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10091",
+      "display_name": "Malaria Research and Control",
+      "count": 2809,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11457",
+      "display_name": "Adipose Tissue and Metabolism",
+      "count": 2807,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10082",
+      "display_name": "HIV/AIDS Research and Interventions",
+      "value": 0.0172537,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10112",
+      "display_name": "HIV Research and Treatment",
+      "value": 0.0160558,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2406",
+        "display_name": "Virology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11860",
+      "display_name": "HIV, Drug Use, Sexual Risk",
+      "value": 0.0153742,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10167",
+      "display_name": "Influenza Virus Research Studies",
+      "value": 0.0140862,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10062",
+      "display_name": "MicroRNA in disease regulation",
+      "value": 0.013515,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10209",
+      "display_name": "Global Maternal and Child Health",
+      "value": 0.0133844,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2735",
+        "display_name": "Pediatrics, Perinatology and Child Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12134",
+      "display_name": "Insect symbiosis and bacterial influences",
+      "value": 0.0133443,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1109",
+        "display_name": "Insect Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10410",
+      "display_name": "COVID-19 epidemiological studies",
+      "value": 0.0131142,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2611",
+        "display_name": "Modeling and Simulation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10929",
+      "display_name": "Wnt/β-catenin signaling in development and cancer",
+      "value": 0.0130147,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10091",
+      "display_name": "Malaria Research and Control",
+      "value": 0.0117936,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10269",
+      "display_name": "Epigenetics and DNA Methylation",
+      "value": 0.0116526,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11765",
+      "display_name": "Circular RNAs in diseases",
+      "value": 0.0116324,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12065",
+      "display_name": "Hippo pathway signaling and YAP/TAZ",
+      "value": 0.0114708,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13157",
+      "display_name": "Cancer-related gene regulation",
+      "value": 0.0111592,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10676",
+      "display_name": "Genetics, Aging, and Longevity in Model Organisms",
+      "value": 0.0110426,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1302",
+        "display_name": "Aging"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11655",
+      "display_name": "HIV-related health complications and treatments",
+      "value": 0.0110034,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2711",
+        "display_name": "Emergency Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10042",
+      "display_name": "Neural and Behavioral Psychology Studies",
+      "value": 0.0109107,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10515",
+      "display_name": "Cancer-related molecular mechanisms research",
+      "value": 0.0108886,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "value": 0.0108692,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10654",
+      "display_name": "Pneumonia and Respiratory Infections",
+      "value": 0.010865,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10341",
+      "display_name": "Coral and Marine Ecosystems Studies",
+      "value": 0.0105758,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12835",
+      "display_name": "FOXO transcription factor regulation",
+      "value": 0.0105701,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11243",
+      "display_name": "Respiratory viral infections research",
+      "value": 0.0104308,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10235",
+      "display_name": "Health disparities and outcomes",
+      "value": 0.0103852,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10327",
+      "display_name": "Adolescent Sexual and Reproductive Health",
+      "value": 0.0102693,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "works_count": 2821,
+      "oa_works_count": 2821,
+      "cited_by_count": 70
+    },
+    {
+      "year": 2025,
+      "works_count": 19572,
+      "oa_works_count": 19572,
+      "cited_by_count": 20525
+    },
+    {
+      "year": 2024,
+      "works_count": 17913,
+      "oa_works_count": 17913,
+      "cited_by_count": 71763
+    },
+    {
+      "year": 2023,
+      "works_count": 15094,
+      "oa_works_count": 15094,
+      "cited_by_count": 124863
+    },
+    {
+      "year": 2022,
+      "works_count": 16094,
+      "oa_works_count": 16094,
+      "cited_by_count": 207926
+    },
+    {
+      "year": 2021,
+      "works_count": 16633,
+      "oa_works_count": 16633,
+      "cited_by_count": 346359
+    },
+    {
+      "year": 2020,
+      "works_count": 16699,
+      "oa_works_count": 16699,
+      "cited_by_count": 447164
+    },
+    {
+      "year": 2019,
+      "works_count": 16248,
+      "oa_works_count": 16248,
+      "cited_by_count": 461501
+    },
+    {
+      "year": 2018,
+      "works_count": 18858,
+      "oa_works_count": 18858,
+      "cited_by_count": 604362
+    },
+    {
+      "year": 2017,
+      "works_count": 21168,
+      "oa_works_count": 21168,
+      "cited_by_count": 786498
+    },
+    {
+      "year": 2016,
+      "works_count": 23090,
+      "oa_works_count": 23090,
+      "cited_by_count": 888398
+    },
+    {
+      "year": 2015,
+      "works_count": 29891,
+      "oa_works_count": 29891,
+      "cited_by_count": 1228803
+    },
+    {
+      "year": 2014,
+      "works_count": 32074,
+      "oa_works_count": 32074,
+      "cited_by_count": 1448550
+    },
+    {
+      "year": 2013,
+      "works_count": 33228,
+      "oa_works_count": 33228,
+      "cited_by_count": 1685498
+    },
+    {
+      "year": 2012,
+      "works_count": 24332,
+      "oa_works_count": 24332,
+      "cited_by_count": 1403592
+    },
+    {
+      "year": 2011,
+      "works_count": 14240,
+      "oa_works_count": 14240,
+      "cited_by_count": 952143
+    },
+    {
+      "year": 2010,
+      "works_count": 7080,
+      "oa_works_count": 7080,
+      "cited_by_count": 563504
+    },
+    {
+      "year": 2009,
+      "works_count": 4714,
+      "oa_works_count": 4714,
+      "cited_by_count": 372796
+    },
+    {
+      "year": 2008,
+      "works_count": 2964,
+      "oa_works_count": 2964,
+      "cited_by_count": 275089
+    },
+    {
+      "year": 2007,
+      "works_count": 1349,
+      "oa_works_count": 1349,
+      "cited_by_count": 135670
+    },
+    {
+      "year": 2006,
+      "works_count": 228,
+      "oa_works_count": 228,
+      "cited_by_count": 15535
+    },
+    {
+      "year": 2005,
+      "works_count": 78,
+      "oa_works_count": 15,
+      "cited_by_count": 98
+    },
+    {
+      "year": 2004,
+      "works_count": 74,
+      "oa_works_count": 14,
+      "cited_by_count": 632
+    },
+    {
+      "year": 2003,
+      "works_count": 57,
+      "oa_works_count": 15,
+      "cited_by_count": 299
+    },
+    {
+      "year": 2002,
+      "works_count": 57,
+      "oa_works_count": 9,
+      "cited_by_count": 324
+    },
+    {
+      "year": 2001,
+      "works_count": 44,
+      "oa_works_count": 5,
+      "cited_by_count": 111
+    },
+    {
+      "year": 2000,
+      "works_count": 46,
+      "oa_works_count": 9,
+      "cited_by_count": 161
+    },
+    {
+      "year": 1999,
+      "works_count": 42,
+      "oa_works_count": 8,
+      "cited_by_count": 318
+    },
+    {
+      "year": 1998,
+      "works_count": 37,
+      "oa_works_count": 9,
+      "cited_by_count": 181
+    },
+    {
+      "year": 1997,
+      "works_count": 38,
+      "oa_works_count": 7,
+      "cited_by_count": 263
+    },
+    {
+      "year": 1996,
+      "works_count": 25,
+      "oa_works_count": 5,
+      "cited_by_count": 240
+    },
+    {
+      "year": 1995,
+      "works_count": 29,
+      "oa_works_count": 7,
+      "cited_by_count": 254
+    },
+    {
+      "year": 1994,
+      "works_count": 34,
+      "oa_works_count": 7,
+      "cited_by_count": 72
+    },
+    {
+      "year": 1993,
+      "works_count": 28,
+      "oa_works_count": 8,
+      "cited_by_count": 86
+    },
+    {
+      "year": 1992,
+      "works_count": 26,
+      "oa_works_count": 3,
+      "cited_by_count": 27
+    },
+    {
+      "year": 1991,
+      "works_count": 26,
+      "oa_works_count": 4,
+      "cited_by_count": 77
+    },
+    {
+      "year": 1990,
+      "works_count": 25,
+      "oa_works_count": 7,
+      "cited_by_count": 919
+    },
+    {
+      "year": 1989,
+      "works_count": 14,
+      "oa_works_count": 4,
+      "cited_by_count": 18
+    },
+    {
+      "year": 1988,
+      "works_count": 23,
+      "oa_works_count": 5,
+      "cited_by_count": 51
+    },
+    {
+      "year": 1987,
+      "works_count": 14,
+      "oa_works_count": 3,
+      "cited_by_count": 36
+    },
+    {
+      "year": 1986,
+      "works_count": 14,
+      "oa_works_count": 0,
+      "cited_by_count": 47
+    },
+    {
+      "year": 1985,
+      "works_count": 11,
+      "oa_works_count": 3,
+      "cited_by_count": 11
+    },
+    {
+      "year": 1984,
+      "works_count": 11,
+      "oa_works_count": 4,
+      "cited_by_count": 9
+    },
+    {
+      "year": 1983,
+      "works_count": 13,
+      "oa_works_count": 0,
+      "cited_by_count": 24
+    },
+    {
+      "year": 1982,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 14
+    },
+    {
+      "year": 1981,
+      "works_count": 9,
+      "oa_works_count": 2,
+      "cited_by_count": 22
+    },
+    {
+      "year": 1980,
+      "works_count": 8,
+      "oa_works_count": 2,
+      "cited_by_count": 5
+    },
+    {
+      "year": 1979,
+      "works_count": 10,
+      "oa_works_count": 1,
+      "cited_by_count": 6
+    },
+    {
+      "year": 1978,
+      "works_count": 9,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1977,
+      "works_count": 5,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1976,
+      "works_count": 6,
+      "oa_works_count": 1,
+      "cited_by_count": 26
+    },
+    {
+      "year": 1975,
+      "works_count": 5,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1974,
+      "works_count": 8,
+      "oa_works_count": 0,
+      "cited_by_count": 3
+    },
+    {
+      "year": 1973,
+      "works_count": 10,
+      "oa_works_count": 1,
+      "cited_by_count": 12
+    },
+    {
+      "year": 1972,
+      "works_count": 6,
+      "oa_works_count": 3,
+      "cited_by_count": 38
+    },
+    {
+      "year": 1971,
+      "works_count": 10,
+      "oa_works_count": 3,
+      "cited_by_count": 6
+    },
+    {
+      "year": 1970,
+      "works_count": 5,
+      "oa_works_count": 2,
+      "cited_by_count": 8
+    },
+    {
+      "year": 1969,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1968,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1967,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 5
+    },
+    {
+      "year": 1966,
+      "works_count": 8,
+      "oa_works_count": 3,
+      "cited_by_count": 60
+    },
+    {
+      "year": 1965,
+      "works_count": 7,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1964,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1963,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1962,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1961,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1960,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1959,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 13
+    },
+    {
+      "year": 1958,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 4
+    },
+    {
+      "year": 1957,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1956,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1955,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 16
+    },
+    {
+      "year": 1952,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1950,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 4
+    },
+    {
+      "year": 1949,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1947,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1945,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1944,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1942,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1938,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1935,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1930,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1927,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1920,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 5
+    },
+    {
+      "year": 1916,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1914,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 21
+    },
+    {
+      "year": 1913,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1911,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1910,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1909,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1897,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1894,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1893,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1890,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1875,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1852,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1838,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1824,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1806,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=primary_location.source.id:S202381698",
+  "updated_date": "2026-03-02T20:52:56",
+  "created_date": "2016-06-24T00:00:00"
+}

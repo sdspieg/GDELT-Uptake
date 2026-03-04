@@ -1,0 +1,402 @@
+{
+  "id": "https://openalex.org/A5080278497",
+  "orcid": null,
+  "display_name": "Shaoda Wang",
+  "display_name_alternatives": [
+    "Shaoda Wang",
+    "Wang, Shaoda"
+  ],
+  "works_count": 48,
+  "cited_by_count": 1387,
+  "summary_stats": {
+    "2yr_mean_citedness": 18.272727272727273,
+    "h_index": 12,
+    "i10_index": 12
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5080278497",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1321305853",
+        "ror": "https://ror.org/04grmx538",
+        "display_name": "National Bureau of Economic Research",
+        "country_code": "US",
+        "type": "nonprofit",
+        "lineage": [
+          "https://openalex.org/I1321305853"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I161716053",
+        "ror": "https://ror.org/01sfm2718",
+        "display_name": "China Pharmaceutical University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I161716053"
+        ]
+      },
+      "years": [
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2801851002",
+        "ror": "https://ror.org/006v7bf86",
+        "display_name": "Harvard University Press",
+        "country_code": "US",
+        "type": "other",
+        "lineage": [
+          "https://openalex.org/I136199984",
+          "https://openalex.org/I2801851002"
+        ]
+      },
+      "years": [
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I40347166",
+        "ror": "https://ror.org/024mw5h28",
+        "display_name": "University of Chicago",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I40347166"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I63966007",
+        "ror": "https://ror.org/042nb2s44",
+        "display_name": "Massachusetts Institute of Technology",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I63966007"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I1321305853",
+      "ror": "https://ror.org/04grmx538",
+      "display_name": "National Bureau of Economic Research",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+        "https://openalex.org/I1321305853"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I40347166",
+      "ror": "https://ror.org/024mw5h28",
+      "display_name": "University of Chicago",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I40347166"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11762",
+      "display_name": "Law, Economics, and Judicial Systems",
+      "count": 9,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10628",
+      "display_name": "China's Socioeconomic Reforms and Governance",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10213",
+      "display_name": "Public Policy and Administration Research",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3321",
+        "display_name": "Public Administration"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10646",
+      "display_name": "Experimental Behavioral Economics Studies",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11461",
+      "display_name": "Local Government Finance and Decentralization",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13063",
+      "display_name": "Education and experiences of immigrants and refugees",
+      "value": 0.0001158,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13566",
+      "display_name": "Global Educational Reforms and Inequalities",
+      "value": 8.25e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3317",
+        "display_name": "Demography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10628",
+      "display_name": "China's Socioeconomic Reforms and Governance",
+      "value": 7.99e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12185",
+      "display_name": "Regulation and Compliance Studies",
+      "value": 7.49e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10213",
+      "display_name": "Public Policy and Administration Research",
+      "value": 5.88e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3321",
+        "display_name": "Public Administration"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "191935318",
+      "wikidata": "https://www.wikidata.org/wiki/Q148",
+      "display_name": "China",
+      "score": 0.7910609245300293
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.6209700107574463
+    },
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.6033933162689209
+    },
+    {
+      "id": "15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "score": 0.5738001465797424
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.5006659030914307
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2017,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2018,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2019,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2020,
+      "works_count": 11,
+      "oa_works_count": 7,
+      "cited_by_count": 836
+    },
+    {
+      "year": 2021,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 140
+    },
+    {
+      "year": 2022,
+      "works_count": 11,
+      "oa_works_count": 9,
+      "cited_by_count": 130
+    },
+    {
+      "year": 2023,
+      "works_count": 7,
+      "oa_works_count": 5,
+      "cited_by_count": 63
+    },
+    {
+      "year": 2024,
+      "works_count": 5,
+      "oa_works_count": 5,
+      "cited_by_count": 144
+    },
+    {
+      "year": 2025,
+      "works_count": 6,
+      "oa_works_count": 5,
+      "cited_by_count": 57
+    }
+  ],
+  "longest_name": "Wang, Shaoda",
+  "parsed_longest_name": {
+    "first": "shaoda",
+    "middle": "",
+    "last": "wang",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "s wang",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080278497",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2024-05-24T00:00:00"
+}

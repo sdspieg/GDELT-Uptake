@@ -1,0 +1,172 @@
+{
+  "id": "https://openalex.org/A5117445264",
+  "orcid": null,
+  "display_name": "Florian Eiselbrecher",
+  "display_name_alternatives": [
+    "Florian Eiselbrecher"
+  ],
+  "works_count": 1,
+  "cited_by_count": 0,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 0,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5117445264",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I174004417",
+        "ror": "https://ror.org/012k1v959",
+        "display_name": "Munich University of Applied Sciences",
+        "country_code": "DE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I174004417"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I174004417",
+      "ror": "https://ror.org/012k1v959",
+      "display_name": "Munich University of Applied Sciences",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I174004417"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11622",
+      "display_name": "Maritime Navigation and Safety",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12432",
+      "display_name": "Arctic and Russian Policy Studies",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11622",
+      "display_name": "Maritime Navigation and Safety",
+      "value": 9.9e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12432",
+      "display_name": "Arctic and Russian Policy Studies",
+      "value": 7e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "19269812",
+      "wikidata": "https://www.wikidata.org/wiki/Q26540",
+      "display_name": "Satellite",
+      "score": 0.606492280960083
+    },
+    {
+      "id": "13280743",
+      "wikidata": "https://www.wikidata.org/wiki/Q131089",
+      "display_name": "Geodesy",
+      "score": 0.35116875171661377
+    },
+    {
+      "id": "127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "score": 0.3504878282546997
+    },
+    {
+      "id": "127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "score": 0.10646653175354004
+    },
+    {
+      "id": "146978453",
+      "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+      "display_name": "Aerospace engineering",
+      "score": 0.0495392382144928
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Florian Eiselbrecher",
+  "parsed_longest_name": {
+    "first": "florian",
+    "middle": "",
+    "last": "eiselbrecher",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "f eiselbrecher",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5117445264",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

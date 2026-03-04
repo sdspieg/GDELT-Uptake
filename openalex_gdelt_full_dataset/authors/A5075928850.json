@@ -1,0 +1,338 @@
+{
+  "id": "https://openalex.org/A5075928850",
+  "orcid": "https://orcid.org/0000-0001-9334-1514",
+  "display_name": "Daniela Stoltenberg",
+  "display_name_alternatives": [
+    "Daniela Stoltenberg",
+    "Stoltenberg, Daniela"
+  ],
+  "works_count": 33,
+  "cited_by_count": 191,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.5714285714285714,
+    "h_index": 7,
+    "i10_index": 7
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5075928850",
+    "orcid": "https://orcid.org/0000-0001-9334-1514"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I22465464",
+        "ror": "https://ror.org/00pd74e08",
+        "display_name": "University of Münster",
+        "country_code": "DE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I22465464"
+        ]
+      },
+      "years": [
+        2020,
+        2019,
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I75951250",
+        "ror": "https://ror.org/046ak2485",
+        "display_name": "Freie Universität Berlin",
+        "country_code": "DE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I75951250"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I75951250",
+      "ror": "https://ror.org/046ak2485",
+      "display_name": "Freie Universität Berlin",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I75951250"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10557",
+      "display_name": "Social Media and Politics",
+      "count": 13,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10133",
+      "display_name": "Media Studies and Communication",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13910",
+      "display_name": "Computational and Text Analysis Methods",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3300",
+        "display_name": "General Social Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10064",
+      "display_name": "Complex Network Analysis Techniques",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13910",
+      "display_name": "Computational and Text Analysis Methods",
+      "value": 9.74e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3300",
+        "display_name": "General Social Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10557",
+      "display_name": "Social Media and Politics",
+      "value": 5.41e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13274",
+      "display_name": "Expert finding and Q&A systems",
+      "value": 4.86e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10133",
+      "display_name": "Media Studies and Communication",
+      "value": 4.31e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12262",
+      "display_name": "Hate Speech and Cyberbullying Detection",
+      "value": 2.48e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.8236390352249146
+    },
+    {
+      "id": "144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "score": 0.6490980386734009
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.4636382460594177
+    },
+    {
+      "id": "138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "score": 0.288033127784729
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.18505942821502686
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2018,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2019,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2020,
+      "works_count": 5,
+      "oa_works_count": 4,
+      "cited_by_count": 54
+    },
+    {
+      "year": 2021,
+      "works_count": 5,
+      "oa_works_count": 4,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2024,
+      "works_count": 8,
+      "oa_works_count": 2,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "works_count": 6,
+      "oa_works_count": 4,
+      "cited_by_count": 2
+    }
+  ],
+  "longest_name": "Stoltenberg, Daniela",
+  "parsed_longest_name": {
+    "first": "daniela",
+    "middle": "",
+    "last": "stoltenberg",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "d stoltenberg",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5075928850",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2020-08-18T00:00:00"
+}

@@ -1,0 +1,179 @@
+{
+  "id": "https://openalex.org/A5111008037",
+  "orcid": null,
+  "display_name": "Carlota Moreno Villar",
+  "display_name_alternatives": [
+    "Carlota Moreno Villar",
+    "Moreno Villar, Carlota"
+  ],
+  "works_count": 3,
+  "cited_by_count": 3,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5111008037",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1283111495",
+        "ror": "https://ror.org/021p8a188",
+        "display_name": "Ministry of Economy",
+        "country_code": "MK",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I1283111495"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I1283111495",
+      "ror": "https://ror.org/021p8a188",
+      "display_name": "Ministry of Economy",
+      "country_code": "MK",
+      "type": "government",
+      "lineage": [
+        "https://openalex.org/I1283111495"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11168",
+      "display_name": "International Development and Aid",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3303",
+        "display_name": "Development"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14448",
+      "display_name": "EU Law and Policy Analysis",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14448",
+      "display_name": "EU Law and Policy Analysis",
+      "value": 1.09e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11168",
+      "display_name": "International Development and Aid",
+      "value": 8e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3303",
+        "display_name": "Development"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "39389867",
+      "wikidata": "https://www.wikidata.org/wiki/Q380767",
+      "display_name": "Corporate governance",
+      "score": 0.6032513976097107
+    },
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.44469311833381653
+    },
+    {
+      "id": "107826830",
+      "wikidata": "https://www.wikidata.org/wiki/Q929380",
+      "display_name": "Environmental resource management",
+      "score": 0.3268473744392395
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.08774161338806152
+    },
+    {
+      "id": "169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "score": 0.0
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2023,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 3
+    }
+  ],
+  "longest_name": "Moreno Villar, Carlota",
+  "parsed_longest_name": {
+    "first": "carlota",
+    "middle": "",
+    "last": "moreno villar",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "c moreno villar",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5111008037",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2023-07-13T00:00:00"
+}

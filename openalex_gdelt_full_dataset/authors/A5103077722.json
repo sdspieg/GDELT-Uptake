@@ -1,0 +1,193 @@
+{
+  "id": "https://openalex.org/A5103077722",
+  "orcid": "https://orcid.org/0009-0008-3376-2921",
+  "display_name": "Hui Feng",
+  "display_name_alternatives": [
+    "Hui Feng"
+  ],
+  "works_count": 2,
+  "cited_by_count": 0,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 0,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5103077722",
+    "orcid": "https://orcid.org/0009-0008-3376-2921"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1328775524",
+        "ror": "https://ror.org/03893we55",
+        "display_name": "Zhejiang Sci-Tech University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I1328775524"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I43922553",
+        "ror": "https://ror.org/00e4hrk88",
+        "display_name": "Wuhan University of Science and Technology",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I43922553"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I43922553",
+      "ror": "https://ror.org/00e4hrk88",
+      "display_name": "Wuhan University of Science and Technology",
+      "country_code": "CN",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I43922553"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11474",
+      "display_name": "Sport and Mega-Event Impacts",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13003",
+      "display_name": "Regional Development and Environment",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13003",
+      "display_name": "Regional Development and Environment",
+      "value": 1.01e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11474",
+      "display_name": "Sport and Mega-Event Impacts",
+      "value": 4.9e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "191935318",
+      "wikidata": "https://www.wikidata.org/wiki/Q148",
+      "display_name": "China",
+      "score": 0.7847422361373901
+    },
+    {
+      "id": "205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "score": 0.682747483253479
+    },
+    {
+      "id": "107826830",
+      "wikidata": "https://www.wikidata.org/wiki/Q929380",
+      "display_name": "Environmental resource management",
+      "score": 0.34093528985977173
+    },
+    {
+      "id": "166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "score": 0.1583445966243744
+    },
+    {
+      "id": "124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "score": 0.13992565870285034
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2024,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Hui Feng",
+  "parsed_longest_name": {
+    "first": "hui",
+    "middle": "",
+    "last": "feng",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "h feng",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103077722",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

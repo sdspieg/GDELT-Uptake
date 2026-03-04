@@ -1,0 +1,1998 @@
+{
+  "id": "https://openalex.org/I4210155236",
+  "ror": "https://ror.org/04zaypm56",
+  "display_name": "National Research Council",
+  "country_code": "IT",
+  "type": "nonprofit",
+  "type_id": "https://openalex.org/institution-types/nonprofit",
+  "lineage": [
+    "https://openalex.org/I4210155236"
+  ],
+  "homepage_url": "https://www.cnr.it",
+  "image_url": null,
+  "image_thumbnail_url": null,
+  "display_name_acronyms": [
+    "CNR"
+  ],
+  "display_name_alternatives": [
+    "Consiglio Nazionale delle Ricerche",
+    "National Research Council"
+  ],
+  "repositories": [
+    {
+      "id": "https://openalex.org/S4306402016",
+      "display_name": "CNR Solar (Scientific Open-access Literature Archive and Repository) (Consiglio Nazionale delle Ricerche)",
+      "host_organization": "https://openalex.org/I4210155236",
+      "host_organization_name": "National Research Council",
+      "host_organization_lineage": [
+        "https://openalex.org/I4210155236"
+      ]
+    }
+  ],
+  "works_count": 78862,
+  "cited_by_count": 5583213,
+  "summary_stats": {
+    "2yr_mean_citedness": 3.805634295713036,
+    "h_index": 550,
+    "i10_index": 97047
+  },
+  "ids": {
+    "openalex": "https://openalex.org/I4210155236",
+    "ror": "https://ror.org/04zaypm56",
+    "grid": "grid.5326.2",
+    "wikipedia": "http://en.wikipedia.org/wiki/National_Research_Council_%28Italy%29",
+    "wikidata": null
+  },
+  "geo": {
+    "city": "Rome",
+    "geonames_city_id": "3169070",
+    "region": "Lazio",
+    "country_code": "IT",
+    "country": "Italy",
+    "latitude": 41.89193,
+    "longitude": 12.51133
+  },
+  "international": {},
+  "associated_institutions": [
+    {
+      "id": "https://openalex.org/I122991210",
+      "ror": "https://ror.org/05kacka20",
+      "display_name": "Istituto di Scienza e Tecnologie dell'Informazione \"Alessandro Faedo\"",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I3005160176",
+      "ror": "https://ror.org/04r5fge26",
+      "display_name": "Institute for High Performance Computing and Networking",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210087001",
+      "ror": "https://ror.org/0013zhk30",
+      "display_name": "Institute of Food Science",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210087815",
+      "ror": "https://ror.org/0042e5975",
+      "display_name": "Istituto Nanoscienze",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210088381",
+      "ror": "https://ror.org/006qkqr45",
+      "display_name": "Institute for Coastal Marine Environment",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210089156",
+      "ror": "https://ror.org/008fjbg42",
+      "display_name": "Institute for Sustainable Plant Protection",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210090806",
+      "ror": "https://ror.org/00brf2d87",
+      "display_name": "Institute of Acoustics and Sensors \"Orso Mario Corbino\"",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210091015",
+      "ror": "https://ror.org/00bc51d88",
+      "display_name": "Istituto di Nanotecnologia",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210091292",
+      "ror": "https://ror.org/01ar90c17",
+      "display_name": "Istituto di Biologia e Biotecnologia Agraria",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210091386",
+      "ror": "https://ror.org/00awwz417",
+      "display_name": "Istituto per la Storia del Pensiero Filosofico e Scientifico Moderno",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210091512",
+      "ror": "https://ror.org/00be3zh53",
+      "display_name": "Institute of Applied Science and Intelligent Systems",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210091655",
+      "ror": "https://ror.org/0040zx077",
+      "display_name": "Research Institute for Geo-Hydrological Protection",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210092323",
+      "ror": "https://ror.org/00dqega85",
+      "display_name": "Nello Carrara Institute of Applied Physics",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210095629",
+      "ror": "https://ror.org/00s2j5046",
+      "display_name": "Institute of Molecular Bioimaging and Physiology",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210095637",
+      "ror": "https://ror.org/00p03yg71",
+      "display_name": "Superconducting and other Innovative Materials and Devices Institute",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096172",
+      "ror": "https://ror.org/00ytw6m58",
+      "display_name": "Institute of Environmental Geology and Geoengineering",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096308",
+      "ror": "https://ror.org/00z8ws214",
+      "display_name": "Institute of Materials for Electronics and Magnetism",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096500",
+      "ror": "https://ror.org/00n8ttd98",
+      "display_name": "Institute of Atmospheric Sciences and Climate",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096704",
+      "ror": "https://ror.org/00x5wpm25",
+      "display_name": "Institute for Archaeological and Monumental Heritage",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210097224",
+      "ror": "https://ror.org/00w6r1881",
+      "display_name": "Institute of Nanostructured Materials",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210099513",
+      "ror": "https://ror.org/015bmra78",
+      "display_name": "Institute of Geosciences and Earth Resources",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210100607",
+      "ror": "https://ror.org/00n4jbh84",
+      "display_name": "Institute of Electronics, Computer and Telecommunication Engineering",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210101608",
+      "ror": "https://ror.org/00yfw2296",
+      "display_name": "Istituto Officina dei Materiali",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210105756",
+      "ror": "https://ror.org/01dy2q607",
+      "display_name": "Istituto di Biomedicina e di Immunologia Molecolare Alberto Monroy",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210106076",
+      "ror": "https://ror.org/01kdj2848",
+      "display_name": "Istituto di Fisiologia Clinica",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210106125",
+      "ror": "https://ror.org/00ygy3d85",
+      "display_name": "Istituto per le Applicazioni del Calcolo Mauro Picone",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210107272",
+      "ror": "https://ror.org/01wqae691",
+      "display_name": "Istituto per il Sistema Produzione Animale in Ambiente Mediterraneo",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210108183",
+      "ror": "https://ror.org/01j6drw72",
+      "display_name": "Institute of Science and Technology for Ceramics",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210108546",
+      "ror": "https://ror.org/01mfmr054",
+      "display_name": "Institute for Macromolecular Studies",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210108634",
+      "ror": "https://ror.org/01gtsa866",
+      "display_name": "Institute of Biosciences and Bioresources",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210108945",
+      "ror": "https://ror.org/011n2hw53",
+      "display_name": "Istituto per il Lessico Intellettuale Europeo e la Storia delle Idee",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210109213",
+      "ror": "https://ror.org/01jt38m64",
+      "display_name": "Institute for Energetics and Interphases",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210109673",
+      "ror": "https://ror.org/01rg40y89",
+      "display_name": "Institute of Condensed Matter Chemistry and Technologies for Energy",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210109941",
+      "ror": "https://ror.org/0141vn777",
+      "display_name": "Institute of Chemistry of Molecular Recognition",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210110528",
+      "ror": "https://ror.org/01nyatq71",
+      "display_name": "Institute of Molecular Biology and Pathology",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210110717",
+      "ror": "https://ror.org/01f5tnx94",
+      "display_name": "Institute of Ionized Gas",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210111210",
+      "ror": "https://ror.org/0221agg28",
+      "display_name": "Construction Technologies Institute",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210113153",
+      "ror": "https://ror.org/0240rwx68",
+      "display_name": "Neuroscience Institute",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210113975",
+      "ror": "https://ror.org/029k6t707",
+      "display_name": "Institute of Ecosystem Study",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210114340",
+      "ror": "https://ror.org/02hdf6119",
+      "display_name": "Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210114374",
+      "ror": "https://ror.org/01zz9wh30",
+      "display_name": "Institute of Structure of Matter",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210115073",
+      "ror": "https://ror.org/02fkw1114",
+      "display_name": "Institute for the Chemistry of OrganoMetallic Compounds",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210115556",
+      "ror": "https://ror.org/024ye7w89",
+      "display_name": "National Research Council - Institute of Methodologies for Environmental Analysis",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210115609",
+      "ror": "https://ror.org/02gcxw165",
+      "display_name": "Istituto di Studi sul Mediterraneo Antico",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210115633",
+      "ror": "https://ror.org/0263zy895",
+      "display_name": "Istituto di Metodologie Chimiche",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210116388",
+      "ror": "https://ror.org/02dr63s31",
+      "display_name": "Institute of Genetic and Biomedical Research",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210117057",
+      "ror": "https://ror.org/03a0vt050",
+      "display_name": "Institute of Inorganic Methodologies and Plasmas",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210117484",
+      "ror": "https://ror.org/01n1ayq61",
+      "display_name": "Institute for Research on Population and Social Policies",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210118596",
+      "ror": "https://ror.org/02db0kh50",
+      "display_name": "Water Research Institute",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210118773",
+      "ror": "https://ror.org/02qwy8e97",
+      "display_name": "Istituto Motori",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210120496",
+      "ror": "https://ror.org/02dp3a879",
+      "display_name": "National Institute of Optics",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210120704",
+      "ror": "https://ror.org/01yg57d71",
+      "display_name": "Institute of Neurological Sciences",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210122945",
+      "ror": "https://ror.org/021z1mz76",
+      "display_name": "Institute of Organic Synthesis and Photoreactivity",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210124522",
+      "ror": "https://ror.org/028g3pe33",
+      "display_name": "Institute for Computational Linguistics “A. Zampolli”",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210124735",
+      "ror": "https://ror.org/02xz4xc25",
+      "display_name": "Istituto per le Tecnologie Didattiche",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210125115",
+      "ror": "https://ror.org/032tyv240",
+      "display_name": "Institute of Molecular Science and Technologies",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210125249",
+      "ror": "https://ror.org/02wxw4x45",
+      "display_name": "Istituto per il Rilevamento Elettromagnetico dell'Ambiente",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210126414",
+      "ror": "https://ror.org/02ynrme92",
+      "display_name": "Institute for the Conservation and Valorization of Cultural Heritage",
+      "country_code": "SM",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210127620",
+      "ror": "https://ror.org/03a111314",
+      "display_name": "Institute of History of Mediterranean Europe",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210128796",
+      "ror": "https://ror.org/02n2bgz18",
+      "display_name": "Institute of Plasma Physics",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129308",
+      "ror": "https://ror.org/03eqeqg74",
+      "display_name": "Institute of Protein Biochemistry",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129724",
+      "ror": "https://ror.org/03qpd8w66",
+      "display_name": "Istituto di Genetica Molecolare",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129742",
+      "ror": "https://ror.org/0331xj092",
+      "display_name": "Institute for Technologies Applied to Cultural Heritage",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210130157",
+      "ror": "https://ror.org/02gdcn153",
+      "display_name": "Institute of Informatics and Telematics",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210131270",
+      "ror": "https://ror.org/03x7xkr71",
+      "display_name": "Institute of Sciences of Food Production",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210133023",
+      "ror": "https://ror.org/03z58xd74",
+      "display_name": "Institute for the Dynamics of Environmental Processes",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210133672",
+      "ror": "https://ror.org/03ta8pf33",
+      "display_name": "Istituto di Farmacologia Traslazionale",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210133906",
+      "ror": "https://ror.org/02qnx8e75",
+      "display_name": "Institute of Marine Engineering",
+      "country_code": "IT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210133988",
+      "ror": "https://ror.org/03v4rcp75",
+      "display_name": "Bologna Research Area",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210134310",
+      "ror": "https://ror.org/049ebw417",
+      "display_name": "Istituto di Fotonica e Nanotecnologie",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210134841",
+      "ror": "https://ror.org/02rzxrg25",
+      "display_name": "Opera del Vocabolario Italiano",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210136297",
+      "ror": "https://ror.org/035y5td47",
+      "display_name": "Institute for International Legal Studies",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210137033",
+      "ror": "https://ror.org/03m0n3c07",
+      "display_name": "Istituto di Matematica Applicata e Tecnologie Informatiche",
+      "country_code": "IT",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210137074",
+      "ror": "https://ror.org/03rqtqb02",
+      "display_name": "Institute of Biostructure and Bioimaging",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210137461",
+      "ror": "https://ror.org/04hadk112",
+      "display_name": "Institute of Genetics and Biophysics",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210139435",
+      "ror": "https://ror.org/04sn06036",
+      "display_name": "Institute for Experimental Endocrinology and Oncology",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210140501",
+      "ror": "https://ror.org/04vnwke91",
+      "display_name": "Institute for Research on Innovation and Services for Development",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210141171",
+      "ror": "https://ror.org/04smrs866",
+      "display_name": "Institute of Neurobiology and Molecular Medicine",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210143448",
+      "ror": "https://ror.org/041xzk838",
+      "display_name": "Instituto di Biofisica",
+      "country_code": "ES",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210146012",
+      "ror": "https://ror.org/051npad76",
+      "display_name": "Istituto di Ricerca sulla Crescita Economica Sostenibile",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210147067",
+      "ror": "https://ror.org/045zphe57",
+      "display_name": "Institute for Agricultural and Earthmoving Machines",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210147709",
+      "ror": "https://ror.org/052q58629",
+      "display_name": "Institute for Advanced Energy Technologies",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210148743",
+      "ror": "https://ror.org/05nzf7q96",
+      "display_name": "Institute of Biomembranes, Bioenergetics and Molecular Biotechnologies",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210149433",
+      "ror": "https://ror.org/05rcgef49",
+      "display_name": "Institute for Complex Systems",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210150716",
+      "ror": "https://ror.org/05cdfm144",
+      "display_name": "Istituto di Cibernetica “Eduardo Caianiello”",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210154278",
+      "ror": "https://ror.org/04ehykb85",
+      "display_name": "Institute of Biomedical Technologies",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210154486",
+      "ror": "https://ror.org/047rmsn51",
+      "display_name": "Institute for the Science and Technology of Plasmas",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210154694",
+      "ror": "https://ror.org/05patmk97",
+      "display_name": "Institute for Chemical and Physical Processes",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210155481",
+      "ror": "https://ror.org/040xhth73",
+      "display_name": "Institute of Cell Biology and Neurobiology",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210156067",
+      "ror": "https://ror.org/05813wx75",
+      "display_name": "Institute for Research on Combustion",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210158339",
+      "ror": "https://ror.org/058a2pj71",
+      "display_name": "Fondazione Toscana Gabriele Monasterio",
+      "country_code": "IT",
+      "type": "other",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210158892",
+      "ror": "https://ror.org/05hky6p02",
+      "display_name": "Institute of Atmospheric Pollution Research",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210161202",
+      "ror": "https://ror.org/01y5w6t76",
+      "display_name": "Organ Transplantation and Immunology Institute",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210161588",
+      "ror": "https://ror.org/05nr7xa08",
+      "display_name": "Institute of Polymers, Composites and Biomaterials",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210162062",
+      "ror": "https://ror.org/054ye0e45",
+      "display_name": "Istituto di Analisi dei Sistemi ed Informatica Antonio Ruberti",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210162223",
+      "ror": "https://ror.org/01zzqep61",
+      "display_name": "Istituto di Tipizzazione Tissutale e Problemi della Dialisi",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210162669",
+      "ror": "https://ror.org/00ag5y002",
+      "display_name": "Istituto Nazionale per Studi ed Esperienze di Architettura Navale",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210163054",
+      "ror": "https://ror.org/05db0es39",
+      "display_name": "Istituto di Studi sul Mediterraneo (CNR - ISMed)",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210163092",
+      "ror": "https://ror.org/02kswma64",
+      "display_name": "Istituto Nazionale per la Fisica della Materia",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210164317",
+      "ror": "https://ror.org/058nrs650",
+      "display_name": "Institute on Membrane Technology",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210164935",
+      "ror": "https://ror.org/05k3cs357",
+      "display_name": "Institute for the Study of Regionalism, Federalism and Self-Government",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210165120",
+      "ror": "https://ror.org/05vk2g845",
+      "display_name": "Institute for Microelectronics and Microsystems",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210166808",
+      "ror": "https://ror.org/05wba8r86",
+      "display_name": "Institute of Crystallography",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210166865",
+      "ror": "https://ror.org/05w9g2j85",
+      "display_name": "Institute of Cognitive Sciences and Technologies",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152783",
+      "ror": "https://ror.org/05w88pj86",
+      "display_name": "Institute for Biological Systems",
+      "country_code": null,
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153651",
+      "ror": "https://ror.org/013fk0013",
+      "display_name": "Institute for the Study of Anthropic Impact and Sustainability in the Marine Environment",
+      "country_code": "IT",
+      "type": "other",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154004",
+      "ror": "https://ror.org/00pb0ac76",
+      "display_name": "Institute for Marine Biological Resources and Biotechnology",
+      "country_code": null,
+      "type": "other",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155555",
+      "ror": "https://ror.org/02pe09j37",
+      "display_name": "Istituto di Informatica Giuridica e Sistemi Giudiziari",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156053",
+      "ror": "https://ror.org/028znnm42",
+      "display_name": "DASSI - Data Archive for Social Sciences in Italy",
+      "country_code": null,
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4388446410",
+      "ror": "https://ror.org/010bg5245",
+      "display_name": "EC-Earth Consortium",
+      "country_code": null,
+      "type": "other",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4403928382",
+      "ror": "https://ror.org/04r43k021",
+      "display_name": "Istituto di Scienze e Tecnologie Chimiche \"Giulio Natta\"",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253368",
+      "ror": "https://ror.org/00keh9s20",
+      "display_name": "Consiglio Nazionale delle Ricerche - Istituto di Ricerca sugli Ecosistemi Terrestri",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256913",
+      "ror": "https://ror.org/04npskv21",
+      "display_name": "Laboratorio di Monitoraggio e Modellistica Ambientale per lo sviluppo sostenibile",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257554",
+      "ror": "https://ror.org/05d49bv37",
+      "display_name": "Istituto di Scienze Polari",
+      "country_code": "IT",
+      "type": "nonprofit",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4405261809",
+      "ror": "https://ror.org/05wq02383",
+      "display_name": "Institute for BioEconomy",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405263075",
+      "ror": "https://ror.org/027cvs066",
+      "display_name": "D4Science",
+      "country_code": "IT",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I910829146",
+      "ror": "https://ror.org/01wp2jz98",
+      "display_name": "European X-Ray Free-Electron Laser",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "works_count": 588,
+      "oa_works_count": 465,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2025,
+      "works_count": 4873,
+      "oa_works_count": 3958,
+      "cited_by_count": 8805
+    },
+    {
+      "year": 2024,
+      "works_count": 6607,
+      "oa_works_count": 5405,
+      "cited_by_count": 39326
+    },
+    {
+      "year": 2023,
+      "works_count": 6901,
+      "oa_works_count": 5670,
+      "cited_by_count": 72116
+    },
+    {
+      "year": 2022,
+      "works_count": 6661,
+      "oa_works_count": 5159,
+      "cited_by_count": 111424
+    },
+    {
+      "year": 2021,
+      "works_count": 6425,
+      "oa_works_count": 4783,
+      "cited_by_count": 159952
+    },
+    {
+      "year": 2020,
+      "works_count": 5765,
+      "oa_works_count": 4043,
+      "cited_by_count": 176598
+    },
+    {
+      "year": 2019,
+      "works_count": 5210,
+      "oa_works_count": 2747,
+      "cited_by_count": 166072
+    },
+    {
+      "year": 2018,
+      "works_count": 4256,
+      "oa_works_count": 2383,
+      "cited_by_count": 153893
+    },
+    {
+      "year": 2017,
+      "works_count": 3964,
+      "oa_works_count": 2024,
+      "cited_by_count": 159669
+    },
+    {
+      "year": 2016,
+      "works_count": 3796,
+      "oa_works_count": 1722,
+      "cited_by_count": 145579
+    },
+    {
+      "year": 2015,
+      "works_count": 3243,
+      "oa_works_count": 1489,
+      "cited_by_count": 155199
+    },
+    {
+      "year": 2014,
+      "works_count": 2854,
+      "oa_works_count": 1164,
+      "cited_by_count": 119745
+    },
+    {
+      "year": 2013,
+      "works_count": 2529,
+      "oa_works_count": 970,
+      "cited_by_count": 100971
+    },
+    {
+      "year": 2012,
+      "works_count": 2007,
+      "oa_works_count": 755,
+      "cited_by_count": 96544
+    },
+    {
+      "year": 2011,
+      "works_count": 1763,
+      "oa_works_count": 581,
+      "cited_by_count": 79387
+    },
+    {
+      "year": 2010,
+      "works_count": 1265,
+      "oa_works_count": 407,
+      "cited_by_count": 51859
+    }
+  ],
+  "roles": [
+    {
+      "role": "funder",
+      "id": "https://openalex.org/F4320322651",
+      "works_count": 11262
+    },
+    {
+      "role": "institution",
+      "id": "https://openalex.org/I4210155236",
+      "works_count": 78862
+    },
+    {
+      "role": "publisher",
+      "id": "https://openalex.org/P4310317581",
+      "works_count": 132
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10075",
+      "display_name": "Atmospheric chemistry and aerosols",
+      "count": 1255,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10535",
+      "display_name": "Landslides and related hazards",
+      "count": 1084,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10644",
+      "display_name": "Cryospheric studies and observations",
+      "count": 982,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10029",
+      "display_name": "Climate variability and models",
+      "count": 949,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10466",
+      "display_name": "Meteorological Phenomena and Simulations",
+      "count": 944,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10077",
+      "display_name": "Neuroscience and Neuropharmacology Research",
+      "count": 843,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2804",
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10190",
+      "display_name": "Air Quality and Health Impacts",
+      "count": 821,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10266",
+      "display_name": "Plant Water Relations and Carbon Dynamics",
+      "count": 781,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10230",
+      "display_name": "Marine and fisheries research",
+      "count": 764,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11588",
+      "display_name": "Atmospheric and Environmental Gas Dynamics",
+      "count": 745,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10032",
+      "display_name": "Marine and coastal ecosystems",
+      "count": 744,
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11312",
+      "display_name": "Soil Moisture and Remote Sensing",
+      "count": 737,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "count": 730,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10017",
+      "display_name": "Geology and Paleoclimatology Research",
+      "count": 729,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "count": 719,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10255",
+      "display_name": "Oceanographic and Atmospheric Processes",
+      "count": 680,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10110",
+      "display_name": "earthquake and tectonic studies",
+      "count": 665,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10059",
+      "display_name": "Bone Tissue Engineering Materials",
+      "count": 652,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10347",
+      "display_name": "Atmospheric aerosols and clouds",
+      "count": 618,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11320",
+      "display_name": "Atmospheric Ozone and Climate",
+      "count": 606,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10661",
+      "display_name": "biodegradable polymer synthesis and properties",
+      "count": 603,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2502",
+        "display_name": "Biomaterials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11643",
+      "display_name": "Building materials and conservation",
+      "count": 602,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11234",
+      "display_name": "Precipitation Measurement and Analysis",
+      "count": 601,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10753",
+      "display_name": "Microplastics and Plastic Pollution",
+      "count": 596,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2310",
+        "display_name": "Pollution"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10111",
+      "display_name": "Remote Sensing in Agriculture",
+      "count": 590,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12981",
+      "display_name": "Conservation Techniques and Studies",
+      "value": 0.0096021,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1206",
+        "display_name": "Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11643",
+      "display_name": "Building materials and conservation",
+      "value": 0.0073732,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10801",
+      "display_name": "Synthetic Aperture Radar (SAR) Applications and Techniques",
+      "value": 0.0073723,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13920",
+      "display_name": "Urban Planning and Valuation",
+      "value": 0.0069873,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11760",
+      "display_name": "Plant responses to elevated CO2",
+      "value": 0.0066698,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13992",
+      "display_name": "Cynara cardunculus studies",
+      "value": 0.0063546,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11212",
+      "display_name": "Cultural Heritage Materials Analysis",
+      "value": 0.0062916,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11739",
+      "display_name": "Microwave Imaging and Scattering Analysis",
+      "value": 0.0058975,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10535",
+      "display_name": "Landslides and related hazards",
+      "value": 0.0056291,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10414",
+      "display_name": "Cannabis and Cannabinoid Research",
+      "value": 0.005106,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10644",
+      "display_name": "Cryospheric studies and observations",
+      "value": 0.0050665,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12213",
+      "display_name": "Marine Ecology and Invasive Species",
+      "value": 0.0047428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10075",
+      "display_name": "Atmospheric chemistry and aerosols",
+      "value": 0.0047067,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10753",
+      "display_name": "Microplastics and Plastic Pollution",
+      "value": 0.004438,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2310",
+        "display_name": "Pollution"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11234",
+      "display_name": "Precipitation Measurement and Analysis",
+      "value": 0.0044252,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "value": 0.0043953,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11362",
+      "display_name": "Membrane Separation and Gas Transport",
+      "value": 0.0043869,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12083",
+      "display_name": "Karst Systems and Hydrogeology",
+      "value": 0.0043236,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10341",
+      "display_name": "Coral and Marine Ecosystems Studies",
+      "value": 0.004277,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11312",
+      "display_name": "Soil Moisture and Remote Sensing",
+      "value": 0.0042445,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10520",
+      "display_name": "Mycotoxins in Agriculture and Food",
+      "value": 0.0042136,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11883",
+      "display_name": "Embodied and Extended Cognition",
+      "value": 0.0041922,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10466",
+      "display_name": "Meteorological Phenomena and Simulations",
+      "value": 0.0040197,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10347",
+      "display_name": "Atmospheric aerosols and clouds",
+      "value": 0.0039925,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10266",
+      "display_name": "Plant Water Relations and Carbon Dynamics",
+      "value": 0.003922,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "is_super_system": false,
+  "works_api_url": "https://api.openalex.org/works?filter=institutions.id:I4210155236",
+  "updated_date": "2026-03-03T06:01:00",
+  "created_date": "2022-02-02T04:48:36"
+}

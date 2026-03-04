@@ -1,0 +1,413 @@
+{
+  "id": "https://openalex.org/A5002352900",
+  "orcid": "https://orcid.org/0000-0003-1519-1842",
+  "display_name": "Kacper Niburski",
+  "display_name_alternatives": [
+    "Kacper Niburski",
+    "Niburski, Kacper"
+  ],
+  "works_count": 47,
+  "cited_by_count": 371,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.0,
+    "h_index": 7,
+    "i10_index": 5
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5002352900",
+    "orcid": "https://orcid.org/0000-0003-1519-1842"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I141945490",
+        "ror": "https://ror.org/03rmrcq20",
+        "display_name": "University of British Columbia",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I141945490"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2801953985",
+        "ror": "https://ror.org/0357ts970",
+        "display_name": "Spinal Cord Injury BC",
+        "country_code": "CA",
+        "type": "nonprofit",
+        "lineage": [
+          "https://openalex.org/I2801953985"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210088045",
+        "ror": "https://ror.org/002kdhq94",
+        "display_name": "Online Technologies (United States)",
+        "country_code": "US",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210088045"
+        ]
+      },
+      "years": [
+        2020
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210133446",
+        "ror": "https://ror.org/0315s4978",
+        "display_name": "Centre de Médecine Préventive",
+        "country_code": "FR",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210133446"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210148969",
+        "ror": "https://ror.org/0589bxs97",
+        "display_name": "McGill University and Génome Québec Innovation Centre",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210148969"
+        ]
+      },
+      "years": [
+        2020
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I5023651",
+        "ror": "https://ror.org/01pxwe438",
+        "display_name": "McGill University",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I5023651"
+        ]
+      },
+      "years": [
+        2022,
+        2021,
+        2020,
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I98251732",
+        "ror": "https://ror.org/02fa3aq29",
+        "display_name": "McMaster University",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I98251732"
+        ]
+      },
+      "years": [
+        2013
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I141945490",
+      "ror": "https://ror.org/03rmrcq20",
+      "display_name": "University of British Columbia",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I141945490"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11147",
+      "display_name": "Misinformation and Its Impacts",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10254",
+      "display_name": "Innovations in Medical Education",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10827",
+      "display_name": "Patient-Provider Communication in Healthcare",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10843",
+      "display_name": "Diversity and Career in Medicine",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3318",
+        "display_name": "Gender Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11296",
+      "display_name": "COVID-19 and healthcare impacts",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13665",
+      "display_name": "Legal and cultural studies analysis",
+      "value": 0.0001633,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13319",
+      "display_name": "Film in Education and Therapy",
+      "value": 4.82e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3605",
+        "display_name": "Health Information Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11147",
+      "display_name": "Misinformation and Its Impacts",
+      "value": 4e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11738",
+      "display_name": "Ultrasound in Clinical Applications",
+      "value": 3.31e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2706",
+        "display_name": "Critical Care and Intensive Care Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10827",
+      "display_name": "Patient-Provider Communication in Healthcare",
+      "value": 3.13e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "score": 0.9576613903045654
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.5303282141685486
+    },
+    {
+      "id": "15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "score": 0.4987454414367676
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.3598427176475525
+    },
+    {
+      "id": "142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "score": 0.26233160495758057
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2013,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2019,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2020,
+      "works_count": 24,
+      "oa_works_count": 17,
+      "cited_by_count": 264
+    },
+    {
+      "year": 2021,
+      "works_count": 11,
+      "oa_works_count": 10,
+      "cited_by_count": 93
+    },
+    {
+      "year": 2022,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2024,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    }
+  ],
+  "longest_name": "Niburski, Kacper",
+  "parsed_longest_name": {
+    "first": "kacper",
+    "middle": "",
+    "last": "niburski",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "k niburski",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002352900",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2020-06-05T00:00:00"
+}

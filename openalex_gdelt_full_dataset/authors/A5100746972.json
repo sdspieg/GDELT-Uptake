@@ -1,0 +1,359 @@
+{
+  "id": "https://openalex.org/A5100746972",
+  "orcid": "https://orcid.org/0000-0001-5140-5567",
+  "display_name": "Eric Wang",
+  "display_name_alternatives": [
+    "Eric Wang",
+    "Eric Zi Rui Wang"
+  ],
+  "works_count": 19,
+  "cited_by_count": 156,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.3333333333333333,
+    "h_index": 6,
+    "i10_index": 5
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5100746972",
+    "orcid": "https://orcid.org/0000-0001-5140-5567"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I125749732",
+        "ror": "https://ror.org/02grkyz14",
+        "display_name": "Western University",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I125749732"
+        ]
+      },
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I165690674",
+        "ror": "https://ror.org/009avj582",
+        "display_name": "Oregon Health & Science University",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I165690674"
+        ]
+      },
+      "years": [
+        2024,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I25846049",
+        "ror": "https://ror.org/00zdnkx70",
+        "display_name": "National Tsing Hua University",
+        "country_code": "TW",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I25846049"
+        ]
+      },
+      "years": [
+        2025,
+        2018
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I125749732",
+      "ror": "https://ror.org/02grkyz14",
+      "display_name": "Western University",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I125749732"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10515",
+      "display_name": "Cancer-related molecular mechanisms research",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10170",
+      "display_name": "Retinal Diseases and Treatments",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2731",
+        "display_name": "Ophthalmology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10290",
+      "display_name": "Pregnancy and preeclampsia studies",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2729",
+        "display_name": "Obstetrics and Gynecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10673",
+      "display_name": "Gestational Diabetes Research and Management",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2729",
+        "display_name": "Obstetrics and Gynecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10821",
+      "display_name": "Cardiovascular Function and Risk Factors",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2705",
+        "display_name": "Cardiology and Cardiovascular Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10673",
+      "display_name": "Gestational Diabetes Research and Management",
+      "value": 2.49e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2729",
+        "display_name": "Obstetrics and Gynecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10515",
+      "display_name": "Cancer-related molecular mechanisms research",
+      "value": 1.99e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1306",
+        "display_name": "Cancer Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11677",
+      "display_name": "Congenital heart defects research",
+      "value": 1.86e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11765",
+      "display_name": "Circular RNAs in diseases",
+      "value": 1.67e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12027",
+      "display_name": "Social Media in Health Education",
+      "value": 1.45e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "score": 0.7262862920761108
+    },
+    {
+      "id": "71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "score": 0.6972211003303528
+    },
+    {
+      "id": "126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "score": 0.5997576117515564
+    },
+    {
+      "id": "134018914",
+      "wikidata": "https://www.wikidata.org/wiki/Q162606",
+      "display_name": "Endocrinology",
+      "score": 0.5980197191238403
+    },
+    {
+      "id": "54355233",
+      "wikidata": "https://www.wikidata.org/wiki/Q7162",
+      "display_name": "Genetics",
+      "score": 0.27749210596084595
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2006,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2012,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2018,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2023,
+      "works_count": 5,
+      "oa_works_count": 4,
+      "cited_by_count": 79
+    },
+    {
+      "year": 2024,
+      "works_count": 6,
+      "oa_works_count": 6,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2025,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2026,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Eric Zi Rui Wang",
+  "parsed_longest_name": {
+    "first": "eric",
+    "middle": "zi rui",
+    "last": "wang",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "e wang",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5100746972",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

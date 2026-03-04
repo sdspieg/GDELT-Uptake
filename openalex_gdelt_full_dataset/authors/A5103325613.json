@@ -1,0 +1,335 @@
+{
+  "id": "https://openalex.org/A5103325613",
+  "orcid": "https://orcid.org/0000-0003-2314-6195",
+  "display_name": "Nan Li",
+  "display_name_alternatives": [
+    "Nan Li"
+  ],
+  "works_count": 5,
+  "cited_by_count": 97,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.0,
+    "h_index": 4,
+    "i10_index": 4
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5103325613",
+    "orcid": "https://orcid.org/0000-0003-2314-6195"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I19820366",
+        "ror": "https://ror.org/034t30j35",
+        "display_name": "Chinese Academy of Sciences",
+        "country_code": "CN",
+        "type": "funder",
+        "lineage": [
+          "https://openalex.org/I19820366"
+        ]
+      },
+      "years": [
+        2022,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210119653",
+        "ror": "https://ror.org/025gq5q04",
+        "display_name": "Institute of Urban Environment",
+        "country_code": "CN",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I19820366",
+          "https://openalex.org/I4210119653"
+        ]
+      },
+      "years": [
+        2022,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210165038",
+        "ror": "https://ror.org/05qbk4x57",
+        "display_name": "University of Chinese Academy of Sciences",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I19820366",
+          "https://openalex.org/I4210165038"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I99065089",
+        "ror": "https://ror.org/03cve4549",
+        "display_name": "Tsinghua University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I99065089"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I99065089",
+      "ror": "https://ror.org/03cve4549",
+      "display_name": "Tsinghua University",
+      "country_code": "CN",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I99065089"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10226",
+      "display_name": "Land Use and Ecosystem Services",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10435",
+      "display_name": "Environmental Impact and Sustainability",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10190",
+      "display_name": "Air Quality and Health Impacts",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10747",
+      "display_name": "Disaster Management and Resilience",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12746",
+      "display_name": "Sustainable Industrial Ecology",
+      "value": 1.93e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12325",
+      "display_name": "Urban Design and Spatial Analysis",
+      "value": 1.44e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10435",
+      "display_name": "Environmental Impact and Sustainability",
+      "value": 1.34e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11988",
+      "display_name": "Sustainable Building Design and Assessment",
+      "value": 1.23e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11963",
+      "display_name": "Impact of Light on Environment and Health",
+      "value": 9.3e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "191935318",
+      "wikidata": "https://www.wikidata.org/wiki/Q148",
+      "display_name": "China",
+      "score": 0.8440296053886414
+    },
+    {
+      "id": "205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "score": 0.6221569180488586
+    },
+    {
+      "id": "18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "score": 0.206941157579422
+    },
+    {
+      "id": "166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "score": 0.17049437761306763
+    },
+    {
+      "id": "86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "score": 0.10291361808776855
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 33
+    },
+    {
+      "year": 2022,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 63
+    },
+    {
+      "year": 2024,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "Nan Li",
+  "parsed_longest_name": {
+    "first": "nan",
+    "middle": "",
+    "last": "li",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "n li",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103325613",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

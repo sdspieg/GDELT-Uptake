@@ -1,0 +1,1909 @@
+{
+  "id": "https://openalex.org/I149899117",
+  "ror": "https://ror.org/01hhn8329",
+  "display_name": "Max Planck Society",
+  "country_code": "DE",
+  "type": "nonprofit",
+  "type_id": "https://openalex.org/institution-types/nonprofit",
+  "lineage": [
+    "https://openalex.org/I149899117"
+  ],
+  "homepage_url": "http://www.mpg.de/en",
+  "image_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/M%C3%BCnchen%20-%20Max-Planck-Gesellschaft.JPG",
+  "image_thumbnail_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/M%C3%BCnchen%20-%20Max-Planck-Gesellschaft.JPG&width=300",
+  "display_name_acronyms": [
+    "MPG"
+  ],
+  "display_name_alternatives": [
+    "Max Planck Society",
+    "Max-Planck-Gesellschaft zur Förderung der Wissenschaften"
+  ],
+  "repositories": [
+    {
+      "id": "https://openalex.org/S4306400224",
+      "display_name": "MDC Repository (Max-Delbrueck-Center for Molecular Medicine)",
+      "host_organization": "https://openalex.org/I149899117",
+      "host_organization_name": "Max Planck Society",
+      "host_organization_lineage": [
+        "https://openalex.org/I149899117"
+      ]
+    },
+    {
+      "id": "https://openalex.org/S4306400654",
+      "display_name": "MPG.PuRe (Max Planck Society)",
+      "host_organization": "https://openalex.org/I149899117",
+      "host_organization_name": "Max Planck Society",
+      "host_organization_lineage": [
+        "https://openalex.org/I149899117"
+      ]
+    }
+  ],
+  "works_count": 270059,
+  "cited_by_count": 20195291,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.5671950379048932,
+    "h_index": 1127,
+    "i10_index": 207652
+  },
+  "ids": {
+    "openalex": "https://openalex.org/I149899117",
+    "ror": "https://ror.org/01hhn8329",
+    "grid": "grid.4372.2",
+    "wikipedia": "http://en.wikipedia.org/wiki/Max_Planck_Society",
+    "wikidata": null
+  },
+  "geo": {
+    "city": "Munich",
+    "geonames_city_id": "2867714",
+    "region": "Bavaria",
+    "country_code": "DE",
+    "country": "Germany",
+    "latitude": 48.13743,
+    "longitude": 11.57549
+  },
+  "international": {},
+  "associated_institutions": [
+    {
+      "id": "https://openalex.org/I189554337",
+      "ror": "https://ror.org/032hzb643",
+      "display_name": "Center for Integrated Protein Science Munich",
+      "country_code": "DE",
+      "type": "other",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2799470291",
+      "ror": "https://ror.org/02967z527",
+      "display_name": "Kunsthistorisches Institut in Florenz",
+      "country_code": "IT",
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I2800289517",
+      "ror": "https://ror.org/03ztgj037",
+      "display_name": "German Climate Computing Centre",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I2800875726",
+      "ror": "https://ror.org/03k9qs827",
+      "display_name": "Fritz Haber Institute of the Max Planck Society",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210086037",
+      "ror": "https://ror.org/00d0v0049",
+      "display_name": "Max Planck Innovation",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210086768",
+      "ror": "https://ror.org/000rdbk18",
+      "display_name": "Max Planck Institute for Empirical Aesthetics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210087042",
+      "ror": "https://ror.org/000bxzc63",
+      "display_name": "Max Planck Institute for Medical Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210087223",
+      "ror": "https://ror.org/0046gcs23",
+      "display_name": "Max Planck Institute for Infection Biology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210088280",
+      "ror": "https://ror.org/0061msm67",
+      "display_name": "Max Planck Digital Library",
+      "country_code": "DE",
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210088365",
+      "ror": "https://ror.org/005bk2339",
+      "display_name": "Max Planck Institute for Solid State Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210088711",
+      "ror": "https://ror.org/0087djs12",
+      "display_name": "Max Planck Institute for Dynamics and Self-Organization",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210089003",
+      "ror": "https://ror.org/00671me87",
+      "display_name": "Max Planck Institute for Psycholinguistics",
+      "country_code": "NL",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210089019",
+      "ror": "https://ror.org/0079jjr10",
+      "display_name": "Max Planck Institute for Physics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210089806",
+      "ror": "https://ror.org/0095xwr23",
+      "display_name": "Max Planck Institute of Microstructure Physics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210090782",
+      "ror": "https://ror.org/00a7vgh58",
+      "display_name": "Max-Planck-Institut für Kohlenforschung",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210091327",
+      "ror": "https://ror.org/00ez2he07",
+      "display_name": "Max Planck Institute for Mathematics in the Sciences",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210091733",
+      "ror": "https://ror.org/00cd95c65",
+      "display_name": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen",
+      "country_code": "DE",
+      "type": "other",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4210091772",
+      "ror": "https://ror.org/00e4bwe12",
+      "display_name": "Max Planck Institute for Extraterrestrial Physics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210092306",
+      "ror": "https://ror.org/00pwgnh47",
+      "display_name": "Max Planck Institute of Colloids and Interfaces",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210095245",
+      "ror": "https://ror.org/00sb7hc59",
+      "display_name": "Max Planck Institute for Polymer Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210095684",
+      "ror": "https://ror.org/0080y7t67",
+      "display_name": "Max Planck Institute for the Study of Religious and Ethnic Diversity",
+      "country_code": "DE",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210095813",
+      "ror": "https://ror.org/00jpzvz45",
+      "display_name": "Max Planck Institute for Legal History and Legal Theory",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096592",
+      "ror": "https://ror.org/00bj0r217",
+      "display_name": "Max Planck Institute for Security and Privacy",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210097113",
+      "ror": "https://ror.org/00ygt2y02",
+      "display_name": "Ernst Strüngmann Institute for Neuroscience",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4210098279",
+      "ror": "https://ror.org/00wazyk32",
+      "display_name": "Max Planck - University of Ottawa Centre for Extreme and Quantum Photonics",
+      "country_code": "CA",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210102801",
+      "ror": "https://ror.org/0165r2y73",
+      "display_name": "Max Planck Institute for Heart and Lung Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210103014",
+      "ror": "https://ror.org/02385fa51",
+      "display_name": "Max Planck Institute for Marine Microbiology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210103661",
+      "ror": "https://ror.org/017qcv467",
+      "display_name": "Max Planck Institute for Astrophysics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210105091",
+      "ror": "https://ror.org/01c997669",
+      "display_name": "Max Planck Institute for Chemical Physics of Solids",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210105972",
+      "ror": "https://ror.org/01fbde567",
+      "display_name": "Max Planck Institute of Molecular Plant Physiology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210106926",
+      "ror": "https://ror.org/01ngpvg12",
+      "display_name": "Max-Planck-Institut für Nachhaltige Materialien",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210109156",
+      "ror": "https://ror.org/01vhnrs90",
+      "display_name": "Max Planck Institute for Astronomy",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210109712",
+      "ror": "https://ror.org/01w19ak89",
+      "display_name": "Max Planck Institute for Informatics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210110240",
+      "ror": "https://ror.org/020as7681",
+      "display_name": "Max Planck Institute for the Science of Light",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210110444",
+      "ror": "https://ror.org/01y9arx16",
+      "display_name": "Max Planck Institute for Chemical Energy Conversion",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210110850",
+      "ror": "https://ror.org/0199g0r92",
+      "display_name": "Max Planck Institute for Metabolism Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210111875",
+      "ror": "https://ror.org/01bf9rw71",
+      "display_name": "Max Planck Institute for the Physics of Complex Systems",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210112296",
+      "ror": "https://ror.org/023ahcz89",
+      "display_name": "Max Planck Institute for Comparative and International Private Law",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210112458",
+      "ror": "https://ror.org/022jc0g24",
+      "display_name": "Max Planck Institute for Developmental Biology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210112925",
+      "ror": "https://ror.org/026nmvv73",
+      "display_name": "Max Planck Institute for Biological Cybernetics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210113422",
+      "ror": "https://ror.org/02f5b7n18",
+      "display_name": "Max Planck Institute for Chemistry",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210113798",
+      "ror": "https://ror.org/01dwpbz64",
+      "display_name": "Max Planck Institute for the Study of Societies",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210114058",
+      "ror": "https://ror.org/026stee22",
+      "display_name": "Max Planck Institute of Animal Behavior",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210116419",
+      "ror": "https://ror.org/02j6gm739",
+      "display_name": "Max Planck Institute for Solar System Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210117675",
+      "ror": "https://ror.org/02ks53214",
+      "display_name": "Max Planck Institute for Chemical Ecology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210118560",
+      "ror": "https://ror.org/02a33b393",
+      "display_name": "Max Planck Institute for Evolutionary Anthropology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210119712",
+      "ror": "https://ror.org/02dh8ja68",
+      "display_name": "Max Planck Institute for Mathematics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210120221",
+      "ror": "https://ror.org/02pp7px91",
+      "display_name": "Max Planck Institute for Human Development",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210120293",
+      "ror": "https://ror.org/01vekys64",
+      "display_name": "Max Planck Institute of Quantum Optics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210120395",
+      "ror": "https://ror.org/02jgyam08",
+      "display_name": "Max Planck Institute for Demographic Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210120881",
+      "ror": "https://ror.org/02rbfnr22",
+      "display_name": "Max Planck Florida Institute for Neuroscience",
+      "country_code": "US",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210121704",
+      "ror": "https://ror.org/02mavc002",
+      "display_name": "Max Planck Institute for Social Anthropology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210121786",
+      "ror": "https://ror.org/02pe2kf23",
+      "display_name": "Max Planck Institute for Software Systems",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210122839",
+      "ror": "https://ror.org/02n9d1732",
+      "display_name": "Max Planck University of Twente Center for Complex Fluid Dynamics",
+      "country_code": "NL",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210124035",
+      "ror": "https://ror.org/02panr271",
+      "display_name": "Max Planck Institute of Biophysics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210126722",
+      "ror": "https://ror.org/02e4p6m45",
+      "display_name": "Social Neuroscience Lab",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210127408",
+      "ror": "https://ror.org/02h1nk258",
+      "display_name": "Max Planck Institute for Brain Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210127568",
+      "ror": "https://ror.org/030h7k016",
+      "display_name": "Max Planck Institute for Dynamics of Complex Technical Systems",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210127646",
+      "ror": "https://ror.org/03sry2h30",
+      "display_name": "Max Planck Institute for Gravitational Physics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129449",
+      "ror": "https://ror.org/033198s46",
+      "display_name": "Max Planck Institute for Innovation and Competition",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210130445",
+      "ror": "https://ror.org/0387jng26",
+      "display_name": "Max Planck Institute for Human Cognitive and Brain Sciences",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210130622",
+      "ror": "https://ror.org/03vpj4s62",
+      "display_name": "Max Planck Institute of Molecular Physiology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210134321",
+      "ror": "https://ror.org/03gj2cq31",
+      "display_name": "Max Planck Institute for Tax Law and Public Finance",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210134836",
+      "ror": "https://ror.org/02rxjts25",
+      "display_name": "Minerva Stiftung",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210134943",
+      "ror": "https://ror.org/04a8rd767",
+      "display_name": "Max Planck Institute for the Study of Crime, Security and Law",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210135521",
+      "ror": "https://ror.org/04fq9j139",
+      "display_name": "Max Planck Institute for Intelligent Systems",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210136328",
+      "ror": "https://ror.org/02x1q2477",
+      "display_name": "Max Planck Institute for Research on Collective Goods",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210138352",
+      "ror": "https://ror.org/03vp67w60",
+      "display_name": "Max Planck Institute for Social Law and Social Policy",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210139716",
+      "ror": "https://ror.org/03taest98",
+      "display_name": "Max Planck Institute for Plasma Physics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210141359",
+      "ror": "https://ror.org/0515m2n86",
+      "display_name": "Max Planck Institute for Comparative Public Law and International Law",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210141639",
+      "ror": "https://ror.org/044g3zk14",
+      "display_name": "Max Planck Institute for Plant Breeding Research",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210142260",
+      "ror": "https://ror.org/03ate3e03",
+      "display_name": "Max Planck Institute for Molecular Genetics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210142348",
+      "ror": "https://ror.org/0492sjc74",
+      "display_name": "Max Planck Institute for the History of Science",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210143036",
+      "ror": "https://ror.org/03hj69t32",
+      "display_name": "Max Planck Center for Visual Computing and Communication",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210145969",
+      "ror": "https://ror.org/04dq56617",
+      "display_name": "Max Planck Institute of Psychiatry",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210146695",
+      "ror": "https://ror.org/04g6zen34",
+      "display_name": "Bibliotheca Hertziana – Max Planck Institute for Art History",
+      "country_code": "IT",
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210147862",
+      "ror": "https://ror.org/04vh1tq58",
+      "display_name": "Friedrich Miescher Laboratory",
+      "country_code": "DE",
+      "type": "nonprofit",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210148385",
+      "ror": "https://ror.org/04c5b8z55",
+      "display_name": "Biomedicine Research Institute of Buenos Aires - CONICET - Partner Institute of the Max Planck Society",
+      "country_code": "AR",
+      "type": "facility",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4210149605",
+      "ror": "https://ror.org/04fx38p98",
+      "display_name": "Max Planck Research Unit for Neurogenetics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210149754",
+      "ror": "https://ror.org/05k0x2619",
+      "display_name": "Max Planck-Bristol Centre for Minimal Biology",
+      "country_code": "GB",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210149784",
+      "ror": "https://ror.org/0411b0f77",
+      "display_name": "Max Planck Institute for the Structure and Dynamics of Matter",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210150093",
+      "ror": "https://ror.org/04py35477",
+      "display_name": "Max Planck Institute of Biochemistry",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210150548",
+      "ror": "https://ror.org/04rhq3086",
+      "display_name": "Max Planck Unit for the Science of Pathogens",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210152351",
+      "ror": "https://ror.org/0534re684",
+      "display_name": "Max Planck Institute for Evolutionary Biology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210152666",
+      "ror": "https://ror.org/040djv263",
+      "display_name": "Max Planck Institute for Molecular Biomedicine",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210153965",
+      "ror": "https://ror.org/04xx1tc24",
+      "display_name": "Max Planck Institute for Biology of Ageing",
+      "country_code": "DE",
+      "type": "nonprofit",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210154168",
+      "ror": "https://ror.org/051yxp643",
+      "display_name": "Max Planck Institute for Biogeochemistry",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210156266",
+      "ror": "https://ror.org/052d0h423",
+      "display_name": "Max Planck Institute for Nuclear Physics",
+      "country_code": "DE",
+      "type": "nonprofit",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210158571",
+      "ror": "https://ror.org/04jvemc39",
+      "display_name": "Max Planck Institute for Radio Astronomy",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210159854",
+      "ror": "https://ror.org/05b8d3w18",
+      "display_name": "Max Planck Institute of Molecular Cell Biology and Genetics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210160812",
+      "ror": "https://ror.org/055pgv213",
+      "display_name": "Halbleiterlabor of the Max-Planck-Society",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210161060",
+      "ror": "https://ror.org/05mjrzy91",
+      "display_name": "Max Planck Institute for the Science of Human History",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210161959",
+      "ror": "https://ror.org/05ym69k36",
+      "display_name": "Max Planck Graduate Center",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210162232",
+      "ror": "https://ror.org/04wrg1d30",
+      "display_name": "Max Planck Research Unit for Enzymology of Protein Folding",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210163131",
+      "ror": "https://ror.org/05esem239",
+      "display_name": "Max Planck Institute for Meteorology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210164321",
+      "ror": "https://ror.org/058xzat49",
+      "display_name": "Max Planck Institute of Immunobiology and Epigenetics",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210165766",
+      "ror": "https://ror.org/0243gzr89",
+      "display_name": "Max Planck Institute for Biology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210166203",
+      "ror": "https://ror.org/05r7n9c40",
+      "display_name": "Max Planck Institute for Terrestrial Microbiology",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210166506",
+      "ror": "https://ror.org/05wctbc12",
+      "display_name": "Chemical Genomics Centre",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152376",
+      "ror": "https://ror.org/02yjyfs84",
+      "display_name": "Max Planck Institute for Neurobiology of Behavior – caesar",
+      "country_code": "DE",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153642",
+      "ror": "https://ror.org/03g267s60",
+      "display_name": "Max Planck Institute for Biological Intelligence",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154167",
+      "ror": "https://ror.org/00js75b59",
+      "display_name": "Max Planck Institute of Geoanthropology",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425303",
+      "ror": "https://ror.org/05tc5g775",
+      "display_name": "Max-Planck-Förderstiftung",
+      "country_code": null,
+      "type": "nonprofit",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405252446",
+      "ror": "https://ror.org/033zfn006",
+      "display_name": "In-Service Aircraft for a Global Observing System",
+      "country_code": null,
+      "type": "other",
+      "relationship": "related"
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2028,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2026,
+      "works_count": 351,
+      "oa_works_count": 315,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "works_count": 3572,
+      "oa_works_count": 3304,
+      "cited_by_count": 720
+    },
+    {
+      "year": 2024,
+      "works_count": 2000,
+      "oa_works_count": 1928,
+      "cited_by_count": 1890
+    },
+    {
+      "year": 2023,
+      "works_count": 1558,
+      "oa_works_count": 1482,
+      "cited_by_count": 2788
+    },
+    {
+      "year": 2022,
+      "works_count": 1226,
+      "oa_works_count": 1090,
+      "cited_by_count": 8872
+    },
+    {
+      "year": 2021,
+      "works_count": 3534,
+      "oa_works_count": 1785,
+      "cited_by_count": 13388
+    },
+    {
+      "year": 2020,
+      "works_count": 5699,
+      "oa_works_count": 2300,
+      "cited_by_count": 18395
+    },
+    {
+      "year": 2019,
+      "works_count": 7240,
+      "oa_works_count": 2226,
+      "cited_by_count": 19903
+    },
+    {
+      "year": 2018,
+      "works_count": 7858,
+      "oa_works_count": 2221,
+      "cited_by_count": 24789
+    },
+    {
+      "year": 2017,
+      "works_count": 7329,
+      "oa_works_count": 1792,
+      "cited_by_count": 26132
+    },
+    {
+      "year": 2016,
+      "works_count": 8752,
+      "oa_works_count": 2499,
+      "cited_by_count": 47649
+    },
+    {
+      "year": 2015,
+      "works_count": 9849,
+      "oa_works_count": 3031,
+      "cited_by_count": 186316
+    },
+    {
+      "year": 2014,
+      "works_count": 10730,
+      "oa_works_count": 3245,
+      "cited_by_count": 265817
+    },
+    {
+      "year": 2013,
+      "works_count": 10586,
+      "oa_works_count": 3375,
+      "cited_by_count": 311415
+    },
+    {
+      "year": 2012,
+      "works_count": 10428,
+      "oa_works_count": 3249,
+      "cited_by_count": 335698
+    },
+    {
+      "year": 2011,
+      "works_count": 10756,
+      "oa_works_count": 3179,
+      "cited_by_count": 360781
+    },
+    {
+      "year": 2010,
+      "works_count": 11136,
+      "oa_works_count": 3305,
+      "cited_by_count": 386236
+    }
+  ],
+  "roles": [
+    {
+      "role": "funder",
+      "id": "https://openalex.org/F4320322434",
+      "works_count": 43578
+    },
+    {
+      "role": "institution",
+      "id": "https://openalex.org/I149899117",
+      "works_count": 270059
+    },
+    {
+      "role": "publisher",
+      "id": "https://openalex.org/P4310313913",
+      "works_count": 0
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10346",
+      "display_name": "Magnetic confinement fusion research",
+      "count": 12217,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10159",
+      "display_name": "Ionosphere and magnetosphere dynamics",
+      "count": 6163,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10251",
+      "display_name": "Solar and Space Plasma Dynamics",
+      "count": 5739,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10592",
+      "display_name": "Fusion materials and technologies",
+      "count": 4725,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10325",
+      "display_name": "Astro and Planetary Science",
+      "count": 4492,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11367",
+      "display_name": "Particle accelerators and beam dynamics",
+      "count": 4423,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10039",
+      "display_name": "Stellar, planetary, and galactic studies",
+      "count": 4125,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11808",
+      "display_name": "Superconducting Materials and Applications",
+      "count": 3803,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12954",
+      "display_name": "Law and Political Science",
+      "count": 3547,
+      "score": 0.9970999956130981,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12917",
+      "display_name": "Astronomy and Astrophysical Research",
+      "count": 3372,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3105",
+        "display_name": "Instrumentation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10026",
+      "display_name": "Galaxies: Formation, Evolution, Phenomena",
+      "count": 3258,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10037",
+      "display_name": "Physics of Superconductivity and Magnetism",
+      "count": 3175,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3104",
+        "display_name": "Condensed Matter Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10002",
+      "display_name": "Advanced Chemical Physics Studies",
+      "count": 3009,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10818",
+      "display_name": "Astrophysics and Cosmic Phenomena",
+      "count": 2899,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10477",
+      "display_name": "Astrophysics and Star Formation Studies",
+      "count": 2888,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10744",
+      "display_name": "Astrophysical Phenomena and Observations",
+      "count": 2879,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10781",
+      "display_name": "Plasma Diagnostics and Applications",
+      "count": 2732,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10681",
+      "display_name": "Rare-earth and actinide compounds",
+      "count": 2650,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3104",
+        "display_name": "Condensed Matter Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11323",
+      "display_name": "Gamma-ray bursts and supernovae",
+      "count": 2575,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11177",
+      "display_name": "Spectroscopy and Quantum Chemical Studies",
+      "count": 2459,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10591",
+      "display_name": "Theoretical and Computational Physics",
+      "count": 2374,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3104",
+        "display_name": "Condensed Matter Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10413",
+      "display_name": "High-pressure geophysics and materials",
+      "count": 2362,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10581",
+      "display_name": "Neural dynamics and brain function",
+      "count": 2346,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13370",
+      "display_name": "Diverse Scientific and Economic Studies",
+      "count": 2325,
+      "score": 0.5575000047683716,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10048",
+      "display_name": "Particle physics theoretical and experimental studies",
+      "count": 2310,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12954",
+      "display_name": "Law and Political Science",
+      "value": 0.0847085,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13376",
+      "display_name": "Criminal Law and Policy",
+      "value": 0.0651135,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14362",
+      "display_name": "Diverse Legal and Medical Studies",
+      "value": 0.0554658,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13364",
+      "display_name": "Digitalization, Law, and Regulation",
+      "value": 0.052204,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13572",
+      "display_name": "German Security and Defense Policies",
+      "value": 0.0394919,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13360",
+      "display_name": "Economic and Social Issues",
+      "value": 0.0322384,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13763",
+      "display_name": "Historical Legal Studies and Society",
+      "value": 0.0321,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13459",
+      "display_name": "Public Administration and Political Analysis",
+      "value": 0.0298914,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10592",
+      "display_name": "Fusion materials and technologies",
+      "value": 0.0292385,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14102",
+      "display_name": "Corporate Governance and Law",
+      "value": 0.0284313,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10259",
+      "display_name": "Sociology and Education Studies",
+      "value": 0.028132,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12374",
+      "display_name": "European and International Contract Law",
+      "value": 0.0277168,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3308",
+        "display_name": "Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12921",
+      "display_name": "European Criminal Justice and Data Protection",
+      "value": 0.0267024,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13537",
+      "display_name": "German legal, social, and political studies",
+      "value": 0.0266524,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13212",
+      "display_name": "German Social Sciences and History",
+      "value": 0.0264661,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12767",
+      "display_name": "Conflict of Laws and Jurisdiction",
+      "value": 0.0262734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12864",
+      "display_name": "Psychoanalysis and Social Critique",
+      "value": 0.0253114,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3316",
+        "display_name": "Cultural Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14492",
+      "display_name": "War, Law, and Justice",
+      "value": 0.0251619,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14322",
+      "display_name": "Art, Aesthetics, and Perception",
+      "value": 0.024649,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1213",
+        "display_name": "Visual Arts and Performing Arts"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10744",
+      "display_name": "Astrophysical Phenomena and Observations",
+      "value": 0.0231658,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11893",
+      "display_name": "German Literature and Culture Studies",
+      "value": 0.0218488,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1208",
+        "display_name": "Literature and Literary Theory"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13167",
+      "display_name": "Historical, Literary, and Cultural Studies",
+      "value": 0.0216907,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1205",
+        "display_name": "Classics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13394",
+      "display_name": "Ecology, Conservation, and Geographical Studies",
+      "value": 0.021258,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2309",
+        "display_name": "Nature and Landscape Conservation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11603",
+      "display_name": "Dust and Plasma Wave Phenomena",
+      "value": 0.0207723,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13271",
+      "display_name": "Ukrainian Legal and Forensic Studies",
+      "value": 0.0205802,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "is_super_system": false,
+  "works_api_url": "https://api.openalex.org/works?filter=institutions.id:I149899117",
+  "updated_date": "2026-03-03T06:01:00",
+  "created_date": "2016-06-24T00:00:00"
+}

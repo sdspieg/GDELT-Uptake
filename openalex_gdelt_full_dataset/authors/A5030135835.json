@@ -1,0 +1,373 @@
+{
+  "id": "https://openalex.org/A5030135835",
+  "orcid": "https://orcid.org/0000-0002-0574-1612",
+  "display_name": "Ziyue Li",
+  "display_name_alternatives": [
+    "Hu, Rong",
+    "Li, Ziyue",
+    "Ziyue Li"
+  ],
+  "works_count": 17,
+  "cited_by_count": 38,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.3333333333333333,
+    "h_index": 4,
+    "i10_index": 1
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5030135835",
+    "orcid": "https://orcid.org/0000-0002-0574-1612"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I102520234",
+        "ror": "https://ror.org/014nnvj65",
+        "display_name": "TH Köln - University of Applied Sciences",
+        "country_code": "DE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I102520234"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I103163165",
+        "ror": "https://ror.org/05g3dte14",
+        "display_name": "Florida State University",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I103163165"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I180923762",
+        "ror": "https://ror.org/00rcxh774",
+        "display_name": "University of Cologne",
+        "country_code": "DE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I180923762"
+        ]
+      },
+      "years": [
+        2026,
+        2025,
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I30809798",
+        "ror": "https://ror.org/030bhh786",
+        "display_name": "ShanghaiTech University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I30809798"
+        ]
+      },
+      "years": [
+        2022,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210162190",
+        "ror": "https://ror.org/05gbn2817",
+        "display_name": "China University of Petroleum, East China",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210162190"
+        ]
+      },
+      "years": [
+        2026
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I180923762",
+      "ror": "https://ror.org/00rcxh774",
+      "display_name": "University of Cologne",
+      "country_code": "DE",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I180923762"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210162190",
+      "ror": "https://ror.org/05gbn2817",
+      "display_name": "China University of Petroleum, East China",
+      "country_code": "CN",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I4210162190"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12205",
+      "display_name": "Time Series Analysis and Forecasting",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1711",
+        "display_name": "Signal Processing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10698",
+      "display_name": "Transportation Planning and Optimization",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3313",
+        "display_name": "Transportation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10743",
+      "display_name": "Software Testing and Debugging Techniques",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1712",
+        "display_name": "Software"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12479",
+      "display_name": "Web Application Security Vulnerabilities",
+      "value": 5.24e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12034",
+      "display_name": "Digital and Cyber Forensics",
+      "value": 3.2e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12205",
+      "display_name": "Time Series Analysis and Forecasting",
+      "value": 2.98e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1711",
+        "display_name": "Signal Processing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11599",
+      "display_name": "Aviation Industry Analysis and Trends",
+      "value": 2.4e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14280",
+      "display_name": "Big Data Technologies and Applications",
+      "value": 2.03e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.906000018119812
+    },
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.3894689679145813
+    },
+    {
+      "id": "149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "score": 0.3623557686805725
+    },
+    {
+      "id": "127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "score": 0.18653634190559387
+    },
+    {
+      "id": "151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "score": 0.0689670741558075
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "works_count": 5,
+      "oa_works_count": 4,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "works_count": 9,
+      "oa_works_count": 7,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2026,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Li, Ziyue",
+  "parsed_longest_name": {
+    "first": "ziyue",
+    "middle": "",
+    "last": "li",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "z li",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5030135835",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2024-07-17T00:00:00"
+}

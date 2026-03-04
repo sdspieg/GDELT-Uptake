@@ -1,0 +1,172 @@
+{
+  "id": "https://openalex.org/A5089413155",
+  "orcid": "https://orcid.org/0000-0003-4330-1420",
+  "display_name": "Shuli Shen",
+  "display_name_alternatives": [
+    "Shuli Shen"
+  ],
+  "works_count": 2,
+  "cited_by_count": 1,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5089413155",
+    "orcid": "https://orcid.org/0000-0003-4330-1420"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I75059550",
+        "ror": "https://ror.org/0569mkk41",
+        "display_name": "Zhejiang Gongshang University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I75059550"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I75059550",
+      "ror": "https://ror.org/0569mkk41",
+      "display_name": "Zhejiang Gongshang University",
+      "country_code": "CN",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I75059550"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10632",
+      "display_name": "Housing Market and Economics",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11344",
+      "display_name": "Traffic Prediction and Management Techniques",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11344",
+      "display_name": "Traffic Prediction and Management Techniques",
+      "value": 6e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10632",
+      "display_name": "Housing Market and Economics",
+      "value": 4.7e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.7711609601974487
+    },
+    {
+      "id": "82279013",
+      "wikidata": "https://www.wikidata.org/wiki/Q684740",
+      "display_name": "Real estate",
+      "score": 0.7340307235717773
+    },
+    {
+      "id": "50644808",
+      "wikidata": "https://www.wikidata.org/wiki/Q192776",
+      "display_name": "Artificial neural network",
+      "score": 0.6735167503356934
+    },
+    {
+      "id": "103278499",
+      "wikidata": "https://www.wikidata.org/wiki/Q254465",
+      "display_name": "Similarity (geometry)",
+      "score": 0.44295555353164673
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.13889646530151367
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "Shuli Shen",
+  "parsed_longest_name": {
+    "first": "shuli",
+    "middle": "",
+    "last": "shen",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "s shen",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5089413155",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,390 @@
+{
+  "id": "https://openalex.org/A5068597219",
+  "orcid": null,
+  "display_name": "Priyadharshini Sivasubramaniam",
+  "display_name_alternatives": [
+    "Graham, Rondell P",
+    "Priyadharshini Sivasubramaniam"
+  ],
+  "works_count": 26,
+  "cited_by_count": 103,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.13333333333333333,
+    "h_index": 5,
+    "i10_index": 4
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5068597219",
+    "orcid": "https://orcid.org/0000-0001-6058-2688"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1310546135",
+        "ror": "https://ror.org/01nhrc260",
+        "display_name": "Froedtert Hospital",
+        "country_code": "US",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I1310546135"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I1330342723",
+        "ror": "https://ror.org/02qp3tb03",
+        "display_name": "Mayo Clinic",
+        "country_code": "US",
+        "type": "funder",
+        "lineage": [
+          "https://openalex.org/I1330342723"
+        ]
+      },
+      "years": [
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I204308271",
+        "ror": "https://ror.org/00qqv6244",
+        "display_name": "Medical College of Wisconsin",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I204308271"
+        ]
+      },
+      "years": [
+        2025,
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2802423016",
+        "ror": "https://ror.org/02s47w807",
+        "display_name": "WinnMed",
+        "country_code": "US",
+        "type": "nonprofit",
+        "lineage": [
+          "https://openalex.org/I2802423016"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210125099",
+        "ror": "https://ror.org/03jp40720",
+        "display_name": "Mayo Clinic in Arizona",
+        "country_code": "US",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I1330342723",
+          "https://openalex.org/I4210125099"
+        ]
+      },
+      "years": [
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210146710",
+        "ror": "https://ror.org/03zzw1w08",
+        "display_name": "Mayo Clinic in Florida",
+        "country_code": "US",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I1330342723",
+          "https://openalex.org/I4210146710"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I1310546135",
+      "ror": "https://ror.org/01nhrc260",
+      "display_name": "Froedtert Hospital",
+      "country_code": "US",
+      "type": "healthcare",
+      "lineage": [
+        "https://openalex.org/I1310546135"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I204308271",
+      "ror": "https://ror.org/00qqv6244",
+      "display_name": "Medical College of Wisconsin",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I204308271"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T12538",
+      "display_name": "Eosinophilic Esophagitis",
+      "count": 7,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10619",
+      "display_name": "Esophageal Cancer Research and Treatment",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12600",
+      "display_name": "Eosinophilic Disorders and Syndromes",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10307",
+      "display_name": "Head and Neck Cancer Studies",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2733",
+        "display_name": "Otorhinolaryngology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10351",
+      "display_name": "Liver Disease Diagnosis and Treatment",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12538",
+      "display_name": "Eosinophilic Esophagitis",
+      "value": 4.23e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10619",
+      "display_name": "Esophageal Cancer Research and Treatment",
+      "value": 3e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12600",
+      "display_name": "Eosinophilic Disorders and Syndromes",
+      "value": 2.23e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11909",
+      "display_name": "Histiocytic Disorders and Treatments",
+      "value": 1.92e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12528",
+      "display_name": "IL-33, ST2, and ILC Pathways",
+      "value": 1.61e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "score": 0.893559455871582
+    },
+    {
+      "id": "142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "score": 0.8497141599655151
+    },
+    {
+      "id": "126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "score": 0.7890181541442871
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.6506491899490356
+    },
+    {
+      "id": "2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "score": 0.5461000204086304
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 27
+    },
+    {
+      "year": 2023,
+      "works_count": 6,
+      "oa_works_count": 5,
+      "cited_by_count": 65
+    },
+    {
+      "year": 2024,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "works_count": 13,
+      "oa_works_count": 5,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Priyadharshini Sivasubramaniam",
+  "parsed_longest_name": {
+    "first": "priyadharshini",
+    "middle": "",
+    "last": "sivasubramaniam",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "p sivasubramaniam",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5068597219",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-09-19T00:00:00"
+}

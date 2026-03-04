@@ -1,0 +1,132 @@
+{
+  "id": "https://openalex.org/A5099880768",
+  "orcid": null,
+  "display_name": "Bagus Erix",
+  "display_name_alternatives": [
+    "Bagus Erix"
+  ],
+  "works_count": 1,
+  "cited_by_count": 0,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 0,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5099880768",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I862893732",
+        "ror": "https://ror.org/0004wsx81",
+        "display_name": "Telkom University",
+        "country_code": "ID",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I862893732"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I862893732",
+      "ror": "https://ror.org/0004wsx81",
+      "display_name": "Telkom University",
+      "country_code": "ID",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I862893732"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T13559",
+      "display_name": "Edcuational Technology Systems",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13559",
+      "display_name": "Edcuational Technology Systems",
+      "value": 4e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "2779302622",
+      "wikidata": "https://www.wikidata.org/wiki/Q191431",
+      "display_name": "Mandala",
+      "score": 0.9478885531425476
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.4955641031265259
+    },
+    {
+      "id": "205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "score": 0.10236233472824097
+    },
+    {
+      "id": "166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "score": 0.05590149760246277
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Bagus Erix",
+  "parsed_longest_name": {
+    "first": "bagus",
+    "middle": "",
+    "last": "erix",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "b erix",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5099880768",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2024-02-14T00:00:00"
+}

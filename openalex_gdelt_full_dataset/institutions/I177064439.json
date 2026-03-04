@@ -1,0 +1,1324 @@
+{
+  "id": "https://openalex.org/I177064439",
+  "ror": "https://ror.org/03k1bsr36",
+  "display_name": "Université de Bourgogne",
+  "country_code": "FR",
+  "type": "education",
+  "type_id": "https://openalex.org/institution-types/education",
+  "lineage": [
+    "https://openalex.org/I177064439"
+  ],
+  "homepage_url": "http://en.u-bourgogne.fr/",
+  "image_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Universit%C3%A9%20de%20Bourgogne%20Logo.svg",
+  "image_thumbnail_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Universit%C3%A9%20de%20Bourgogne%20Logo.svg&width=300",
+  "display_name_acronyms": [
+    "uB"
+  ],
+  "display_name_alternatives": [
+    "University of Burgundy",
+    "University of Dijon",
+    "Université de Bourgogne"
+  ],
+  "repositories": [],
+  "works_count": 49525,
+  "cited_by_count": 2452488,
+  "summary_stats": {
+    "2yr_mean_citedness": 2.1786440677966104,
+    "h_index": 403,
+    "i10_index": 41749
+  },
+  "ids": {
+    "openalex": "https://openalex.org/I177064439",
+    "ror": "https://ror.org/03k1bsr36",
+    "grid": "grid.5613.1",
+    "wikipedia": "http://en.wikipedia.org/wiki/University_of_Burgundy",
+    "wikidata": null
+  },
+  "geo": {
+    "city": "Dijon",
+    "geonames_city_id": "3021372",
+    "region": "Bourgogne-Franche-Comté",
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 47.31667,
+    "longitude": 5.01667
+  },
+  "international": {},
+  "associated_institutions": [
+    {
+      "id": "https://openalex.org/I4210098065",
+      "ror": "https://ror.org/00zgas264",
+      "display_name": "Procédés Alimentaires et Microbiologiques",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210100404",
+      "ror": "https://ror.org/00mkad321",
+      "display_name": "Agroécologie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210101185",
+      "ror": "https://ror.org/01a0gpy77",
+      "display_name": "Théoriser et Modéliser pour Aménager",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210103254",
+      "ror": "https://ror.org/01c2t8448",
+      "display_name": "Centre de Microbiologie du Sol et de l'Environnement",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210112333",
+      "ror": "https://ror.org/021f0sa24",
+      "display_name": "Institut de Mathématiques de Bourgogne",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210116240",
+      "ror": "https://ror.org/0377z4z10",
+      "display_name": "CHU Dijon Bourgogne",
+      "country_code": "FR",
+      "type": "healthcare",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4210124615",
+      "ror": "https://ror.org/02b6c1039",
+      "display_name": "Laboratoire Interdisciplinaire Carnot de Bourgogne",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210139033",
+      "ror": "https://ror.org/04d70nb60",
+      "display_name": "Centre de recherche Translationnelle en Médecine moléculaire",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210142595",
+      "ror": "https://ror.org/04ejcwb57",
+      "display_name": "Maison des Sciences sociales et des Humanités de Dijon",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210147393",
+      "ror": "https://ror.org/03xe54902",
+      "display_name": "Cognition, Action, and Sensorimotor Plasticity",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210150053",
+      "ror": "https://ror.org/04mp4zc06",
+      "display_name": "Laboratoire d'étude de l'apprentissage et du développement",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210158426",
+      "ror": "https://ror.org/04mzqjs78",
+      "display_name": "Biogéosciences",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210167300",
+      "ror": "https://ror.org/05s1rff82",
+      "display_name": "Centre des Sciences du Goût et de l'Alimentation",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152531",
+      "ror": "https://ror.org/00j5eb891",
+      "display_name": "Centre Interlangues",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152646",
+      "ror": "https://ror.org/05yj2y557",
+      "display_name": "Département de Recherche en Ingénierie des Véhicules pour l'Environnement",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152789",
+      "ror": "https://ror.org/024tyc086",
+      "display_name": "Centre Innovation et Droit",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152817",
+      "ror": "https://ror.org/020n3gx08",
+      "display_name": "ImViA - Imagerie et Vision Artificielle",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152837",
+      "ror": "https://ror.org/019qdtz78",
+      "display_name": "Institut de recherche sur l'éducation",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152849",
+      "ror": "https://ror.org/01ssxvy26",
+      "display_name": "CIMEOS - Communications, Médiations, Organisations, Savoirs",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152976",
+      "ror": "https://ror.org/01rb31945",
+      "display_name": "Laboratoire Interdisciplinaire de Recherches \"Sociétés, Sensibilités, Soin\"",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153146",
+      "ror": "https://ror.org/01ch21j41",
+      "display_name": "Connaissance & Intelligence Artificielle Distribuées",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153545",
+      "ror": "https://ror.org/02n7ax847",
+      "display_name": "Centre Pluridisciplinaire Textes et Cultures",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153910",
+      "ror": "https://ror.org/003cgs259",
+      "display_name": "Centre de recherche sur le droit des marchés et des investissements internationaux",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154113",
+      "ror": "https://ror.org/053wack18",
+      "display_name": "Laboratoire de psychologie: dynamiques relationnelles et processus identitaires",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154243",
+      "ror": "https://ror.org/0250h3a52",
+      "display_name": "Physiopathologie et Epidémiologie Cérébro-Cardiovasculaires",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155724",
+      "ror": "https://ror.org/038kqx890",
+      "display_name": "Laboratoire d'Informatique de Bourgogne",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156125",
+      "ror": "https://ror.org/017k05f91",
+      "display_name": "Centre de Recherche et d'Etude en Droit et Science Politique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156270",
+      "ror": "https://ror.org/0292fgv83",
+      "display_name": "Centre de REcherche En Gestion des Organisations",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156292",
+      "ror": "https://ror.org/02c01r047",
+      "display_name": "Laboratoire d'économie de Dijon",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156463",
+      "ror": "https://ror.org/02v6phz91",
+      "display_name": "Vision pour la Robotique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4391012556",
+      "ror": "https://ror.org/011hdpx94",
+      "display_name": "Archéologie, Terre, Histoire, Sociétés",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4391012563",
+      "ror": "https://ror.org/011ygpb73",
+      "display_name": "Institut de Chimie Moléculaire de l'Université de Bourgogne",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253280",
+      "ror": "https://ror.org/00g700j37",
+      "display_name": "Université Bourgogne Europe",
+      "country_code": "FR",
+      "type": "education",
+      "relationship": "successor"
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2033,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2027,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2026,
+      "works_count": 188,
+      "oa_works_count": 124,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "works_count": 1490,
+      "oa_works_count": 1005,
+      "cited_by_count": 1532
+    },
+    {
+      "year": 2024,
+      "works_count": 2623,
+      "oa_works_count": 1764,
+      "cited_by_count": 6785
+    },
+    {
+      "year": 2023,
+      "works_count": 2839,
+      "oa_works_count": 1857,
+      "cited_by_count": 13886
+    },
+    {
+      "year": 2022,
+      "works_count": 2404,
+      "oa_works_count": 1485,
+      "cited_by_count": 18955
+    },
+    {
+      "year": 2021,
+      "works_count": 2408,
+      "oa_works_count": 1412,
+      "cited_by_count": 28922
+    },
+    {
+      "year": 2020,
+      "works_count": 2151,
+      "oa_works_count": 1281,
+      "cited_by_count": 34181
+    },
+    {
+      "year": 2019,
+      "works_count": 2203,
+      "oa_works_count": 1051,
+      "cited_by_count": 29739
+    },
+    {
+      "year": 2018,
+      "works_count": 2313,
+      "oa_works_count": 1033,
+      "cited_by_count": 29795
+    },
+    {
+      "year": 2017,
+      "works_count": 2217,
+      "oa_works_count": 842,
+      "cited_by_count": 51461
+    },
+    {
+      "year": 2016,
+      "works_count": 2467,
+      "oa_works_count": 887,
+      "cited_by_count": 54024
+    },
+    {
+      "year": 2015,
+      "works_count": 2073,
+      "oa_works_count": 770,
+      "cited_by_count": 45991
+    },
+    {
+      "year": 2014,
+      "works_count": 2164,
+      "oa_works_count": 807,
+      "cited_by_count": 48134
+    },
+    {
+      "year": 2013,
+      "works_count": 2038,
+      "oa_works_count": 737,
+      "cited_by_count": 53070
+    },
+    {
+      "year": 2012,
+      "works_count": 1974,
+      "oa_works_count": 708,
+      "cited_by_count": 51066
+    },
+    {
+      "year": 2011,
+      "works_count": 1923,
+      "oa_works_count": 693,
+      "cited_by_count": 49000
+    },
+    {
+      "year": 2010,
+      "works_count": 1564,
+      "oa_works_count": 507,
+      "cited_by_count": 49585
+    }
+  ],
+  "roles": [
+    {
+      "role": "funder",
+      "id": "https://openalex.org/F4320322774",
+      "works_count": 1305
+    },
+    {
+      "role": "institution",
+      "id": "https://openalex.org/I177064439",
+      "works_count": 49525
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11475",
+      "display_name": "French Urban and Social Studies",
+      "count": 1453,
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10153",
+      "display_name": "Education, sociology, and vocational training",
+      "count": 1159,
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10988",
+      "display_name": "Advanced Fiber Laser Technologies",
+      "count": 1155,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13641",
+      "display_name": "Historical Studies and Socio-cultural Analysis",
+      "count": 1088,
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1207",
+        "display_name": "History and Philosophy of Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13099",
+      "display_name": "Health, Medicine and Society",
+      "count": 781,
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13033",
+      "display_name": "Social Sciences and Governance",
+      "count": 747,
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13621",
+      "display_name": "Ancient and Medieval Archaeology Studies",
+      "count": 681,
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10109",
+      "display_name": "Paleontology and Stratigraphy of Fossils",
+      "count": 649,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1911",
+        "display_name": "Paleontology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14162",
+      "display_name": "Historical and Literary Studies",
+      "count": 644,
+      "score": 0.9993000030517578,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10017",
+      "display_name": "Geology and Paleoclimatology Research",
+      "count": 637,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10971",
+      "display_name": "Olfactory and Sensory Function Studies",
+      "count": 610,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2809",
+        "display_name": "Sensory Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12119",
+      "display_name": "Linguistics and Discourse Analysis",
+      "count": 583,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14186",
+      "display_name": "Healthcare Systems and Practices",
+      "count": 582,
+      "score": 0.9995999932289124,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11584",
+      "display_name": "Biochemical Analysis and Sensing Techniques",
+      "count": 554,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2916",
+        "display_name": "Nutrition and Dietetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/29",
+        "display_name": "Nursing"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10232",
+      "display_name": "Optical Network Technologies",
+      "count": 538,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10566",
+      "display_name": "Laser-Matter Interactions and Applications",
+      "count": 515,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13068",
+      "display_name": "Ancient Mediterranean Archaeology and History",
+      "count": 504,
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11796",
+      "display_name": "Horticultural and Viticultural Research",
+      "count": 489,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13396",
+      "display_name": "Agriculture and Rural Development Research",
+      "count": 477,
+      "score": 0.9987999796867371,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1105",
+        "display_name": "Ecology, Evolution, Behavior and Systematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10846",
+      "display_name": "Photonic Crystal and Fiber Optics",
+      "count": 475,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10299",
+      "display_name": "Photonic and Optical Devices",
+      "count": 471,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10750",
+      "display_name": "Fermentation and Sensory Analysis",
+      "count": 469,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1106",
+        "display_name": "Food Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13807",
+      "display_name": "Cultural Insights and Digital Impacts",
+      "count": 447,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13888",
+      "display_name": "Social Policies and Family",
+      "count": 444,
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11575",
+      "display_name": "Nonlinear Photonic Systems",
+      "count": 431,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13739",
+      "display_name": "Medieval and Early Modern Justice",
+      "value": 0.0114189,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13621",
+      "display_name": "Ancient and Medieval Archaeology Studies",
+      "value": 0.01034,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14208",
+      "display_name": "Death, Funerary Practices, and Mourning",
+      "value": 0.0090565,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13831",
+      "display_name": "Archaeological and Geological Studies",
+      "value": 0.0088714,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10153",
+      "display_name": "Education, sociology, and vocational training",
+      "value": 0.00878,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13753",
+      "display_name": "Diverse multidisciplinary academic research",
+      "value": 0.0081741,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3316",
+        "display_name": "Cultural Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14300",
+      "display_name": "Legal and Social Philosophy",
+      "value": 0.007047,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11857",
+      "display_name": "Archaeological and Historical Studies",
+      "value": 0.0070159,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14379",
+      "display_name": "Diverse Cultural and Historical Studies",
+      "value": 0.0068127,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3316",
+        "display_name": "Cultural Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14021",
+      "display_name": "Medieval European Literature and History",
+      "value": 0.0067763,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13641",
+      "display_name": "Historical Studies and Socio-cultural Analysis",
+      "value": 0.0067199,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1207",
+        "display_name": "History and Philosophy of Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13888",
+      "display_name": "Social Policies and Family",
+      "value": 0.0065171,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13714",
+      "display_name": "Medieval Architecture and Archaeology",
+      "value": 0.0060769,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14162",
+      "display_name": "Historical and Literary Studies",
+      "value": 0.006072,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13807",
+      "display_name": "Cultural Insights and Digital Impacts",
+      "value": 0.0060632,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13810",
+      "display_name": "Legal Systems and Institutions",
+      "value": 0.0060258,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12399",
+      "display_name": "Wine Industry and Tourism",
+      "value": 0.0059994,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1409",
+        "display_name": "Tourism, Leisure and Hospitality Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13068",
+      "display_name": "Ancient Mediterranean Archaeology and History",
+      "value": 0.0058926,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10846",
+      "display_name": "Photonic Crystal and Fiber Optics",
+      "value": 0.0058367,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13033",
+      "display_name": "Social Sciences and Governance",
+      "value": 0.0058348,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11475",
+      "display_name": "French Urban and Social Studies",
+      "value": 0.0057766,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12114",
+      "display_name": "Sensory Analysis and Statistical Methods",
+      "value": 0.005658,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1106",
+        "display_name": "Food Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13070",
+      "display_name": "Cultural Identity and Heritage",
+      "value": 0.0052344,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12454",
+      "display_name": "European Political History Analysis",
+      "value": 0.0052245,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1202",
+        "display_name": "History"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14186",
+      "display_name": "Healthcare Systems and Practices",
+      "value": 0.0050308,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "is_super_system": false,
+  "works_api_url": "https://api.openalex.org/works?filter=institutions.id:I177064439",
+  "updated_date": "2026-03-03T06:01:00",
+  "created_date": "2016-06-24T00:00:00"
+}

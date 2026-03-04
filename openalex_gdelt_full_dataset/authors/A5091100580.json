@@ -1,0 +1,452 @@
+{
+  "id": "https://openalex.org/A5091100580",
+  "orcid": "https://orcid.org/0000-0002-0505-3684",
+  "display_name": "Joanna Rak",
+  "display_name_alternatives": [
+    "Joanna RAK",
+    "Joanna Rak",
+    "Rak, Joanna"
+  ],
+  "works_count": 158,
+  "cited_by_count": 225,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.12,
+    "h_index": 9,
+    "i10_index": 6
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5091100580",
+    "orcid": "https://orcid.org/0000-0002-0505-3684"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I3019271933",
+        "ror": "https://ror.org/0102mm775",
+        "display_name": "Nicolaus Copernicus University",
+        "country_code": "PL",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I3019271933"
+        ]
+      },
+      "years": [
+        2023,
+        2018,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210108542",
+        "ror": "https://ror.org/01mcc7007",
+        "display_name": "Schlumberger (Ireland)",
+        "country_code": "IE",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210092184",
+          "https://openalex.org/I4210108542"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210128191",
+        "ror": "https://ror.org/03a07kg34",
+        "display_name": "Uniwersytecki Szpital Kliniczny w Olsztynie",
+        "country_code": "PL",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210128191"
+        ]
+      },
+      "years": [
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210147929",
+        "ror": "https://ror.org/04h3krc89",
+        "display_name": "National Secretariat - Indonesian Forum for Budget Transparency",
+        "country_code": "ID",
+        "type": "other",
+        "lineage": [
+          "https://openalex.org/I4210147929"
+        ]
+      },
+      "years": [
+        2012
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210161658",
+        "ror": "https://ror.org/0548hz093",
+        "display_name": "Russian State Agrarian Correspondence University",
+        "country_code": "RU",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210161658"
+        ]
+      },
+      "years": [
+        2016
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I59411706",
+        "ror": "https://ror.org/04g6bbq64",
+        "display_name": "Adam Mickiewicz University in Poznań",
+        "country_code": "PL",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I59411706"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I59411706",
+      "ror": "https://ror.org/04g6bbq64",
+      "display_name": "Adam Mickiewicz University in Poznań",
+      "country_code": "PL",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I59411706"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11397",
+      "display_name": "Populism, Right-Wing Movements",
+      "count": 21,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10070",
+      "display_name": "Political Conflict and Governance",
+      "count": 17,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12764",
+      "display_name": "Polish Historical and Cultural Studies",
+      "count": 15,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14005",
+      "display_name": "Eastern European Communism and Reforms",
+      "count": 15,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10994",
+      "display_name": "Terrorism, Counterterrorism, and Political Violence",
+      "count": 10,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11397",
+      "display_name": "Populism, Right-Wing Movements",
+      "value": 0.0003377,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10070",
+      "display_name": "Political Conflict and Governance",
+      "value": 0.0001789,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13041",
+      "display_name": "Contemporary Social and Economic Issues",
+      "value": 0.0001428,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3300",
+        "display_name": "General Social Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13055",
+      "display_name": "Global Security and Public Health",
+      "value": 0.0001202,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12939",
+      "display_name": "Polish Law and Legal System",
+      "value": 8.9e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "score": 0.8045869469642639
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.7132725119590759
+    },
+    {
+      "id": "144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "score": 0.6911522150039673
+    },
+    {
+      "id": "138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "score": 0.5514302849769592
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.5311894416809082
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2011,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2012,
+      "works_count": 6,
+      "oa_works_count": 4,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2013,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2014,
+      "works_count": 5,
+      "oa_works_count": 3,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2015,
+      "works_count": 11,
+      "oa_works_count": 2,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2016,
+      "works_count": 17,
+      "oa_works_count": 2,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2017,
+      "works_count": 17,
+      "oa_works_count": 6,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2018,
+      "works_count": 16,
+      "oa_works_count": 5,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2019,
+      "works_count": 7,
+      "oa_works_count": 4,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2020,
+      "works_count": 10,
+      "oa_works_count": 9,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2021,
+      "works_count": 9,
+      "oa_works_count": 7,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2022,
+      "works_count": 17,
+      "oa_works_count": 12,
+      "cited_by_count": 48
+    },
+    {
+      "year": 2023,
+      "works_count": 13,
+      "oa_works_count": 8,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2024,
+      "works_count": 19,
+      "oa_works_count": 2,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "works_count": 6,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Rak, Joanna",
+  "parsed_longest_name": {
+    "first": "joanna",
+    "middle": "",
+    "last": "rak",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "j rak",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5091100580",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

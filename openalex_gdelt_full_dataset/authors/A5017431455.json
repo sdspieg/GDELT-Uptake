@@ -1,0 +1,396 @@
+{
+  "id": "https://openalex.org/A5017431455",
+  "orcid": null,
+  "display_name": "Joseph‐Simon Görlach",
+  "display_name_alternatives": [
+    "Joseph-Simon Gorlach",
+    "Joseph-Simon Görlach",
+    "Joseph‐Simon Görlach"
+  ],
+  "works_count": 18,
+  "cited_by_count": 231,
+  "summary_stats": {
+    "2yr_mean_citedness": 5.75,
+    "h_index": 7,
+    "i10_index": 7
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5017431455",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210104025",
+        "ror": "https://ror.org/014z5x149",
+        "display_name": "Institute for Economic Research",
+        "country_code": "SI",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I4210104025"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210140326",
+        "ror": "https://ror.org/04jzmdh37",
+        "display_name": "Centre for Economic Policy Research",
+        "country_code": "GB",
+        "type": "funder",
+        "lineage": [
+          "https://openalex.org/I4210140326"
+        ]
+      },
+      "years": [
+        2024,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I45129253",
+        "ror": "https://ror.org/02jx3x895",
+        "display_name": "University College London",
+        "country_code": "GB",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I124357947",
+          "https://openalex.org/I45129253"
+        ]
+      },
+      "years": [
+        2016,
+        2015
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I71209653",
+        "ror": "https://ror.org/05crjpb27",
+        "display_name": "Bocconi University",
+        "country_code": "IT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I71209653"
+        ]
+      },
+      "years": [
+        2024,
+        2022,
+        2021,
+        2020,
+        2019
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I4210140326",
+      "ror": "https://ror.org/04jzmdh37",
+      "display_name": "Centre for Economic Policy Research",
+      "country_code": "GB",
+      "type": "nonprofit",
+      "lineage": [
+        "https://openalex.org/I4210140326"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210140326",
+      "ror": "https://ror.org/04jzmdh37",
+      "display_name": "Centre for Economic Policy Research",
+      "country_code": "GB",
+      "type": "funder",
+      "lineage": [
+        "https://openalex.org/I4210140326"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I71209653",
+      "ror": "https://ror.org/05crjpb27",
+      "display_name": "Bocconi University",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I71209653"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10349",
+      "display_name": "Migration and Labor Dynamics",
+      "count": 14,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12693",
+      "display_name": "Migration, Ethnicity, and Economy",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11014",
+      "display_name": "Regional Economics and Spatial Analysis",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11257",
+      "display_name": "Taxation and Compliance Studies",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10349",
+      "display_name": "Migration and Labor Dynamics",
+      "value": 6.44e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12693",
+      "display_name": "Migration, Ethnicity, and Economy",
+      "value": 3.79e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "value": 3.56e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11014",
+      "display_name": "Regional Economics and Spatial Analysis",
+      "value": 2.73e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13718",
+      "display_name": "Media Influence and Politics",
+      "value": 2.45e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.7892991900444031
+    },
+    {
+      "id": "4249254",
+      "wikidata": "https://www.wikidata.org/wiki/Q3044431",
+      "display_name": "Demographic economics",
+      "score": 0.5403585433959961
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.41860848665237427
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.21383020281791687
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.06491827964782715
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2008,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2014,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2015,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 46
+    },
+    {
+      "year": 2016,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2019,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2022,
+      "works_count": 5,
+      "oa_works_count": 3,
+      "cited_by_count": 108
+    },
+    {
+      "year": 2024,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 23
+    }
+  ],
+  "longest_name": "Joseph‐Simon Görlach",
+  "parsed_longest_name": {
+    "first": "joseph‐simon",
+    "middle": "",
+    "last": "gorlach",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "j gorlach",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5017431455",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2023-01-05T00:00:00"
+}

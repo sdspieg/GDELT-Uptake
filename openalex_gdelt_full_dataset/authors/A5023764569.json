@@ -1,0 +1,478 @@
+{
+  "id": "https://openalex.org/A5023764569",
+  "orcid": "https://orcid.org/0000-0002-2031-4686",
+  "display_name": "Andrew M. Linke",
+  "display_name_alternatives": [
+    "A M Linke",
+    "A. Linke",
+    "Andrew Linke",
+    "Andrew M Linke",
+    "Andrew M. Linke",
+    "Linke, Andrew",
+    "Linke, Andrew M.",
+    "Taylor, Steve",
+    "andrew linke"
+  ],
+  "works_count": 59,
+  "cited_by_count": 3432,
+  "summary_stats": {
+    "2yr_mean_citedness": 2.2,
+    "h_index": 22,
+    "i10_index": 32
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5023764569",
+    "orcid": "https://orcid.org/0000-0002-2031-4686"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I114027177",
+        "ror": "https://ror.org/0130frc33",
+        "display_name": "University of North Carolina at Chapel Hill",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I114027177"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I188538660",
+        "ror": "https://ror.org/02ttsq026",
+        "display_name": "University of Colorado Boulder",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I188538660"
+        ]
+      },
+      "years": [
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I223532165",
+        "ror": "https://ror.org/03r0ha626",
+        "display_name": "University of Utah",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I223532165"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2018,
+        2017,
+        2016,
+        2015
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2802236040",
+        "ror": "https://ror.org/00jc20583",
+        "display_name": "University of Colorado System",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I2802236040"
+        ]
+      },
+      "years": [
+        2012,
+        2011,
+        2010
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I60419261",
+        "ror": "https://ror.org/04dx54y73",
+        "display_name": "Peace Research Institute Oslo",
+        "country_code": "NO",
+        "type": "other",
+        "lineage": [
+          "https://openalex.org/I60419261"
+        ]
+      },
+      "years": [
+        2023,
+        2021,
+        2020,
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I76198965",
+        "ror": "https://ror.org/05qpz1x62",
+        "display_name": "Friedrich Schiller University Jena",
+        "country_code": "DE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I76198965"
+        ]
+      },
+      "years": [
+        2017
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I223532165",
+      "ror": "https://ror.org/03r0ha626",
+      "display_name": "University of Utah",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I223532165"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10070",
+      "display_name": "Political Conflict and Governance",
+      "count": 19,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11755",
+      "display_name": "Transboundary Water Resource Management",
+      "count": 13,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12467",
+      "display_name": "Rangeland Management and Livestock Ecology",
+      "count": 12,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12656",
+      "display_name": "Climate Change, Adaptation, Migration",
+      "count": 10,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10994",
+      "display_name": "Terrorism, Counterterrorism, and Political Violence",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13307",
+      "display_name": "Diverse Scientific and Engineering Research",
+      "value": 0.0003007,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10070",
+      "display_name": "Political Conflict and Governance",
+      "value": 0.0001999,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11755",
+      "display_name": "Transboundary Water Resource Management",
+      "value": 0.0001695,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12656",
+      "display_name": "Climate Change, Adaptation, Migration",
+      "value": 0.000153,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12312",
+      "display_name": "Culture, Economy, and Development Studies",
+      "value": 0.0001272,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3317",
+        "display_name": "Demography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "score": 0.6847132444381714
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.6641781330108643
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.5386767983436584
+    },
+    {
+      "id": "144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "score": 0.45654797554016113
+    },
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.2868822515010834
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 1977,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2005,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2010,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 1764
+    },
+    {
+      "year": 2011,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 115
+    },
+    {
+      "year": 2012,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 354
+    },
+    {
+      "year": 2013,
+      "works_count": 5,
+      "oa_works_count": 2,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2014,
+      "works_count": 4,
+      "oa_works_count": 2,
+      "cited_by_count": 270
+    },
+    {
+      "year": 2015,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 156
+    },
+    {
+      "year": 2016,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 46
+    },
+    {
+      "year": 2017,
+      "works_count": 6,
+      "oa_works_count": 2,
+      "cited_by_count": 263
+    },
+    {
+      "year": 2018,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 88
+    },
+    {
+      "year": 2019,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2020,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 34
+    },
+    {
+      "year": 2021,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 90
+    },
+    {
+      "year": 2022,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2023,
+      "works_count": 7,
+      "oa_works_count": 4,
+      "cited_by_count": 166
+    },
+    {
+      "year": 2024,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2025,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Linke, Andrew M.",
+  "parsed_longest_name": {
+    "first": "andrew",
+    "middle": "m",
+    "last": "linke",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "a linke",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5023764569",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

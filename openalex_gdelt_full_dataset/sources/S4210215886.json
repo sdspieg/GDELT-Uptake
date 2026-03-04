@@ -1,0 +1,1321 @@
+{
+  "id": "https://openalex.org/S4210215886",
+  "issn_l": "0366-9130",
+  "issn": [
+    "0366-9130",
+    "2597-291X"
+  ],
+  "display_name": "Danmarks Geologiske Undersøgelse II Række",
+  "host_organization": null,
+  "host_organization_name": null,
+  "host_organization_lineage": [],
+  "works_count": 124,
+  "oa_works_count": 124,
+  "cited_by_count": 2331,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 23,
+    "i10_index": 59
+  },
+  "is_oa": false,
+  "is_in_doaj": false,
+  "is_in_doaj_since_year": null,
+  "is_high_oa_rate": false,
+  "is_high_oa_rate_since_year": null,
+  "is_in_scielo": false,
+  "is_ojs": false,
+  "is_core": false,
+  "oa_flip_year": null,
+  "first_publication_year": 1890,
+  "last_publication_year": 2022,
+  "ids": {
+    "openalex": "https://openalex.org/S4210215886",
+    "issn_l": "0366-9130",
+    "issn": [
+      "0366-9130",
+      "2597-291X"
+    ],
+    "mag": "4210215886",
+    "wikidata": null
+  },
+  "homepage_url": null,
+  "apc_prices": [],
+  "apc_usd": null,
+  "country_code": "DK",
+  "societies": [],
+  "alternate_titles": [
+    "Geological Survey of Denmark. 2. series",
+    "Danmarks Geologiske Undersøgelse.",
+    "Danmarks Geologiske Undersøgelse. Anden række",
+    "Geological Survey of Denmark.",
+    "D.G.U.."
+  ],
+  "type": "journal",
+  "topics": [
+    {
+      "id": "https://openalex.org/T10017",
+      "display_name": "Geology and Paleoclimatology Research",
+      "count": 41,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12821",
+      "display_name": "Geological Formations and Processes Exploration",
+      "count": 22,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14047",
+      "display_name": "Marine and environmental studies",
+      "count": 21,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13593",
+      "display_name": "Historical and Archaeological Studies",
+      "count": 20,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1202",
+        "display_name": "History"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14339",
+      "display_name": "Image Processing and 3D Reconstruction",
+      "count": 19,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10109",
+      "display_name": "Paleontology and Stratigraphy of Fossils",
+      "count": 15,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1911",
+        "display_name": "Paleontology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12618",
+      "display_name": "Botany and Plant Ecology Studies",
+      "count": 15,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13126",
+      "display_name": "Scientific Research and Discoveries",
+      "count": 15,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13193",
+      "display_name": "Geological Studies and Exploration",
+      "count": 14,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1907",
+        "display_name": "Geology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13067",
+      "display_name": "Geological Modeling and Analysis",
+      "count": 13,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1906",
+        "display_name": "Geochemistry and Petrology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10421",
+      "display_name": "Pleistocene-Era Hominins and Archaeology",
+      "count": 9,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11786",
+      "display_name": "Geomagnetism and Paleomagnetism Studies",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12157",
+      "display_name": "Geochemistry and Geologic Mapping",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10995",
+      "display_name": "Methane Hydrates and Related Phenomena",
+      "count": 7,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2304",
+        "display_name": "Environmental Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10965",
+      "display_name": "Geological formations and processes",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14039",
+      "display_name": "Ecology and biodiversity studies",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10572",
+      "display_name": "Geophysical and Geoelectrical Methods",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10765",
+      "display_name": "Marine Biology and Ecology Research",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11528",
+      "display_name": "Lichen and fungal ecology",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1105",
+        "display_name": "Ecology, Evolution, Behavior and Systematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12091",
+      "display_name": "Peatlands and Wetlands Ecology",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12455",
+      "display_name": "Mediterranean and Iberian flora and fauna",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10001",
+      "display_name": "Geological and Geochemical Analysis",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12012",
+      "display_name": "Diatoms and Algae Research",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2502",
+        "display_name": "Biomaterials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12596",
+      "display_name": "Cephalopods and Marine Biology",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1105",
+        "display_name": "Ecology, Evolution, Behavior and Systematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12624",
+      "display_name": "Maritime and Coastal Archaeology",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1204",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12821",
+      "display_name": "Geological Formations and Processes Exploration",
+      "value": 0.0001855,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14047",
+      "display_name": "Marine and environmental studies",
+      "value": 8.37e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13593",
+      "display_name": "Historical and Archaeological Studies",
+      "value": 5.76e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1202",
+        "display_name": "History"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10017",
+      "display_name": "Geology and Paleoclimatology Research",
+      "value": 5.3e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14339",
+      "display_name": "Image Processing and 3D Reconstruction",
+      "value": 4.28e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13126",
+      "display_name": "Scientific Research and Discoveries",
+      "value": 4.08e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13193",
+      "display_name": "Geological Studies and Exploration",
+      "value": 3.77e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1907",
+        "display_name": "Geology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10109",
+      "display_name": "Paleontology and Stratigraphy of Fossils",
+      "value": 3.68e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1911",
+        "display_name": "Paleontology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10421",
+      "display_name": "Pleistocene-Era Hominins and Archaeology",
+      "value": 2.62e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3314",
+        "display_name": "Anthropology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11786",
+      "display_name": "Geomagnetism and Paleomagnetism Studies",
+      "value": 2.53e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12618",
+      "display_name": "Botany and Plant Ecology Studies",
+      "value": 2.53e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1110",
+        "display_name": "Plant Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14039",
+      "display_name": "Ecology and biodiversity studies",
+      "value": 2.33e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10965",
+      "display_name": "Geological formations and processes",
+      "value": 1.61e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10572",
+      "display_name": "Geophysical and Geoelectrical Methods",
+      "value": 1.6e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12091",
+      "display_name": "Peatlands and Wetlands Ecology",
+      "value": 1.43e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14089",
+      "display_name": "Nanotechnology research and applications",
+      "value": 1.42e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13742",
+      "display_name": "Metallurgy and Cultural Artifacts",
+      "value": 1.38e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3302",
+        "display_name": "Archeology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14329",
+      "display_name": "Science and Climate Studies",
+      "value": 1.36e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11528",
+      "display_name": "Lichen and fungal ecology",
+      "value": 1.26e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1105",
+        "display_name": "Ecology, Evolution, Behavior and Systematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12596",
+      "display_name": "Cephalopods and Marine Biology",
+      "value": 1.24e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1105",
+        "display_name": "Ecology, Evolution, Behavior and Systematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13375",
+      "display_name": "Integrated Water Resources Management",
+      "value": 1.13e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10995",
+      "display_name": "Methane Hydrates and Related Phenomena",
+      "value": 1.04e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2304",
+        "display_name": "Environmental Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13898",
+      "display_name": "Diverse Interdisciplinary Research Studies",
+      "value": 9.7e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10765",
+      "display_name": "Marine Biology and Ecology Research",
+      "value": 9.1e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12806",
+      "display_name": "Ocean Acidification Effects and Responses",
+      "value": 9.1e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 6
+    },
+    {
+      "year": 1983,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 74
+    },
+    {
+      "year": 1980,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 7
+    },
+    {
+      "year": 1978,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 38
+    },
+    {
+      "year": 1977,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 156
+    },
+    {
+      "year": 1976,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 56
+    },
+    {
+      "year": 1975,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 149
+    },
+    {
+      "year": 1974,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 10
+    },
+    {
+      "year": 1973,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1972,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 13
+    },
+    {
+      "year": 1971,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 40
+    },
+    {
+      "year": 1970,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 241
+    },
+    {
+      "year": 1969,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 16
+    },
+    {
+      "year": 1968,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 21
+    },
+    {
+      "year": 1966,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 67
+    },
+    {
+      "year": 1965,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 114
+    },
+    {
+      "year": 1963,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 28
+    },
+    {
+      "year": 1962,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 40
+    },
+    {
+      "year": 1961,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 134
+    },
+    {
+      "year": 1959,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 31
+    },
+    {
+      "year": 1958,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 36
+    },
+    {
+      "year": 1956,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 8
+    },
+    {
+      "year": 1954,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 4
+    },
+    {
+      "year": 1951,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 7
+    },
+    {
+      "year": 1950,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 51
+    },
+    {
+      "year": 1946,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1945,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 32
+    },
+    {
+      "year": 1943,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1942,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 23
+    },
+    {
+      "year": 1941,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 118
+    },
+    {
+      "year": 1940,
+      "works_count": 5,
+      "oa_works_count": 5,
+      "cited_by_count": 9
+    },
+    {
+      "year": 1939,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 12
+    },
+    {
+      "year": 1937,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 1936,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 6
+    },
+    {
+      "year": 1935,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 42
+    },
+    {
+      "year": 1934,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 18
+    },
+    {
+      "year": 1932,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1931,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 22
+    },
+    {
+      "year": 1930,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1928,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 141
+    },
+    {
+      "year": 1927,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 9
+    },
+    {
+      "year": 1926,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 17
+    },
+    {
+      "year": 1925,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 11
+    },
+    {
+      "year": 1924,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 58
+    },
+    {
+      "year": 1923,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 42
+    },
+    {
+      "year": 1922,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 59
+    },
+    {
+      "year": 1921,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 4
+    },
+    {
+      "year": 1920,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 29
+    },
+    {
+      "year": 1919,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1918,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 17
+    },
+    {
+      "year": 1916,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 12
+    },
+    {
+      "year": 1915,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1913,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 45
+    },
+    {
+      "year": 1910,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 16
+    },
+    {
+      "year": 1909,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 22
+    },
+    {
+      "year": 1908,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 30
+    },
+    {
+      "year": 1907,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 11
+    },
+    {
+      "year": 1905,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1904,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 1903,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1902,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 100
+    },
+    {
+      "year": 1899,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 15
+    },
+    {
+      "year": 1898,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 22
+    },
+    {
+      "year": 1897,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 3
+    },
+    {
+      "year": 1895,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1894,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 20
+    },
+    {
+      "year": 1892,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1890,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=primary_location.source.id:S4210215886",
+  "updated_date": "2026-03-02T20:52:56",
+  "created_date": "2021-06-22T00:00:00"
+}

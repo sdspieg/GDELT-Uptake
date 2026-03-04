@@ -1,0 +1,160 @@
+{
+  "id": "https://openalex.org/A5032629982",
+  "orcid": null,
+  "display_name": "Iqra Erum",
+  "display_name_alternatives": [
+    "Iqra Erum"
+  ],
+  "works_count": 1,
+  "cited_by_count": 3,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5032629982",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I201384688",
+        "ror": "https://ror.org/003eyb898",
+        "display_name": "National University of Computer and Emerging Sciences",
+        "country_code": "PK",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I201384688"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I201384688",
+      "ror": "https://ror.org/003eyb898",
+      "display_name": "National University of Computer and Emerging Sciences",
+      "country_code": "PK",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I201384688"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10994",
+      "display_name": "Terrorism, Counterterrorism, and Political Violence",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11515",
+      "display_name": "Bacillus and Francisella bacterial research",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11515",
+      "display_name": "Bacillus and Francisella bacterial research",
+      "value": 1.07e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10994",
+      "display_name": "Terrorism, Counterterrorism, and Political Violence",
+      "value": 7.4e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "score": 0.4103166460990906
+    },
+    {
+      "id": "33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "score": 0.3994949758052826
+    },
+    {
+      "id": "121864883",
+      "wikidata": "https://www.wikidata.org/wiki/Q677916",
+      "display_name": "Statistical physics",
+      "score": 0.37920573353767395
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    }
+  ],
+  "longest_name": "Iqra Erum",
+  "parsed_longest_name": {
+    "first": "iqra",
+    "middle": "",
+    "last": "erum",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "i erum",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5032629982",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

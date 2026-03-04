@@ -1,0 +1,146 @@
+{
+  "id": "https://openalex.org/A5108892846",
+  "orcid": null,
+  "display_name": "Eddie Lopez",
+  "display_name_alternatives": [
+    "Eddie Lopez",
+    "Lopez, Eddie III"
+  ],
+  "works_count": 1,
+  "cited_by_count": 1,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5108892846",
+    "orcid": null
+  },
+  "affiliations": [],
+  "last_known_institutions": null,
+  "topics": [
+    {
+      "id": "https://openalex.org/T12221",
+      "display_name": "Cybersecurity and Cyber Warfare Studies",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12888",
+      "display_name": "Military Strategy and Technology",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2207",
+        "display_name": "Control and Systems Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12888",
+      "display_name": "Military Strategy and Technology",
+      "value": 3.96e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2207",
+        "display_name": "Control and Systems Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12221",
+      "display_name": "Cybersecurity and Cyber Warfare Studies",
+      "value": 1.9e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "153083717",
+      "wikidata": "https://www.wikidata.org/wiki/Q6535263",
+      "display_name": "Leverage (statistics)",
+      "score": 0.7321460247039795
+    },
+    {
+      "id": "121858775",
+      "wikidata": "https://www.wikidata.org/wiki/Q18600568",
+      "display_name": "Information Operations",
+      "score": 0.41391295194625854
+    },
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.32428619265556335
+    },
+    {
+      "id": "119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "score": 0.0
+    },
+    {
+      "id": "121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "score": 0.0
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "Lopez, Eddie III",
+  "parsed_longest_name": {
+    "first": "eddie",
+    "middle": "",
+    "last": "lopez",
+    "suffix": "iii",
+    "nickname": ""
+  },
+  "block_key": "e lopez",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5108892846",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,482 @@
+{
+  "id": "https://openalex.org/A5041381808",
+  "orcid": null,
+  "display_name": "Adam N. Stulberg",
+  "display_name_alternatives": [
+    "A. Stulberg",
+    "Adam N. Stulberg",
+    "Adam Stulberg"
+  ],
+  "works_count": 70,
+  "cited_by_count": 352,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 10,
+    "i10_index": 11
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5041381808",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I130701444",
+        "ror": "https://ror.org/01zkghx44",
+        "display_name": "Georgia Institute of Technology",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I130701444"
+        ]
+      },
+      "years": [
+        2021,
+        2019,
+        2017,
+        2016,
+        2015,
+        2012,
+        2009,
+        2008,
+        2005,
+        2004,
+        2002,
+        2001
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I1309849503",
+        "ror": "https://ror.org/00f2z7n96",
+        "display_name": "RAND Corporation",
+        "country_code": "US",
+        "type": "nonprofit",
+        "lineage": [
+          "https://openalex.org/I1309849503"
+        ]
+      },
+      "years": [
+        1990,
+        1989
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I184139950",
+        "ror": "https://ror.org/04zn7jb34",
+        "display_name": "Moscow State Institute of International Relations",
+        "country_code": "RU",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I184139950"
+        ]
+      },
+      "years": [
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210146201",
+        "ror": "https://ror.org/05ek3m339",
+        "display_name": "Office of International Affairs",
+        "country_code": "US",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I1330989302",
+          "https://openalex.org/I4210146201"
+        ]
+      },
+      "years": [
+        2009
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I130701444",
+      "ror": "https://ror.org/01zkghx44",
+      "display_name": "Georgia Institute of Technology",
+      "country_code": "US",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I130701444"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I184139950",
+      "ror": "https://ror.org/04zn7jb34",
+      "display_name": "Moscow State Institute of International Relations",
+      "country_code": "RU",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I184139950"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T12129",
+      "display_name": "Global Energy Security and Policy",
+      "count": 18,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2100",
+        "display_name": "General Energy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13120",
+      "display_name": "Nuclear Issues and Defense",
+      "count": 17,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13186",
+      "display_name": "Russia and Soviet political economy",
+      "count": 15,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12639",
+      "display_name": "Global Energy and Sustainability Research",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2105",
+        "display_name": "Renewable Energy, Sustainability and the Environment"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13923",
+      "display_name": "Nuclear and radioactivity studies",
+      "count": 7,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2213",
+        "display_name": "Safety, Risk, Reliability and Quality"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13120",
+      "display_name": "Nuclear Issues and Defense",
+      "value": 0.0002022,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12129",
+      "display_name": "Global Energy Security and Policy",
+      "value": 0.0001493,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2100",
+        "display_name": "General Energy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13007",
+      "display_name": "Economic Sanctions and International Relations",
+      "value": 0.00012,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13186",
+      "display_name": "Russia and Soviet political economy",
+      "value": 0.0001185,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12825",
+      "display_name": "Defense, Military, and Policy Studies",
+      "value": 5.98e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "score": 0.7880468368530273
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.6404795050621033
+    },
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.6192830801010132
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.45981132984161377
+    },
+    {
+      "id": "127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "score": 0.34436720609664917
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 1989,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1990,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 10
+    },
+    {
+      "year": 1994,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2000,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2001,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2002,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2003,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2004,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2005,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2006,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2007,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 40
+    },
+    {
+      "year": 2008,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2009,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2010,
+      "works_count": 4,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2012,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 33
+    },
+    {
+      "year": 2013,
+      "works_count": 12,
+      "oa_works_count": 0,
+      "cited_by_count": 36
+    },
+    {
+      "year": 2014,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2015,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 64
+    },
+    {
+      "year": 2016,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2017,
+      "works_count": 7,
+      "oa_works_count": 0,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2018,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2019,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2020,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2021,
+      "works_count": 4,
+      "oa_works_count": 2,
+      "cited_by_count": 7
+    }
+  ],
+  "longest_name": "Adam N. Stulberg",
+  "parsed_longest_name": {
+    "first": "adam",
+    "middle": "n",
+    "last": "stulberg",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "a stulberg",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5041381808",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2019-11-01T00:00:00"
+}

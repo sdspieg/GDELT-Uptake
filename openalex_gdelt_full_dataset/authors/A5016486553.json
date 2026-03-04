@@ -1,0 +1,517 @@
+{
+  "id": "https://openalex.org/A5016486553",
+  "orcid": "https://orcid.org/0000-0001-8451-8656",
+  "display_name": "Xuanhua Shi",
+  "display_name_alternatives": [
+    "Jin, Hai",
+    "Liao, Xiaofei",
+    "Shi, Xuanhua",
+    "Xiaofei Liao",
+    "Xuanhua Shi"
+  ],
+  "works_count": 194,
+  "cited_by_count": 2396,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.6153846153846154,
+    "h_index": 24,
+    "i10_index": 51
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5016486553",
+    "orcid": "https://orcid.org/0000-0001-8451-8656"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I126520041",
+        "ror": "https://ror.org/04c4dkn09",
+        "display_name": "University of Science and Technology of China",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I126520041",
+          "https://openalex.org/I19820366"
+        ]
+      },
+      "years": [
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I1326498283",
+        "ror": "https://ror.org/02kvxyf05",
+        "display_name": "Institut national de recherche en sciences et technologies du numérique",
+        "country_code": "FR",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I1326498283"
+        ]
+      },
+      "years": [
+        2007
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2802519937",
+        "ror": "https://ror.org/00myn0z94",
+        "display_name": "Institut de Recherche en Informatique et Systèmes Aléatoires",
+        "country_code": "FR",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I1294671590",
+          "https://openalex.org/I1294671590",
+          "https://openalex.org/I1326498283",
+          "https://openalex.org/I205703379",
+          "https://openalex.org/I2802204017",
+          "https://openalex.org/I2802519937",
+          "https://openalex.org/I28221208",
+          "https://openalex.org/I4210127572",
+          "https://openalex.org/I4210159245",
+          "https://openalex.org/I56067802"
+        ]
+      },
+      "years": [
+        2007
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210155268",
+        "ror": "https://ror.org/057315g56",
+        "display_name": "Salesforce (United States)",
+        "country_code": "US",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210155268"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I43922553",
+        "ror": "https://ror.org/00e4hrk88",
+        "display_name": "Wuhan University of Science and Technology",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I43922553"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I47720641",
+        "ror": "https://ror.org/00p991c53",
+        "display_name": "Huazhong University of Science and Technology",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I47720641"
+        ]
+      },
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2007,
+        2006,
+        2005,
+        2004
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I47720641",
+      "ror": "https://ror.org/00p991c53",
+      "display_name": "Huazhong University of Science and Technology",
+      "country_code": "CN",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I47720641"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10101",
+      "display_name": "Cloud Computing and Resource Management",
+      "count": 82,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10715",
+      "display_name": "Distributed and Parallel Computing Systems",
+      "count": 69,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10054",
+      "display_name": "Parallel Computing and Optimization Techniques",
+      "count": 47,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1708",
+        "display_name": "Hardware and Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11181",
+      "display_name": "Advanced Data Storage Technologies",
+      "count": 43,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12292",
+      "display_name": "Graph Theory and Algorithms",
+      "count": 28,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12292",
+      "display_name": "Graph Theory and Algorithms",
+      "value": 0.0005248,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10101",
+      "display_name": "Cloud Computing and Resource Management",
+      "value": 0.0003559,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11273",
+      "display_name": "Advanced Graph Neural Networks",
+      "value": 0.0002931,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11181",
+      "display_name": "Advanced Data Storage Technologies",
+      "value": 0.0002104,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10715",
+      "display_name": "Distributed and Parallel Computing Systems",
+      "value": 0.0001887,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1705",
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.9352872371673584
+    },
+    {
+      "id": "120314980",
+      "wikidata": "https://www.wikidata.org/wiki/Q180634",
+      "display_name": "Distributed computing",
+      "score": 0.7577542662620544
+    },
+    {
+      "id": "111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "score": 0.7468177676200867
+    },
+    {
+      "id": "173608175",
+      "wikidata": "https://www.wikidata.org/wiki/Q232661",
+      "display_name": "Parallel computing",
+      "score": 0.7447088956832886
+    },
+    {
+      "id": "33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "score": 0.6475735902786255
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2004,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 29
+    },
+    {
+      "year": 2005,
+      "works_count": 7,
+      "oa_works_count": 0,
+      "cited_by_count": 85
+    },
+    {
+      "year": 2006,
+      "works_count": 4,
+      "oa_works_count": 0,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2007,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2008,
+      "works_count": 7,
+      "oa_works_count": 0,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2009,
+      "works_count": 12,
+      "oa_works_count": 0,
+      "cited_by_count": 508
+    },
+    {
+      "year": 2010,
+      "works_count": 6,
+      "oa_works_count": 0,
+      "cited_by_count": 166
+    },
+    {
+      "year": 2011,
+      "works_count": 10,
+      "oa_works_count": 0,
+      "cited_by_count": 58
+    },
+    {
+      "year": 2012,
+      "works_count": 5,
+      "oa_works_count": 0,
+      "cited_by_count": 63
+    },
+    {
+      "year": 2013,
+      "works_count": 14,
+      "oa_works_count": 0,
+      "cited_by_count": 178
+    },
+    {
+      "year": 2014,
+      "works_count": 12,
+      "oa_works_count": 3,
+      "cited_by_count": 181
+    },
+    {
+      "year": 2015,
+      "works_count": 8,
+      "oa_works_count": 1,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2016,
+      "works_count": 11,
+      "oa_works_count": 1,
+      "cited_by_count": 103
+    },
+    {
+      "year": 2017,
+      "works_count": 12,
+      "oa_works_count": 4,
+      "cited_by_count": 113
+    },
+    {
+      "year": 2018,
+      "works_count": 13,
+      "oa_works_count": 6,
+      "cited_by_count": 309
+    },
+    {
+      "year": 2019,
+      "works_count": 6,
+      "oa_works_count": 2,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2020,
+      "works_count": 11,
+      "oa_works_count": 5,
+      "cited_by_count": 228
+    },
+    {
+      "year": 2021,
+      "works_count": 8,
+      "oa_works_count": 5,
+      "cited_by_count": 129
+    },
+    {
+      "year": 2022,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 34
+    },
+    {
+      "year": 2023,
+      "works_count": 10,
+      "oa_works_count": 5,
+      "cited_by_count": 60
+    },
+    {
+      "year": 2024,
+      "works_count": 9,
+      "oa_works_count": 8,
+      "cited_by_count": 34
+    },
+    {
+      "year": 2025,
+      "works_count": 13,
+      "oa_works_count": 10,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2026,
+      "works_count": 4,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Liao, Xiaofei",
+  "parsed_longest_name": {
+    "first": "xiaofei",
+    "middle": "",
+    "last": "liao",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "x liao",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5016486553",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

@@ -1,0 +1,501 @@
+{
+  "id": "https://openalex.org/A5033080394",
+  "orcid": "https://orcid.org/0000-0002-0008-1766",
+  "display_name": "Robert Ackland",
+  "display_name_alternatives": [
+    "Ackland, Robert",
+    "Gehl, Robert W.",
+    "Robert Ackland",
+    "Szczupak, Klaudyna",
+    "civil, civil"
+  ],
+  "works_count": 80,
+  "cited_by_count": 1158,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 18,
+    "i10_index": 23
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5033080394",
+    "orcid": "https://orcid.org/0000-0002-0008-1766"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I103163165",
+        "ror": "https://ror.org/05g3dte14",
+        "display_name": "Florida State University",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I103163165"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I118347636",
+        "ror": "https://ror.org/019wvm592",
+        "display_name": "Australian National University",
+        "country_code": "AU",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I118347636"
+        ]
+      },
+      "years": [
+        2025,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012,
+        2011,
+        2010,
+        2009,
+        2008,
+        2007,
+        2006,
+        2005
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210129361",
+        "ror": "https://ror.org/049sgh675",
+        "display_name": "Agência Nacional de Energia Elétrica",
+        "country_code": "BR",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I4210129361"
+        ]
+      },
+      "years": [
+        1994
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210142152",
+        "ror": "https://ror.org/04fa4r544",
+        "display_name": "ORCID",
+        "country_code": "US",
+        "type": "nonprofit",
+        "lineage": [
+          "https://openalex.org/I4210142152"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I87216513",
+        "ror": "https://ror.org/05hs6h993",
+        "display_name": "Michigan State University",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I87216513"
+        ]
+      },
+      "years": [
+        2019
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I118347636",
+      "ror": "https://ror.org/019wvm592",
+      "display_name": "Australian National University",
+      "country_code": "AU",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I118347636"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10557",
+      "display_name": "Social Media and Politics",
+      "count": 35,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10064",
+      "display_name": "Complex Network Analysis Techniques",
+      "count": 29,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13976",
+      "display_name": "Web visibility and informetrics",
+      "count": 13,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12592",
+      "display_name": "Opinion Dynamics and Social Influence",
+      "count": 11,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11239",
+      "display_name": "Social Capital and Networks",
+      "count": 8,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13976",
+      "display_name": "Web visibility and informetrics",
+      "value": 0.0006775,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10064",
+      "display_name": "Complex Network Analysis Techniques",
+      "value": 0.0001469,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10557",
+      "display_name": "Social Media and Politics",
+      "value": 0.0001456,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11239",
+      "display_name": "Social Capital and Networks",
+      "value": 0.0001396,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12592",
+      "display_name": "Opinion Dynamics and Social Influence",
+      "value": 8.19e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.7646806240081787
+    },
+    {
+      "id": "136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "score": 0.7399881482124329
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.7027888894081116
+    },
+    {
+      "id": "144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "score": 0.5321288108825684
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.24800559878349304
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 1994,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 1997,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2001,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2004,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2005,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2006,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2007,
+      "works_count": 4,
+      "oa_works_count": 0,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2008,
+      "works_count": 4,
+      "oa_works_count": 3,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2009,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 68
+    },
+    {
+      "year": 2010,
+      "works_count": 6,
+      "oa_works_count": 0,
+      "cited_by_count": 53
+    },
+    {
+      "year": 2011,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 244
+    },
+    {
+      "year": 2012,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 79
+    },
+    {
+      "year": 2013,
+      "works_count": 8,
+      "oa_works_count": 4,
+      "cited_by_count": 132
+    },
+    {
+      "year": 2014,
+      "works_count": 9,
+      "oa_works_count": 4,
+      "cited_by_count": 115
+    },
+    {
+      "year": 2015,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2016,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 90
+    },
+    {
+      "year": 2017,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2018,
+      "works_count": 10,
+      "oa_works_count": 3,
+      "cited_by_count": 102
+    },
+    {
+      "year": 2019,
+      "works_count": 5,
+      "oa_works_count": 1,
+      "cited_by_count": 46
+    },
+    {
+      "year": 2020,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 41
+    },
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2023,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2024,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2025,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Szczupak, Klaudyna",
+  "parsed_longest_name": {
+    "first": "klaudyna",
+    "middle": "",
+    "last": "szczupak",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "k szczupak",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5033080394",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

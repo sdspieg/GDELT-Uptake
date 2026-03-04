@@ -1,0 +1,1496 @@
+{
+  "id": "https://openalex.org/I1313323035",
+  "ror": "https://ror.org/05qrfxd25",
+  "display_name": "Russian Academy of Sciences",
+  "country_code": "RU",
+  "type": "government",
+  "type_id": "https://openalex.org/institution-types/government",
+  "lineage": [
+    "https://openalex.org/I1313323035"
+  ],
+  "homepage_url": "http://www.ras.ru/",
+  "image_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ras-logo.svg",
+  "image_thumbnail_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Ras-logo.svg&width=300",
+  "display_name_acronyms": [
+    "RAS"
+  ],
+  "display_name_alternatives": [
+    "Rossíiskaya Akadémiya Naúk",
+    "Russian Academy of Sciences",
+    "Российская академия наук"
+  ],
+  "repositories": [
+    {
+      "id": "https://openalex.org/S4306400242",
+      "display_name": "Russian Journal of Transplantology and Artificial Organs (Russian Academy of Sciences)",
+      "host_organization": "https://openalex.org/I1313323035",
+      "host_organization_name": "Russian Academy of Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/I1313323035"
+      ]
+    },
+    {
+      "id": "https://openalex.org/S4306401477",
+      "display_name": "International Scientific Journal for Alternative Energy and Ecology (Russian Academy of Sciences)",
+      "host_organization": "https://openalex.org/I1313323035",
+      "host_organization_name": "Russian Academy of Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/I1313323035"
+      ]
+    }
+  ],
+  "works_count": 226921,
+  "cited_by_count": 6181712,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.1541188445474009,
+    "h_index": 488,
+    "i10_index": 146214
+  },
+  "ids": {
+    "openalex": "https://openalex.org/I1313323035",
+    "ror": "https://ror.org/05qrfxd25",
+    "grid": "grid.4886.2",
+    "wikipedia": "http://en.wikipedia.org/wiki/Russian_Academy_of_Sciences",
+    "wikidata": "Q83172"
+  },
+  "geo": {
+    "city": "Moscow",
+    "geonames_city_id": "524901",
+    "region": "Moscow",
+    "country_code": "RU",
+    "country": "Russia",
+    "latitude": 55.75222,
+    "longitude": 37.61556
+  },
+  "international": {},
+  "associated_institutions": [
+    {
+      "id": "https://openalex.org/I2799343180",
+      "ror": "https://ror.org/053nrfb18",
+      "display_name": "Southern Scientific Center",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210087144",
+      "ror": "https://ror.org/00029be75",
+      "display_name": "Institute of Biology of Komi Scientific Centre",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210087797",
+      "ror": "https://ror.org/003gcpg05",
+      "display_name": "Institute of Superhigh-Frequency Semiconductor Electronics of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210089467",
+      "ror": "https://ror.org/005n3yy14",
+      "display_name": "Institute of Physics and Technology",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210089598",
+      "ror": "https://ror.org/005n4rr58",
+      "display_name": "Scientific Research Institute of Introscopy",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210090047",
+      "ror": "https://ror.org/00bh9qz66",
+      "display_name": "Mavlyutov Institute of Mechanics",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210092204",
+      "ror": "https://ror.org/00fr05644",
+      "display_name": "Institute for International Economic and Political Studies",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096333",
+      "ror": "https://ror.org/00ns9pc83",
+      "display_name": "Physical Sciences Division",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096395",
+      "ror": "https://ror.org/00sv3ym08",
+      "display_name": "Institute of Precision Mechanics and Computer Science S.A. Lebedev",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210097483",
+      "ror": "https://ror.org/010rhww45",
+      "display_name": "Experimental Factory of Scientific Engineering and Special Design Department",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210104272",
+      "ror": "https://ror.org/01fz81h65",
+      "display_name": "Dagestan Scientific Center of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210105697",
+      "ror": "https://ror.org/01brhxa96",
+      "display_name": "Library of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210108590",
+      "ror": "https://ror.org/01wxbtj35",
+      "display_name": "All-Russian Scientific Research Institute of Butter and Cheese Making",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210110862",
+      "ror": "https://ror.org/019zcmj26",
+      "display_name": "Department of Medical Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210111653",
+      "ror": "https://ror.org/021eek248",
+      "display_name": "Department of Global Issues and International Relations",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210111926",
+      "ror": "https://ror.org/021923v79",
+      "display_name": "Institute of Marine Geology and Geophysics",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210115279",
+      "ror": "https://ror.org/0218eta95",
+      "display_name": "Department of Physiological Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210118499",
+      "ror": "https://ror.org/01z0w8p93",
+      "display_name": "Tomsk National Research Medical Center",
+      "country_code": "RU",
+      "type": "healthcare",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210119369",
+      "ror": "https://ror.org/02s4h3z39",
+      "display_name": "Ural Branch of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210120228",
+      "ror": "https://ror.org/01twn9665",
+      "display_name": "Department of Social Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210120960",
+      "ror": "https://ror.org/02ae4g054",
+      "display_name": "Division of Historical and Philological Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210121868",
+      "ror": "https://ror.org/02ggnh308",
+      "display_name": "Institute of China and Modern Asia of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210122334",
+      "ror": "https://ror.org/031aa5q21",
+      "display_name": "Kabardino-Balkarian Scientific Center",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210123558",
+      "ror": "https://ror.org/02qhbts44",
+      "display_name": "Vernadsky State Geological Museum",
+      "country_code": "RU",
+      "type": "archive",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210124601",
+      "ror": "https://ror.org/02xkdev90",
+      "display_name": "Department of Mathematical Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210126858",
+      "ror": "https://ror.org/045dz4566",
+      "display_name": "Submicron Heterostructures for Microelectronics Research and Engineering Center",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210127387",
+      "ror": "https://ror.org/02frkq021",
+      "display_name": "Siberian Branch of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129362",
+      "ror": "https://ror.org/049zx9d10",
+      "display_name": "The Institute of Europe of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129690",
+      "ror": "https://ror.org/038rjvd86",
+      "display_name": "Department of Biological Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210130064",
+      "ror": "https://ror.org/037jk8996",
+      "display_name": "Institute of Ecology of Mountain Territories",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210130967",
+      "ror": "https://ror.org/03a8ase89",
+      "display_name": "Institute of Physics of Molecules and Crystals",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210131812",
+      "ror": "https://ror.org/04f3vpm64",
+      "display_name": "Institute of Anthropology and Ethnography",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210134918",
+      "ror": "https://ror.org/049cw4s75",
+      "display_name": "North Caucasian Research Institute of Mountain and Foothill Agriculture",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210137297",
+      "ror": "https://ror.org/041v5wj47",
+      "display_name": "Institute of Mineralogy, Geochemistry and Crystallochemistry of Rare Elements",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210140184",
+      "ror": "https://ror.org/03cdkd641",
+      "display_name": "Institute of Social and Economic Studies of Population",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210140774",
+      "ror": "https://ror.org/044037f11",
+      "display_name": "Saratov Research Center",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210141000",
+      "ror": "https://ror.org/046npx426",
+      "display_name": "Federal State Budgetary Institution of Science \"Scientific and Technological Center of Unique Instrumentation\" of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210141193",
+      "ror": "https://ror.org/04j4xtm35",
+      "display_name": "Institute of Scientific Information on Social Sciences",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210143630",
+      "ror": "https://ror.org/040r4cv22",
+      "display_name": "Program Systems Institute of RAS",
+      "country_code": "RU",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210145551",
+      "ror": "https://ror.org/059tqvg48",
+      "display_name": "Department of Chemistry and Material Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210145583",
+      "ror": "https://ror.org/04f0ydx59",
+      "display_name": "Bioengineering Center",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210146470",
+      "ror": "https://ror.org/04d2pnx52",
+      "display_name": "Institute for Complex Analysis of Regional Problems",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210147539",
+      "ror": "https://ror.org/04kybmr51",
+      "display_name": "S.I. Vavilov Institute for the History of Science and Technology",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210148470",
+      "ror": "https://ror.org/05t43vz03",
+      "display_name": "Far Eastern Branch of the Russian Academy of Sciences",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210156336",
+      "ror": "https://ror.org/05tc61k56",
+      "display_name": "Pushchino State Institute of Natural Sciences",
+      "country_code": "RU",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210156964",
+      "ror": "https://ror.org/05kmgev50",
+      "display_name": "Science Center for Information Technologies in Design",
+      "country_code": "RU",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210160366",
+      "ror": "https://ror.org/05rbd6k73",
+      "display_name": "Regional Research Centres",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210163714",
+      "ror": "https://ror.org/0554h7e84",
+      "display_name": "Department of Earth Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210164537",
+      "ror": "https://ror.org/05kknxr83",
+      "display_name": "Department of Energy, Engineering, Mechanics and Control Processes",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210167168",
+      "ror": "https://ror.org/05wtp9w08",
+      "display_name": "Department of Agricultural Sciences",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152935",
+      "ror": "https://ror.org/0028hwj42",
+      "display_name": "St. Petersburg Research Center of the Russian Academy of Sciences",
+      "country_code": null,
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4391768082",
+      "ror": "https://ror.org/04prhhh77",
+      "display_name": "Institute of Limnology of the Russian Academy of Sciences",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255839",
+      "ror": "https://ror.org/03fsekm51",
+      "display_name": "Institute of Economics",
+      "country_code": "RU",
+      "type": "government",
+      "relationship": "child"
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "works_count": 346,
+      "oa_works_count": 187,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "works_count": 4414,
+      "oa_works_count": 2019,
+      "cited_by_count": 1946
+    },
+    {
+      "year": 2024,
+      "works_count": 7200,
+      "oa_works_count": 4080,
+      "cited_by_count": 10781
+    },
+    {
+      "year": 2023,
+      "works_count": 9748,
+      "oa_works_count": 5243,
+      "cited_by_count": 27522
+    },
+    {
+      "year": 2022,
+      "works_count": 8706,
+      "oa_works_count": 4500,
+      "cited_by_count": 44978
+    },
+    {
+      "year": 2021,
+      "works_count": 9136,
+      "oa_works_count": 4624,
+      "cited_by_count": 63860
+    },
+    {
+      "year": 2020,
+      "works_count": 8304,
+      "oa_works_count": 3924,
+      "cited_by_count": 65907
+    },
+    {
+      "year": 2019,
+      "works_count": 7791,
+      "oa_works_count": 3570,
+      "cited_by_count": 64007
+    },
+    {
+      "year": 2018,
+      "works_count": 6322,
+      "oa_works_count": 2448,
+      "cited_by_count": 58187
+    },
+    {
+      "year": 2017,
+      "works_count": 5154,
+      "oa_works_count": 1790,
+      "cited_by_count": 64193
+    },
+    {
+      "year": 2016,
+      "works_count": 4953,
+      "oa_works_count": 1505,
+      "cited_by_count": 94735
+    },
+    {
+      "year": 2015,
+      "works_count": 7737,
+      "oa_works_count": 1395,
+      "cited_by_count": 106017
+    },
+    {
+      "year": 2014,
+      "works_count": 10422,
+      "oa_works_count": 1091,
+      "cited_by_count": 124308
+    },
+    {
+      "year": 2013,
+      "works_count": 10360,
+      "oa_works_count": 1043,
+      "cited_by_count": 126394
+    },
+    {
+      "year": 2012,
+      "works_count": 9776,
+      "oa_works_count": 844,
+      "cited_by_count": 107921
+    },
+    {
+      "year": 2011,
+      "works_count": 11098,
+      "oa_works_count": 808,
+      "cited_by_count": 115555
+    },
+    {
+      "year": 2010,
+      "works_count": 11166,
+      "oa_works_count": 705,
+      "cited_by_count": 121756
+    }
+  ],
+  "roles": [
+    {
+      "role": "funder",
+      "id": "https://openalex.org/F4320334801",
+      "works_count": 35987
+    },
+    {
+      "role": "institution",
+      "id": "https://openalex.org/I1313323035",
+      "works_count": 226921
+    },
+    {
+      "role": "publisher",
+      "id": "https://openalex.org/P4310320535",
+      "works_count": 56573
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10001",
+      "display_name": "Geological and Geochemical Analysis",
+      "count": 5260,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13193",
+      "display_name": "Geological Studies and Exploration",
+      "count": 4898,
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1907",
+        "display_name": "Geology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10022",
+      "display_name": "Semiconductor Quantum Structures and Devices",
+      "count": 4232,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10413",
+      "display_name": "High-pressure geophysics and materials",
+      "count": 3976,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14047",
+      "display_name": "Marine and environmental studies",
+      "count": 3606,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12157",
+      "display_name": "Geochemistry and Geologic Mapping",
+      "count": 3315,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10995",
+      "display_name": "Methane Hydrates and Related Phenomena",
+      "count": 3159,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2304",
+        "display_name": "Environmental Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13619",
+      "display_name": "Geotechnical and Geomechanical Engineering",
+      "count": 2763,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2211",
+        "display_name": "Mechanics of Materials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13129",
+      "display_name": "Material Properties and Applications",
+      "count": 2645,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2500",
+        "display_name": "General Materials Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10325",
+      "display_name": "Astro and Planetary Science",
+      "count": 2480,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11878",
+      "display_name": "Solid-state spectroscopy and crystallography",
+      "count": 2441,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11825",
+      "display_name": "Catalysis and Oxidation Reactions",
+      "count": 2423,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1503",
+        "display_name": "Catalysis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/15",
+        "display_name": "Chemical Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10037",
+      "display_name": "Physics of Superconductivity and Magnetism",
+      "count": 2390,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3104",
+        "display_name": "Condensed Matter Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10382",
+      "display_name": "Quantum and electron transport phenomena",
+      "count": 2368,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10110",
+      "display_name": "earthquake and tectonic studies",
+      "count": 2359,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1908",
+        "display_name": "Geophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13785",
+      "display_name": "Aquatic and Environmental Studies",
+      "count": 2358,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10017",
+      "display_name": "Geology and Paleoclimatology Research",
+      "count": 2288,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11853",
+      "display_name": "Semiconductor materials and interfaces",
+      "count": 2244,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10908",
+      "display_name": "Analytical Chemistry and Chromatography",
+      "count": 2235,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1607",
+        "display_name": "Spectroscopy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10973",
+      "display_name": "Radioactive element chemistry and processing",
+      "count": 2202,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1604",
+        "display_name": "Inorganic Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10251",
+      "display_name": "Solar and Space Plasma Dynamics",
+      "count": 2193,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12852",
+      "display_name": "Chemical Thermodynamics and Molecular Structure",
+      "count": 2159,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1605",
+        "display_name": "Organic Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10002",
+      "display_name": "Advanced Chemical Physics Studies",
+      "count": 2145,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10192",
+      "display_name": "Catalytic Processes in Materials Science",
+      "count": 2056,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10159",
+      "display_name": "Ionosphere and magnetosphere dynamics",
+      "count": 2029,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3103",
+        "display_name": "Astronomy and Astrophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13785",
+      "display_name": "Aquatic and Environmental Studies",
+      "value": 0.0676265,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13102",
+      "display_name": "Soil and Environmental Studies",
+      "value": 0.04387,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1111",
+        "display_name": "Soil Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14454",
+      "display_name": "Polymer Science and Applications",
+      "value": 0.0396384,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13440",
+      "display_name": "Electromagnetic Effects on Materials",
+      "value": 0.0396299,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14177",
+      "display_name": "Water Resources and Management",
+      "value": 0.0395357,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13193",
+      "display_name": "Geological Studies and Exploration",
+      "value": 0.0374233,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1907",
+        "display_name": "Geology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14047",
+      "display_name": "Marine and environmental studies",
+      "value": 0.0361098,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1910",
+        "display_name": "Oceanography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13094",
+      "display_name": "Mining and Gasification Technologies",
+      "value": 0.0345604,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13685",
+      "display_name": "Material Science and Thermodynamics",
+      "value": 0.0319641,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13619",
+      "display_name": "Geotechnical and Geomechanical Engineering",
+      "value": 0.0293303,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2211",
+        "display_name": "Mechanics of Materials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13020",
+      "display_name": "Heat Transfer and Mathematical Modeling",
+      "value": 0.028791,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13618",
+      "display_name": "Regional Socio-Economic Development Trends",
+      "value": 0.0283406,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3317",
+        "display_name": "Demography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14428",
+      "display_name": "Coal and Coke Industries Research",
+      "value": 0.0283287,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2103",
+        "display_name": "Fuel Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/21",
+        "display_name": "Energy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13673",
+      "display_name": "Library Science and Information",
+      "value": 0.0266693,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14303",
+      "display_name": "Polymer Synthesis and Characterization",
+      "value": 0.0255312,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2507",
+        "display_name": "Polymers and Plastics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14076",
+      "display_name": "Material Properties and Failure Mechanisms",
+      "value": 0.0249577,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13747",
+      "display_name": "Sociopolitical Dynamics in Russia",
+      "value": 0.0242005,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14345",
+      "display_name": "Scientific Research and Philosophical Inquiry",
+      "value": 0.0236497,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14010",
+      "display_name": "Food Industry and Aquatic Biology",
+      "value": 0.0235747,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1106",
+        "display_name": "Food Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12850",
+      "display_name": "Field-Flow Fractionation Techniques",
+      "value": 0.0227959,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13190",
+      "display_name": "Engineering and Environmental Studies",
+      "value": 0.0224028,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13628",
+      "display_name": "Agricultural Productivity and Crop Improvement",
+      "value": 0.0222765,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1102",
+        "display_name": "Agronomy and Crop Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13432",
+      "display_name": "Environmental Sustainability and Technology",
+      "value": 0.0222273,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2308",
+        "display_name": "Management, Monitoring, Policy and Law"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13129",
+      "display_name": "Material Properties and Applications",
+      "value": 0.022125,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2500",
+        "display_name": "General Materials Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14488",
+      "display_name": "Chemical and Physical Studies",
+      "value": 0.0214445,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1304",
+        "display_name": "Biophysics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "is_super_system": false,
+  "works_api_url": "https://api.openalex.org/works?filter=institutions.id:I1313323035",
+  "updated_date": "2026-03-03T06:01:00",
+  "created_date": "2016-06-24T00:00:00"
+}

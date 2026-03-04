@@ -1,0 +1,440 @@
+{
+  "id": "https://openalex.org/A5110337985",
+  "orcid": null,
+  "display_name": "Gunnar Larsen",
+  "display_name_alternatives": [
+    "GUNNAR LARSEN",
+    "Gunnar Larsen",
+    "Gunnar Larsen (Aarhus)"
+  ],
+  "works_count": 25,
+  "cited_by_count": 212,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 7,
+    "i10_index": 7
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5110337985",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1174212",
+        "ror": "https://ror.org/03taz7m60",
+        "display_name": "University of Southern California",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I1174212"
+        ]
+      },
+      "years": [
+        1967
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I204337017",
+        "ror": "https://ror.org/01aj84f44",
+        "display_name": "Aarhus University",
+        "country_code": "DK",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I204337017"
+        ]
+      },
+      "years": [
+        1990,
+        1987,
+        1977,
+        1971
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2801979204",
+        "ror": "https://ror.org/01b40r146",
+        "display_name": "Geological Survey of Denmark and Greenland",
+        "country_code": "DK",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I2801979204",
+          "https://openalex.org/I4210102581"
+        ]
+      },
+      "years": [
+        1964
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2802335433",
+        "ror": "https://ror.org/040r8fr65",
+        "display_name": "Aarhus University Hospital",
+        "country_code": "DK",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I2802335433"
+        ]
+      },
+      "years": [
+        1987
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2802521088",
+        "ror": "https://ror.org/02jbvhm37",
+        "display_name": "Southeastern Universities Research Association",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I2802521088"
+        ]
+      },
+      "years": [
+        1961
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210119387",
+        "ror": "https://ror.org/02rqdr293",
+        "display_name": "Building Research Institute",
+        "country_code": "JP",
+        "type": "other",
+        "lineage": [
+          "https://openalex.org/I4210119387"
+        ]
+      },
+      "years": [
+        1961
+      ]
+    }
+  ],
+  "last_known_institutions": null,
+  "topics": [
+    {
+      "id": "https://openalex.org/T10017",
+      "display_name": "Geology and Paleoclimatology Research",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10109",
+      "display_name": "Paleontology and Stratigraphy of Fossils",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1911",
+        "display_name": "Paleontology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10965",
+      "display_name": "Geological formations and processes",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13193",
+      "display_name": "Geological Studies and Exploration",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1907",
+        "display_name": "Geology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10399",
+      "display_name": "Hydrocarbon exploration and reservoir analysis",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2211",
+        "display_name": "Mechanics of Materials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14279",
+      "display_name": "Academic Research and Education Studies",
+      "value": 0.0001178,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14055",
+      "display_name": "Consumer Packaging Perceptions and Trends",
+      "value": 2.77e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1406",
+        "display_name": "Marketing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10109",
+      "display_name": "Paleontology and Stratigraphy of Fossils",
+      "value": 2.22e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1911",
+        "display_name": "Paleontology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12152",
+      "display_name": "Concrete Properties and Behavior",
+      "value": 2e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2205",
+        "display_name": "Civil and Structural Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10965",
+      "display_name": "Geological formations and processes",
+      "value": 1.88e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "score": 0.9321212768554688
+    },
+    {
+      "id": "6494504",
+      "wikidata": "https://www.wikidata.org/wiki/Q82480",
+      "display_name": "Sedimentary rock",
+      "score": 0.752702534198761
+    },
+    {
+      "id": "17409809",
+      "wikidata": "https://www.wikidata.org/wiki/Q161764",
+      "display_name": "Geochemistry",
+      "score": 0.7215152382850647
+    },
+    {
+      "id": "151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "score": 0.7087162137031555
+    },
+    {
+      "id": "77928131",
+      "wikidata": "https://www.wikidata.org/wiki/Q193343",
+      "display_name": "Tectonics",
+      "score": 0.5276612043380737
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 1960,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1961,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 27
+    },
+    {
+      "year": 1964,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1966,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 3
+    },
+    {
+      "year": 1967,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1968,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 6
+    },
+    {
+      "year": 1970,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 3
+    },
+    {
+      "year": 1971,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1972,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 57
+    },
+    {
+      "year": 1975,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 25
+    },
+    {
+      "year": 1977,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 11
+    },
+    {
+      "year": 1979,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 14
+    },
+    {
+      "year": 1981,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1987,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 1990,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 35
+    },
+    {
+      "year": 2006,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2007,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 21
+    }
+  ],
+  "longest_name": "Gunnar Larsen (Aarhus)",
+  "parsed_longest_name": {
+    "first": "gunnar",
+    "middle": "",
+    "last": "larsen",
+    "suffix": "",
+    "nickname": "aarhus"
+  },
+  "block_key": "g larsen",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5110337985",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2022-05-12T00:00:00"
+}

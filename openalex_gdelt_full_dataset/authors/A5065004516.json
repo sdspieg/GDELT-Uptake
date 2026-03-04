@@ -1,0 +1,333 @@
+{
+  "id": "https://openalex.org/A5065004516",
+  "orcid": null,
+  "display_name": "Jingzhong LI",
+  "display_name_alternatives": [
+    "Jingzhong LI",
+    "Jingzhong Li"
+  ],
+  "works_count": 2,
+  "cited_by_count": 4,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5065004516",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I19820366",
+        "ror": "https://ror.org/034t30j35",
+        "display_name": "Chinese Academy of Sciences",
+        "country_code": "CN",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I19820366"
+        ]
+      },
+      "years": [
+        2026
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210110024",
+        "ror": "https://ror.org/01thb7525",
+        "display_name": "Institute of Applied Ecology",
+        "country_code": "CN",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I19820366",
+          "https://openalex.org/I4210110024"
+        ]
+      },
+      "years": [
+        2026
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I903994226",
+        "ror": "https://ror.org/03k174p87",
+        "display_name": "Xuchang University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I903994226"
+        ]
+      },
+      "years": [
+        2026
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I19820366",
+      "ror": "https://ror.org/034t30j35",
+      "display_name": "Chinese Academy of Sciences",
+      "country_code": "CN",
+      "type": "government",
+      "lineage": [
+        "https://openalex.org/I19820366"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210110024",
+      "ror": "https://ror.org/01thb7525",
+      "display_name": "Institute of Applied Ecology",
+      "country_code": "CN",
+      "type": "facility",
+      "lineage": [
+        "https://openalex.org/I19820366",
+        "https://openalex.org/I4210110024"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I903994226",
+      "ror": "https://ror.org/03k174p87",
+      "display_name": "Xuchang University",
+      "country_code": "CN",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I903994226"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10226",
+      "display_name": "Land Use and Ecosystem Services",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10435",
+      "display_name": "Environmental Impact and Sustainability",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12325",
+      "display_name": "Urban Design and Spatial Analysis",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12643",
+      "display_name": "Sustainability and Ecological Systems Analysis",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12643",
+      "display_name": "Sustainability and Ecological Systems Analysis",
+      "value": 3.81e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12325",
+      "display_name": "Urban Design and Spatial Analysis",
+      "value": 1.44e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10435",
+      "display_name": "Environmental Impact and Sustainability",
+      "value": 6.7e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10226",
+      "display_name": "Land Use and Ecosystem Services",
+      "value": 4.5e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10932",
+      "display_name": "Microbial Metabolic Engineering and Bioproduction",
+      "value": 3.6e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "12713177",
+      "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+      "display_name": "Perspective (graphical)",
+      "score": 0.6446492671966553
+    },
+    {
+      "id": "137176749",
+      "wikidata": "https://www.wikidata.org/wiki/Q4105337",
+      "display_name": "Psychological resilience",
+      "score": 0.42980000376701355
+    },
+    {
+      "id": "107826830",
+      "wikidata": "https://www.wikidata.org/wiki/Q929380",
+      "display_name": "Environmental resource management",
+      "score": 0.3540000021457672
+    },
+    {
+      "id": "14036430",
+      "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+      "display_name": "Function (biology)",
+      "score": 0.3359000086784363
+    },
+    {
+      "id": "134560507",
+      "wikidata": "https://www.wikidata.org/wiki/Q753291",
+      "display_name": "Environmental economics",
+      "score": 0.2802000045776367
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2026,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Jingzhong Li",
+  "parsed_longest_name": {
+    "first": "jingzhong",
+    "middle": "",
+    "last": "li",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "j li",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5065004516",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

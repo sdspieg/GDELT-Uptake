@@ -1,0 +1,329 @@
+{
+  "id": "https://openalex.org/A5113405608",
+  "orcid": null,
+  "display_name": "G Palazzo",
+  "display_name_alternatives": [
+    "G Palazzo",
+    "G. Palazzo",
+    "Gabriel Palazzo",
+    "Giampiero Palazzo"
+  ],
+  "works_count": 10,
+  "cited_by_count": 77,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.0,
+    "h_index": 4,
+    "i10_index": 1
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5113405608",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I142910587",
+        "ror": "https://ror.org/03fc1k060",
+        "display_name": "University of Salento",
+        "country_code": "IT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I142910587"
+        ]
+      },
+      "years": [
+        2025,
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I97565354",
+        "ror": "https://ror.org/019whta54",
+        "display_name": "University of Lausanne",
+        "country_code": "CH",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I97565354"
+        ]
+      },
+      "years": [
+        2008
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I142910587",
+      "ror": "https://ror.org/03fc1k060",
+      "display_name": "University of Salento",
+      "country_code": "IT",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I142910587"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11552",
+      "display_name": "Global trade, sustainability, and social impact",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10019",
+      "display_name": "Corporate Finance and Governance",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10115",
+      "display_name": "Corporate Social Responsibility Reporting",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10145",
+      "display_name": "Consumer Behavior in Brand Consumption and Identification",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1406",
+        "display_name": "Marketing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10344",
+      "display_name": "Management and Organizational Studies",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14140",
+      "display_name": "Elite Sociology and Global Capitalism",
+      "value": 3.95e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13132",
+      "display_name": "Hydropower, Displacement, Environmental Impact",
+      "value": 2.67e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11552",
+      "display_name": "Global trade, sustainability, and social impact",
+      "value": 2.08e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11933",
+      "display_name": "Mining and Resource Management",
+      "value": 1.69e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11823",
+      "display_name": "Natural Resources and Economic Development",
+      "value": 1.43e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.6430178284645081
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.45589354634284973
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.35643133521080017
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.1724863350391388
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.14291316270828247
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2004,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2008,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2010,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2016,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2017,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 55
+    },
+    {
+      "year": 2024,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "Giampiero Palazzo",
+  "parsed_longest_name": {
+    "first": "giampiero",
+    "middle": "",
+    "last": "palazzo",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "g palazzo",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5113405608",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2018-03-29T00:00:00"
+}

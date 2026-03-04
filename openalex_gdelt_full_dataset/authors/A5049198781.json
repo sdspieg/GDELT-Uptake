@@ -1,0 +1,93 @@
+{
+  "id": "https://openalex.org/A5049198781",
+  "orcid": null,
+  "display_name": "V Nordmann",
+  "display_name_alternatives": [
+    "V Nordmann"
+  ],
+  "works_count": 1,
+  "cited_by_count": 1,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5049198781",
+    "orcid": null
+  },
+  "affiliations": [],
+  "last_known_institutions": null,
+  "topics": [
+    {
+      "id": "https://openalex.org/T14339",
+      "display_name": "Image Processing and 3D Reconstruction",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14339",
+      "display_name": "Image Processing and 3D Reconstruction",
+      "value": 5.5e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "score": 0.6520222425460815
+    },
+    {
+      "id": "138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "score": 0.31357330083847046
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 1915,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "V Nordmann",
+  "parsed_longest_name": {
+    "first": "v",
+    "middle": "",
+    "last": "nordmann",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "v nordmann",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5049198781",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

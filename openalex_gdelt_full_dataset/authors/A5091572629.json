@@ -1,0 +1,333 @@
+{
+  "id": "https://openalex.org/A5091572629",
+  "orcid": null,
+  "display_name": "Graham Pilgrim",
+  "display_name_alternatives": [
+    "Graham Pilgrim",
+    "Pilgrim, Graham"
+  ],
+  "works_count": 7,
+  "cited_by_count": 7,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.6666666666666666,
+    "h_index": 2,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5091572629",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1288051870",
+        "ror": "https://ror.org/0438wbg98",
+        "display_name": "Organisation de Coopération et de Développement Economiques",
+        "country_code": "FR",
+        "type": "funder",
+        "lineage": [
+          "https://openalex.org/I1288051870"
+        ]
+      },
+      "years": [
+        2026,
+        2023,
+        2016
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I1311269955",
+        "ror": "https://ror.org/04ehjr030",
+        "display_name": "Apple (Israel)",
+        "country_code": "IL",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I1311269955",
+          "https://openalex.org/I4210153776"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210149610",
+        "ror": "https://ror.org/04g81mm64",
+        "display_name": "Keysight Technologies (United Kingdom)",
+        "country_code": "GB",
+        "type": "company",
+        "lineage": [
+          "https://openalex.org/I4210115805",
+          "https://openalex.org/I4210149610"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I1288051870",
+      "ror": "https://ror.org/0438wbg98",
+      "display_name": "Organisation de Coopération et de Développement Economiques",
+      "country_code": "FR",
+      "type": "funder",
+      "lineage": [
+        "https://openalex.org/I1288051870"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10128",
+      "display_name": "Global trade and economics",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12501",
+      "display_name": "Digital Economy and Work Transformation",
+      "count": 2,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10779",
+      "display_name": "Coastal wetland ecosystem dynamics",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11122",
+      "display_name": "Online Learning and Analytics",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14467",
+      "display_name": "Public Administration, ICT, and Policy Development",
+      "value": 8.21e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "value": 4.67e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "value": 2.14e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12501",
+      "display_name": "Digital Economy and Work Transformation",
+      "value": 1.8e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12703",
+      "display_name": "Oil Palm Production and Sustainability",
+      "value": 1.7e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.6158000230789185
+    },
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.6011267304420471
+    },
+    {
+      "id": "48824518",
+      "wikidata": "https://www.wikidata.org/wiki/Q396340",
+      "display_name": "Agricultural economics",
+      "score": 0.513680636882782
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.2420220673084259
+    },
+    {
+      "id": "199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "score": 0.0
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2016,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2017,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2026,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Pilgrim, Graham",
+  "parsed_longest_name": {
+    "first": "graham",
+    "middle": "",
+    "last": "pilgrim",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "g pilgrim",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5091572629",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2023-09-16T00:00:00"
+}

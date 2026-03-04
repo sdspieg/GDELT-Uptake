@@ -1,0 +1,418 @@
+{
+  "id": "https://openalex.org/A5049179180",
+  "orcid": "https://orcid.org/0000-0001-8066-113X",
+  "display_name": "Alexander Kupfer",
+  "display_name_alternatives": [
+    "Alexander Kupfer",
+    "Alexander Kupfer,"
+  ],
+  "works_count": 34,
+  "cited_by_count": 143,
+  "summary_stats": {
+    "2yr_mean_citedness": 3.0,
+    "h_index": 8,
+    "i10_index": 5
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5049179180",
+    "orcid": "https://orcid.org/0000-0001-8066-113X"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I126820664",
+        "ror": "https://ror.org/022x6qg61",
+        "display_name": "Vassar College",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I126820664"
+        ]
+      },
+      "years": [
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I190249584",
+        "ror": "https://ror.org/054pv6659",
+        "display_name": "Universität Innsbruck",
+        "country_code": "AT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I190249584"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2015,
+        2014,
+        2013,
+        2011
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I41073452",
+        "ror": "https://ror.org/021kg9v06",
+        "display_name": "Management Center Innsbruck",
+        "country_code": "AT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I41073452"
+        ]
+      },
+      "years": [
+        2025,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210121988",
+        "ror": "https://ror.org/036cy3843",
+        "display_name": "Film Independent",
+        "country_code": "US",
+        "type": "nonprofit",
+        "lineage": [
+          "https://openalex.org/I4210121988"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I190249584",
+      "ror": "https://ror.org/054pv6659",
+      "display_name": "Universität Innsbruck",
+      "country_code": "AT",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I190249584"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I41073452",
+      "ror": "https://ror.org/021kg9v06",
+      "display_name": "Management Center Innsbruck",
+      "country_code": "AT",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I41073452"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210121988",
+      "ror": "https://ror.org/036cy3843",
+      "display_name": "Film Independent",
+      "country_code": "US",
+      "type": "nonprofit",
+      "lineage": [
+        "https://openalex.org/I4210121988"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10609",
+      "display_name": "Digital Marketing and Social Media",
+      "count": 9,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10007",
+      "display_name": "Monetary Policy and Economic Impact",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10047",
+      "display_name": "Financial Markets and Investment Strategies",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11496",
+      "display_name": "Credit Risk and Financial Regulations",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10019",
+      "display_name": "Corporate Finance and Governance",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11496",
+      "display_name": "Credit Risk and Financial Regulations",
+      "value": 8.66e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13274",
+      "display_name": "Expert finding and Q&A systems",
+      "value": 4.86e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10609",
+      "display_name": "Digital Marketing and Social Media",
+      "value": 2.91e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11621",
+      "display_name": "Fiscal Policies and Political Economy",
+      "value": 2.76e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10047",
+      "display_name": "Financial Markets and Investment Strategies",
+      "value": 2.62e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.7880154848098755
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.6796344518661499
+    },
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.6605393886566162
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.5398373603820801
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.4750005006790161
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2011,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2013,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2014,
+      "works_count": 4,
+      "oa_works_count": 2,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2015,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2018,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2019,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2020,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "works_count": 7,
+      "oa_works_count": 3,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2022,
+      "works_count": 5,
+      "oa_works_count": 5,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2023,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2024,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2025,
+      "works_count": 4,
+      "oa_works_count": 3,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "Alexander Kupfer,",
+  "parsed_longest_name": {
+    "first": "alexander",
+    "middle": "",
+    "last": "kupfer",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "a kupfer",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5049179180",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2018-03-29T00:00:00"
+}

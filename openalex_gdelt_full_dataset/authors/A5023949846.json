@@ -1,0 +1,393 @@
+{
+  "id": "https://openalex.org/A5023949846",
+  "orcid": "https://orcid.org/0000-0002-3308-9553",
+  "display_name": "Harald Puhr",
+  "display_name_alternatives": [
+    "Harald Puhr",
+    "Puhr, H.",
+    "Puhr, Harald"
+  ],
+  "works_count": 31,
+  "cited_by_count": 84,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.4166666666666667,
+    "h_index": 5,
+    "i10_index": 2
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5023949846",
+    "orcid": "https://orcid.org/0000-0002-3308-9553"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I102248843",
+        "ror": "https://ror.org/03yn8s215",
+        "display_name": "Vienna University of Economics and Business",
+        "country_code": "AT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I102248843"
+        ]
+      },
+      "years": [
+        2025,
+        2023,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I190249584",
+        "ror": "https://ror.org/054pv6659",
+        "display_name": "Universität Innsbruck",
+        "country_code": "AT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I190249584"
+        ]
+      },
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I41073452",
+        "ror": "https://ror.org/021kg9v06",
+        "display_name": "Management Center Innsbruck",
+        "country_code": "AT",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I41073452"
+        ]
+      },
+      "years": [
+        2026,
+        2023,
+        2022,
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I887064364",
+        "ror": "https://ror.org/04dkp9463",
+        "display_name": "University of Amsterdam",
+        "country_code": "NL",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I887064364"
+        ]
+      },
+      "years": [
+        2026
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I190249584",
+      "ror": "https://ror.org/054pv6659",
+      "display_name": "Universität Innsbruck",
+      "country_code": "AT",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I190249584"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I41073452",
+      "ror": "https://ror.org/021kg9v06",
+      "display_name": "Management Center Innsbruck",
+      "country_code": "AT",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I41073452"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I887064364",
+      "ror": "https://ror.org/04dkp9463",
+      "display_name": "University of Amsterdam",
+      "country_code": "NL",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I887064364"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10415",
+      "display_name": "International Business and FDI",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10003",
+      "display_name": "Innovation and Knowledge Management",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11819",
+      "display_name": "Data-Driven Disease Surveillance",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11903",
+      "display_name": "Private Equity and Venture Capital",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11976",
+      "display_name": "Capital Investment and Risk Analysis",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14443",
+      "display_name": "COVID-19, Geopolitics, Technology, Migration",
+      "value": 0.0003,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13718",
+      "display_name": "Media Influence and Politics",
+      "value": 4.9e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12958",
+      "display_name": "Digital Economy and Transformation",
+      "value": 4.78e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11819",
+      "display_name": "Data-Driven Disease Surveillance",
+      "value": 4.21e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12276",
+      "display_name": "Risk Management in Financial Firms",
+      "value": 3.93e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.6035757064819336
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.5754030346870422
+    },
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.5702000260353088
+    },
+    {
+      "id": "15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "score": 0.4878551959991455
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.4696590006351471
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2019,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2020,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "works_count": 4,
+      "oa_works_count": 2,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2022,
+      "works_count": 7,
+      "oa_works_count": 5,
+      "cited_by_count": 46
+    },
+    {
+      "year": 2023,
+      "works_count": 6,
+      "oa_works_count": 3,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2024,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2026,
+      "works_count": 6,
+      "oa_works_count": 6,
+      "cited_by_count": 1
+    }
+  ],
+  "longest_name": "Puhr, Harald",
+  "parsed_longest_name": {
+    "first": "harald",
+    "middle": "",
+    "last": "puhr",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "h puhr",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5023949846",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2023-01-04T00:00:00"
+}

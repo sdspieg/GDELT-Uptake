@@ -1,0 +1,395 @@
+{
+  "id": "https://openalex.org/A5065780002",
+  "orcid": "https://orcid.org/0000-0001-5930-5392",
+  "display_name": "Luca Barbaglia",
+  "display_name_alternatives": [
+    "Barbaglia, Luca",
+    "L. Barbaglia",
+    "Luca Barbaglia"
+  ],
+  "works_count": 55,
+  "cited_by_count": 525,
+  "summary_stats": {
+    "2yr_mean_citedness": 2.4,
+    "h_index": 11,
+    "i10_index": 15
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5065780002",
+    "orcid": "https://orcid.org/0000-0001-5930-5392"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I1320481043",
+        "ror": "https://ror.org/019w4f821",
+        "display_name": "European Union",
+        "country_code": "BE",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I1320481043"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2800387288",
+        "ror": "https://ror.org/00k4n6c32",
+        "display_name": "European Commission",
+        "country_code": "BE",
+        "type": "funder",
+        "lineage": [
+          "https://openalex.org/I1320481043",
+          "https://openalex.org/I2800387288"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2022,
+        2021,
+        2020
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210118689",
+        "ror": "https://ror.org/02qezmz13",
+        "display_name": "Joint Research Centre",
+        "country_code": "IT",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I1320481043",
+          "https://openalex.org/I2800387288",
+          "https://openalex.org/I4210118689",
+          "https://openalex.org/I4210161702"
+        ]
+      },
+      "years": [
+        2026,
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I99464096",
+        "ror": "https://ror.org/05f950310",
+        "display_name": "KU Leuven",
+        "country_code": "BE",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I99464096"
+        ]
+      },
+      "years": [
+        2019,
+        2017,
+        2016
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I4210118689",
+      "ror": "https://ror.org/02qezmz13",
+      "display_name": "Joint Research Centre",
+      "country_code": "IT",
+      "type": "government",
+      "lineage": [
+        "https://openalex.org/I1320481043",
+        "https://openalex.org/I2800387288",
+        "https://openalex.org/I4210118689",
+        "https://openalex.org/I4210161702"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11059",
+      "display_name": "Market Dynamics and Volatility",
+      "count": 19,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11326",
+      "display_name": "Stock Market Forecasting Methods",
+      "count": 12,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10007",
+      "display_name": "Monetary Policy and Economic Impact",
+      "count": 10,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10632",
+      "display_name": "Housing Market and Economics",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10664",
+      "display_name": "Sentiment Analysis and Opinion Mining",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11326",
+      "display_name": "Stock Market Forecasting Methods",
+      "value": 0.0001069,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11059",
+      "display_name": "Market Dynamics and Volatility",
+      "value": 9.23e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13146",
+      "display_name": "Sustainable Finance and Green Bonds",
+      "value": 8.37e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13718",
+      "display_name": "Media Influence and Politics",
+      "value": 7.35e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13910",
+      "display_name": "Computational and Text Analysis Methods",
+      "value": 7.31e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3300",
+        "display_name": "General Social Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.8633798360824585
+    },
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.8103297352790833
+    },
+    {
+      "id": "149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "score": 0.7558616399765015
+    },
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.6843637228012085
+    },
+    {
+      "id": "154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "score": 0.5969997644424438
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2016,
+      "works_count": 7,
+      "oa_works_count": 4,
+      "cited_by_count": 20
+    },
+    {
+      "year": 2017,
+      "works_count": 5,
+      "oa_works_count": 3,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2019,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 94
+    },
+    {
+      "year": 2020,
+      "works_count": 8,
+      "oa_works_count": 3,
+      "cited_by_count": 53
+    },
+    {
+      "year": 2021,
+      "works_count": 8,
+      "oa_works_count": 6,
+      "cited_by_count": 91
+    },
+    {
+      "year": 2022,
+      "works_count": 10,
+      "oa_works_count": 9,
+      "cited_by_count": 222
+    },
+    {
+      "year": 2023,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2024,
+      "works_count": 9,
+      "oa_works_count": 8,
+      "cited_by_count": 29
+    },
+    {
+      "year": 2025,
+      "works_count": 5,
+      "oa_works_count": 5,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2026,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Barbaglia, Luca",
+  "parsed_longest_name": {
+    "first": "luca",
+    "middle": "",
+    "last": "barbaglia",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "l barbaglia",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5065780002",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2019-11-22T00:00:00"
+}

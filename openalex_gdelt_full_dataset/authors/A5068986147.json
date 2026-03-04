@@ -1,0 +1,296 @@
+{
+  "id": "https://openalex.org/A5068986147",
+  "orcid": "https://orcid.org/0000-0002-4893-1838",
+  "display_name": "Gergely Honti",
+  "display_name_alternatives": [
+    "Gergely Honti",
+    "Gergely Marcell Honti"
+  ],
+  "works_count": 16,
+  "cited_by_count": 205,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 8,
+    "i10_index": 6
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5068986147",
+    "orcid": "https://orcid.org/0000-0002-4893-1838"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I140275651",
+        "ror": "https://ror.org/03y5egs41",
+        "display_name": "University of Pannonia",
+        "country_code": "HU",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I140275651"
+        ]
+      },
+      "years": [
+        2021,
+        2020,
+        2019,
+        2018
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I140275651",
+      "ror": "https://ror.org/03y5egs41",
+      "display_name": "University of Pannonia",
+      "country_code": "HU",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I140275651"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T13276",
+      "display_name": "University-Industry-Government Innovation Models",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12961",
+      "display_name": "Regional Development and Policy",
+      "count": 5,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10763",
+      "display_name": "Digital Transformation in Industry",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11810",
+      "display_name": "Complex Systems and Decision Making",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12643",
+      "display_name": "Sustainability and Ecological Systems Analysis",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12643",
+      "display_name": "Sustainability and Ecological Systems Analysis",
+      "value": 0.0001143,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13276",
+      "display_name": "University-Industry-Government Innovation Models",
+      "value": 9.88e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1405",
+        "display_name": "Management of Technology and Innovation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14143",
+      "display_name": "Economic and Technological Innovation",
+      "value": 5.1e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13609",
+      "display_name": "Economic, Social, and Public Health Issues in Russia and Globally",
+      "value": 3.65e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10763",
+      "display_name": "Digital Transformation in Industry",
+      "value": 3.53e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.7609739303588867
+    },
+    {
+      "id": "148383697",
+      "wikidata": "https://www.wikidata.org/wiki/Q1781695",
+      "display_name": "Regional science",
+      "score": 0.6475908160209656
+    },
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.5423861145973206
+    },
+    {
+      "id": "136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "score": 0.36803722381591797
+    },
+    {
+      "id": "205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "score": 0.3003388047218323
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2018,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2019,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 101
+    },
+    {
+      "year": 2020,
+      "works_count": 7,
+      "oa_works_count": 1,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2021,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 56
+    }
+  ],
+  "longest_name": "Gergely Marcell Honti",
+  "parsed_longest_name": {
+    "first": "gergely",
+    "middle": "marcell",
+    "last": "honti",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "g honti",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5068986147",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2021-03-01T00:00:00"
+}

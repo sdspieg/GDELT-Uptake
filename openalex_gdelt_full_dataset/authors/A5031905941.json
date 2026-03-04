@@ -1,0 +1,417 @@
+{
+  "id": "https://openalex.org/A5031905941",
+  "orcid": "https://orcid.org/0000-0003-3575-7970",
+  "display_name": "Raúl Gómez Martínez",
+  "display_name_alternatives": [
+    "Gómez Martínez, Raúl",
+    "Raul Gomez-Martinez",
+    "Raul Gómez Martínez",
+    "Raul Gómez-Martínez",
+    "Raul Martinez",
+    "Raúl Gomez Martínez",
+    "Raúl Goméz-Martinez",
+    "Raúl Gómez Martinez",
+    "Raúl Gómez Martínez",
+    "Raúl Gómez-Martínez"
+  ],
+  "works_count": 68,
+  "cited_by_count": 258,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.68,
+    "h_index": 8,
+    "i10_index": 7
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5031905941",
+    "orcid": "https://orcid.org/0000-0003-3575-7970"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I182083151",
+        "ror": "https://ror.org/01v5cv687",
+        "display_name": "Universidad Rey Juan Carlos",
+        "country_code": "ES",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I182083151"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2014,
+        2013
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210155470",
+        "ror": "https://ror.org/05701yq92",
+        "display_name": "Hospital Base Guillermo Almenara Irigoyen",
+        "country_code": "PE",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210124313",
+          "https://openalex.org/I4210155470"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I182083151",
+      "ror": "https://ror.org/01v5cv687",
+      "display_name": "Universidad Rey Juan Carlos",
+      "country_code": "ES",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I182083151"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210155470",
+      "ror": "https://ror.org/05701yq92",
+      "display_name": "Hospital Base Guillermo Almenara Irigoyen",
+      "country_code": "PE",
+      "type": "healthcare",
+      "lineage": [
+        "https://openalex.org/I4210124313",
+        "https://openalex.org/I4210155470"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10047",
+      "display_name": "Financial Markets and Investment Strategies",
+      "count": 12,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14239",
+      "display_name": "Business, Education, Mathematics Research",
+      "count": 11,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11059",
+      "display_name": "Market Dynamics and Volatility",
+      "count": 7,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11326",
+      "display_name": "Stock Market Forecasting Methods",
+      "count": 7,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11270",
+      "display_name": "Complex Systems and Time Series Analysis",
+      "count": 6,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T14100",
+      "display_name": "Scientific Research and Technology",
+      "value": 6.28e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11326",
+      "display_name": "Stock Market Forecasting Methods",
+      "value": 6.24e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14239",
+      "display_name": "Business, Education, Mathematics Research",
+      "value": 5.83e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10047",
+      "display_name": "Financial Markets and Investment Strategies",
+      "value": 5.24e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13812",
+      "display_name": "AI and HR Technologies",
+      "value": 4.67e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "15708023",
+      "wikidata": "https://www.wikidata.org/wiki/Q80083",
+      "display_name": "Humanities",
+      "score": 0.8368702530860901
+    },
+    {
+      "id": "144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "score": 0.7637810707092285
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.6358804702758789
+    },
+    {
+      "id": "162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "score": 0.5875622630119324
+    },
+    {
+      "id": "17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "score": 0.5567481517791748
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2002,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2010,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2011,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2012,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2013,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2014,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 19
+    },
+    {
+      "year": 2015,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2016,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2017,
+      "works_count": 2,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2018,
+      "works_count": 7,
+      "oa_works_count": 4,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2019,
+      "works_count": 4,
+      "oa_works_count": 2,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2020,
+      "works_count": 5,
+      "oa_works_count": 3,
+      "cited_by_count": 85
+    },
+    {
+      "year": 2021,
+      "works_count": 4,
+      "oa_works_count": 3,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2023,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2024,
+      "works_count": 13,
+      "oa_works_count": 9,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2025,
+      "works_count": 12,
+      "oa_works_count": 10,
+      "cited_by_count": 11
+    }
+  ],
+  "longest_name": "Gómez Martínez, Raúl",
+  "parsed_longest_name": {
+    "first": "raul",
+    "middle": "",
+    "last": "gomez martinez",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "r gomez martinez",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5031905941",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

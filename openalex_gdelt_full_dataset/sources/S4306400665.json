@@ -1,0 +1,1281 @@
+{
+  "id": "https://openalex.org/S4306400665",
+  "issn_l": null,
+  "issn": null,
+  "display_name": "Warwick Research Archive Portal (University of Warwick)",
+  "host_organization": "https://openalex.org/I39555362",
+  "host_organization_name": "University of Warwick",
+  "host_organization_lineage": [
+    "https://openalex.org/I39555362"
+  ],
+  "works_count": 17849,
+  "oa_works_count": 9792,
+  "cited_by_count": 34757,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.028534370946822308,
+    "h_index": 66,
+    "i10_index": 713
+  },
+  "is_oa": false,
+  "is_in_doaj": false,
+  "is_in_doaj_since_year": null,
+  "is_high_oa_rate": false,
+  "is_high_oa_rate_since_year": null,
+  "is_in_scielo": false,
+  "is_ojs": false,
+  "is_core": false,
+  "oa_flip_year": null,
+  "first_publication_year": 29,
+  "last_publication_year": 2026,
+  "ids": {
+    "openalex": "https://openalex.org/S4306400665",
+    "issn_l": null,
+    "issn": null,
+    "mag": "4306400665",
+    "wikidata": null
+  },
+  "homepage_url": null,
+  "apc_prices": [],
+  "apc_usd": null,
+  "country_code": null,
+  "societies": [],
+  "alternate_titles": [],
+  "type": "repository",
+  "topics": [
+    {
+      "id": "https://openalex.org/T10346",
+      "display_name": "Magnetic confinement fusion research",
+      "count": 909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13497",
+      "display_name": "Hermeneutics and Narrative Identity",
+      "count": 426,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13099",
+      "display_name": "Health, Medicine and Society",
+      "count": 413,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13695",
+      "display_name": "Aging, Elder Care, and Social Issues",
+      "count": 413,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11367",
+      "display_name": "Particle accelerators and beam dynamics",
+      "count": 406,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2202",
+        "display_name": "Aerospace Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10592",
+      "display_name": "Fusion materials and technologies",
+      "count": 351,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2505",
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12137",
+      "display_name": "Economic theories and models",
+      "count": 193,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10781",
+      "display_name": "Plasma Diagnostics and Applications",
+      "count": 190,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2208",
+        "display_name": "Electrical and Electronic Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11808",
+      "display_name": "Superconducting Materials and Applications",
+      "count": 178,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2204",
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10007",
+      "display_name": "Monetary Policy and Economic Impact",
+      "count": 164,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11421",
+      "display_name": "Labor Movements and Unions",
+      "count": 159,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3321",
+        "display_name": "Public Administration"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11044",
+      "display_name": "Particle Detector Development and Performance",
+      "count": 155,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3106",
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13370",
+      "display_name": "Diverse Scientific and Economic Studies",
+      "count": 140,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10503",
+      "display_name": "Global Financial Crisis and Policies",
+      "count": 130,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10021",
+      "display_name": "EFL/ESL Teaching and Learning",
+      "count": 129,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13532",
+      "display_name": "Education Systems and Policy",
+      "count": 128,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11603",
+      "display_name": "Dust and Plasma Wave Phenomena",
+      "count": 121,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3107",
+        "display_name": "Atomic and Molecular Physics, and Optics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10605",
+      "display_name": "Historical Economic and Social Studies",
+      "count": 119,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10067",
+      "display_name": "Stochastic processes and financial applications",
+      "count": 117,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10588",
+      "display_name": "Mathematical Dynamics and Fractals",
+      "count": 115,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2610",
+        "display_name": "Mathematical Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11742",
+      "display_name": "Economic Theory and Policy",
+      "count": 114,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12917",
+      "display_name": "Astronomy and Astrophysical Research",
+      "count": 114,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3105",
+        "display_name": "Instrumentation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12542",
+      "display_name": "Second Language Learning and Teaching",
+      "count": 113,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1208",
+        "display_name": "Literature and Literary Theory"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13769",
+      "display_name": "Fusion and Plasma Physics Studies",
+      "count": 103,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10061",
+      "display_name": "Algebraic Geometry and Number Theory",
+      "count": 102,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2608",
+        "display_name": "Geometry and Topology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12312",
+      "display_name": "Culture, Economy, and Development Studies",
+      "value": 0.0009113,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3317",
+        "display_name": "Demography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13825",
+      "display_name": "Economic Policies and Impacts",
+      "value": 0.0009067,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12056",
+      "display_name": "Markov Chains and Monte Carlo Methods",
+      "value": 0.0008779,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2613",
+        "display_name": "Statistics and Probability"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11031",
+      "display_name": "Game Theory and Applications",
+      "value": 0.00076,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12366",
+      "display_name": "Philosophy, Ethics, and Existentialism",
+      "value": 0.0007053,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1211",
+        "display_name": "Philosophy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12137",
+      "display_name": "Economic theories and models",
+      "value": 0.0006704,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13387",
+      "display_name": "Politics, Economics, and Education Policy",
+      "value": 0.0006649,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10588",
+      "display_name": "Mathematical Dynamics and Fractals",
+      "value": 0.0006639,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2610",
+        "display_name": "Mathematical Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10646",
+      "display_name": "Experimental Behavioral Economics Studies",
+      "value": 0.0006622,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12295",
+      "display_name": "Foucault, Power, and Ethics",
+      "value": 0.000642,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12889",
+      "display_name": "Psychoanalysis, Philosophy, and Politics",
+      "value": 0.0006315,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3203",
+        "display_name": "Clinical Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10067",
+      "display_name": "Stochastic processes and financial applications",
+      "value": 0.0006151,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10991",
+      "display_name": "Game Theory and Voting Systems",
+      "value": 0.0006006,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11421",
+      "display_name": "Labor Movements and Unions",
+      "value": 0.0005887,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3321",
+        "display_name": "Public Administration"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11152",
+      "display_name": "Stochastic processes and statistical mechanics",
+      "value": 0.0005705,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2610",
+        "display_name": "Mathematical Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10344",
+      "display_name": "Management and Organizational Studies",
+      "value": 0.0005363,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1407",
+        "display_name": "Organizational Behavior and Human Resource Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11391",
+      "display_name": "Theatre and Performance Studies",
+      "value": 0.0005344,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1213",
+        "display_name": "Visual Arts and Performing Arts"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13222",
+      "display_name": "Caribbean history, culture, and politics",
+      "value": 0.0005324,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3316",
+        "display_name": "Cultural Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11901",
+      "display_name": "Bayesian Methods and Mixture Models",
+      "value": 0.0005268,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11114",
+      "display_name": "Service and Product Innovation",
+      "value": 0.0005248,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1406",
+        "display_name": "Marketing"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10007",
+      "display_name": "Monetary Policy and Economic Impact",
+      "value": 0.0005233,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10315",
+      "display_name": "Decision-Making and Behavioral Economics",
+      "value": 0.0005082,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1800",
+        "display_name": "General Decision Sciences"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10061",
+      "display_name": "Algebraic Geometry and Number Theory",
+      "value": 0.0004803,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2608",
+        "display_name": "Geometry and Topology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/26",
+        "display_name": "Mathematics"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13074",
+      "display_name": "Global Financial Regulation and Crises",
+      "value": 0.0004802,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12171",
+      "display_name": "Open Education and E-Learning",
+      "value": 0.0004796,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "works_count": 130,
+      "oa_works_count": 14,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "works_count": 588,
+      "oa_works_count": 86,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2024,
+      "works_count": 824,
+      "oa_works_count": 270,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2023,
+      "works_count": 885,
+      "oa_works_count": 358,
+      "cited_by_count": 221
+    },
+    {
+      "year": 2022,
+      "works_count": 867,
+      "oa_works_count": 25,
+      "cited_by_count": 308
+    },
+    {
+      "year": 2021,
+      "works_count": 935,
+      "oa_works_count": 96,
+      "cited_by_count": 938
+    },
+    {
+      "year": 2020,
+      "works_count": 920,
+      "oa_works_count": 310,
+      "cited_by_count": 753
+    },
+    {
+      "year": 2019,
+      "works_count": 987,
+      "oa_works_count": 398,
+      "cited_by_count": 869
+    },
+    {
+      "year": 2018,
+      "works_count": 1104,
+      "oa_works_count": 560,
+      "cited_by_count": 3172
+    },
+    {
+      "year": 2017,
+      "works_count": 1042,
+      "oa_works_count": 597,
+      "cited_by_count": 2295
+    },
+    {
+      "year": 2016,
+      "works_count": 947,
+      "oa_works_count": 573,
+      "cited_by_count": 1972
+    },
+    {
+      "year": 2015,
+      "works_count": 805,
+      "oa_works_count": 505,
+      "cited_by_count": 1857
+    },
+    {
+      "year": 2014,
+      "works_count": 653,
+      "oa_works_count": 444,
+      "cited_by_count": 1717
+    },
+    {
+      "year": 2013,
+      "works_count": 589,
+      "oa_works_count": 424,
+      "cited_by_count": 1397
+    },
+    {
+      "year": 2012,
+      "works_count": 496,
+      "oa_works_count": 378,
+      "cited_by_count": 918
+    },
+    {
+      "year": 2011,
+      "works_count": 419,
+      "oa_works_count": 313,
+      "cited_by_count": 999
+    },
+    {
+      "year": 2010,
+      "works_count": 404,
+      "oa_works_count": 285,
+      "cited_by_count": 1158
+    },
+    {
+      "year": 2009,
+      "works_count": 371,
+      "oa_works_count": 286,
+      "cited_by_count": 1111
+    },
+    {
+      "year": 2008,
+      "works_count": 299,
+      "oa_works_count": 236,
+      "cited_by_count": 738
+    },
+    {
+      "year": 2007,
+      "works_count": 286,
+      "oa_works_count": 208,
+      "cited_by_count": 1212
+    },
+    {
+      "year": 2006,
+      "works_count": 253,
+      "oa_works_count": 176,
+      "cited_by_count": 1488
+    },
+    {
+      "year": 2005,
+      "works_count": 184,
+      "oa_works_count": 141,
+      "cited_by_count": 932
+    },
+    {
+      "year": 2004,
+      "works_count": 220,
+      "oa_works_count": 164,
+      "cited_by_count": 1167
+    },
+    {
+      "year": 2003,
+      "works_count": 226,
+      "oa_works_count": 167,
+      "cited_by_count": 920
+    },
+    {
+      "year": 2002,
+      "works_count": 226,
+      "oa_works_count": 164,
+      "cited_by_count": 675
+    },
+    {
+      "year": 2001,
+      "works_count": 248,
+      "oa_works_count": 183,
+      "cited_by_count": 1247
+    },
+    {
+      "year": 2000,
+      "works_count": 225,
+      "oa_works_count": 179,
+      "cited_by_count": 656
+    },
+    {
+      "year": 1999,
+      "works_count": 219,
+      "oa_works_count": 173,
+      "cited_by_count": 542
+    },
+    {
+      "year": 1998,
+      "works_count": 181,
+      "oa_works_count": 146,
+      "cited_by_count": 515
+    },
+    {
+      "year": 1997,
+      "works_count": 149,
+      "oa_works_count": 117,
+      "cited_by_count": 377
+    },
+    {
+      "year": 1996,
+      "works_count": 142,
+      "oa_works_count": 122,
+      "cited_by_count": 317
+    },
+    {
+      "year": 1995,
+      "works_count": 130,
+      "oa_works_count": 106,
+      "cited_by_count": 262
+    },
+    {
+      "year": 1994,
+      "works_count": 110,
+      "oa_works_count": 97,
+      "cited_by_count": 327
+    },
+    {
+      "year": 1993,
+      "works_count": 143,
+      "oa_works_count": 129,
+      "cited_by_count": 284
+    },
+    {
+      "year": 1992,
+      "works_count": 167,
+      "oa_works_count": 145,
+      "cited_by_count": 274
+    },
+    {
+      "year": 1991,
+      "works_count": 141,
+      "oa_works_count": 119,
+      "cited_by_count": 250
+    },
+    {
+      "year": 1990,
+      "works_count": 91,
+      "oa_works_count": 85,
+      "cited_by_count": 79
+    },
+    {
+      "year": 1989,
+      "works_count": 118,
+      "oa_works_count": 106,
+      "cited_by_count": 217
+    },
+    {
+      "year": 1988,
+      "works_count": 97,
+      "oa_works_count": 86,
+      "cited_by_count": 176
+    },
+    {
+      "year": 1987,
+      "works_count": 95,
+      "oa_works_count": 82,
+      "cited_by_count": 116
+    },
+    {
+      "year": 1986,
+      "works_count": 82,
+      "oa_works_count": 76,
+      "cited_by_count": 277
+    },
+    {
+      "year": 1985,
+      "works_count": 84,
+      "oa_works_count": 75,
+      "cited_by_count": 558
+    },
+    {
+      "year": 1984,
+      "works_count": 76,
+      "oa_works_count": 61,
+      "cited_by_count": 201
+    },
+    {
+      "year": 1983,
+      "works_count": 78,
+      "oa_works_count": 67,
+      "cited_by_count": 112
+    },
+    {
+      "year": 1982,
+      "works_count": 63,
+      "oa_works_count": 55,
+      "cited_by_count": 134
+    },
+    {
+      "year": 1981,
+      "works_count": 45,
+      "oa_works_count": 38,
+      "cited_by_count": 28
+    },
+    {
+      "year": 1980,
+      "works_count": 55,
+      "oa_works_count": 48,
+      "cited_by_count": 76
+    },
+    {
+      "year": 1979,
+      "works_count": 43,
+      "oa_works_count": 34,
+      "cited_by_count": 170
+    },
+    {
+      "year": 1978,
+      "works_count": 62,
+      "oa_works_count": 48,
+      "cited_by_count": 208
+    },
+    {
+      "year": 1977,
+      "works_count": 41,
+      "oa_works_count": 34,
+      "cited_by_count": 64
+    },
+    {
+      "year": 1976,
+      "works_count": 38,
+      "oa_works_count": 32,
+      "cited_by_count": 77
+    },
+    {
+      "year": 1975,
+      "works_count": 40,
+      "oa_works_count": 35,
+      "cited_by_count": 36
+    },
+    {
+      "year": 1974,
+      "works_count": 36,
+      "oa_works_count": 25,
+      "cited_by_count": 24
+    },
+    {
+      "year": 1973,
+      "works_count": 31,
+      "oa_works_count": 24,
+      "cited_by_count": 129
+    },
+    {
+      "year": 1972,
+      "works_count": 32,
+      "oa_works_count": 21,
+      "cited_by_count": 7
+    },
+    {
+      "year": 1971,
+      "works_count": 24,
+      "oa_works_count": 13,
+      "cited_by_count": 24
+    },
+    {
+      "year": 1970,
+      "works_count": 28,
+      "oa_works_count": 20,
+      "cited_by_count": 36
+    },
+    {
+      "year": 1969,
+      "works_count": 28,
+      "oa_works_count": 18,
+      "cited_by_count": 42
+    },
+    {
+      "year": 1968,
+      "works_count": 13,
+      "oa_works_count": 9,
+      "cited_by_count": 49
+    },
+    {
+      "year": 1967,
+      "works_count": 3,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1966,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 1914,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 3
+    },
+    {
+      "year": 29,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=primary_location.source.id:S4306400665",
+  "updated_date": "2026-03-02T20:52:56",
+  "created_date": "2016-06-24T00:00:00"
+}

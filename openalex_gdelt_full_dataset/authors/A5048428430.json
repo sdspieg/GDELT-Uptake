@@ -1,0 +1,194 @@
+{
+  "id": "https://openalex.org/A5048428430",
+  "orcid": null,
+  "display_name": "Salma Tarek",
+  "display_name_alternatives": [
+    "S. Tarek",
+    "Salma Tarek"
+  ],
+  "works_count": 2,
+  "cited_by_count": 2,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.0,
+    "h_index": 1,
+    "i10_index": 0
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5048428430",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210086057",
+        "ror": "https://ror.org/00em04n91",
+        "display_name": "Moscow State University of Civil Engineering",
+        "country_code": "RU",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210086057"
+        ]
+      },
+      "years": [
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210086935",
+        "ror": null,
+        "display_name": "Arab Academy for Science, Technology, and Maritime Transport",
+        "country_code": "EG",
+        "type": null,
+        "lineage": [
+          "https://openalex.org/I4210086935"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I4210086935",
+      "ror": null,
+      "display_name": "Arab Academy for Science, Technology, and Maritime Transport",
+      "country_code": "EG",
+      "type": null,
+      "lineage": [
+        "https://openalex.org/I4210086935"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T12147",
+      "display_name": "Urban and Rural Development Challenges",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12710",
+      "display_name": "Engineering and Agricultural Innovations",
+      "count": 1,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1104",
+        "display_name": "Aquatic Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T12710",
+      "display_name": "Engineering and Agricultural Innovations",
+      "value": 2e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1104",
+        "display_name": "Aquatic Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/11",
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12147",
+      "display_name": "Urban and Rural Development Challenges",
+      "value": 7.4e-06,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3322",
+        "display_name": "Urban Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "147176958",
+      "wikidata": "https://www.wikidata.org/wiki/Q77590",
+      "display_name": "Civil engineering",
+      "score": 0.594443678855896
+    },
+    {
+      "id": "127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "score": 0.5139719843864441
+    },
+    {
+      "id": "205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "score": 0.49353182315826416
+    },
+    {
+      "id": "127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "score": 0.3004835247993469
+    },
+    {
+      "id": "151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "score": 0.059462904930114746
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Salma Tarek",
+  "parsed_longest_name": {
+    "first": "salma",
+    "middle": "",
+    "last": "tarek",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "s tarek",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5048428430",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2025-10-10T00:00:00"
+}

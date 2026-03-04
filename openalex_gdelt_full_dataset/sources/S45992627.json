@@ -1,0 +1,1733 @@
+{
+  "id": "https://openalex.org/S45992627",
+  "issn_l": "0013-0133",
+  "issn": [
+    "0013-0133",
+    "1468-0297",
+    "1742-0350"
+  ],
+  "display_name": "The Economic Journal",
+  "host_organization": "https://openalex.org/P4310311648",
+  "host_organization_name": "Oxford University Press",
+  "host_organization_lineage": [
+    "https://openalex.org/P4310311648",
+    "https://openalex.org/P4310311647"
+  ],
+  "works_count": 19878,
+  "oa_works_count": 3128,
+  "cited_by_count": 1060013,
+  "summary_stats": {
+    "2yr_mean_citedness": 3.625874125874126,
+    "h_index": 419,
+    "i10_index": 8011
+  },
+  "is_oa": false,
+  "is_in_doaj": false,
+  "is_in_doaj_since_year": null,
+  "is_high_oa_rate": false,
+  "is_high_oa_rate_since_year": null,
+  "is_in_scielo": false,
+  "is_ojs": false,
+  "is_core": true,
+  "oa_flip_year": null,
+  "first_publication_year": 1891,
+  "last_publication_year": 2026,
+  "ids": {
+    "openalex": "https://openalex.org/S45992627",
+    "issn_l": "0013-0133",
+    "issn": [
+      "0013-0133",
+      "1468-0297",
+      "1742-0350"
+    ],
+    "mag": "45992627",
+    "wikidata": "https://www.wikidata.org/entity/Q983209"
+  },
+  "homepage_url": "https://academic.oup.com/ej",
+  "apc_prices": [
+    {
+      "price": 3099,
+      "currency": "GBP"
+    }
+  ],
+  "apc_usd": 3801,
+  "country_code": "GB",
+  "societies": [],
+  "alternate_titles": [],
+  "type": "journal",
+  "topics": [
+    {
+      "id": "https://openalex.org/T11742",
+      "display_name": "Economic Theory and Policy",
+      "count": 2048,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10785",
+      "display_name": "Economic Theory and Institutions",
+      "count": 1978,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12137",
+      "display_name": "Economic theories and models",
+      "count": 1758,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11770",
+      "display_name": "Fiscal Policy and Economic Growth",
+      "count": 1623,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10503",
+      "display_name": "Global Financial Crisis and Policies",
+      "count": 1045,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10128",
+      "display_name": "Global trade and economics",
+      "count": 980,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10393",
+      "display_name": "Economic Growth and Productivity",
+      "count": 894,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10007",
+      "display_name": "Monetary Policy and Economic Impact",
+      "count": 760,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10605",
+      "display_name": "Historical Economic and Social Studies",
+      "count": 659,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "count": 589,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11544",
+      "display_name": "Gender, Labor, and Family Dynamics",
+      "count": 510,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3318",
+        "display_name": "Gender Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11743",
+      "display_name": "Political Economy and Marxism",
+      "count": 478,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11421",
+      "display_name": "Labor Movements and Unions",
+      "count": 472,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3321",
+        "display_name": "Public Administration"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13825",
+      "display_name": "Economic Policies and Impacts",
+      "count": 465,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14166",
+      "display_name": "European Monetary and Fiscal Policies",
+      "count": 440,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11043",
+      "display_name": "Merger and Competition Analysis",
+      "count": 431,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11817",
+      "display_name": "Housing, Finance, and Neoliberalism",
+      "count": 385,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10646",
+      "display_name": "Experimental Behavioral Economics Studies",
+      "count": 383,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11621",
+      "display_name": "Fiscal Policies and Political Economy",
+      "count": 342,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14094",
+      "display_name": "Italy: Economic History and Contemporary Issues",
+      "count": 324,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10632",
+      "display_name": "Housing Market and Economics",
+      "count": 322,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10127",
+      "display_name": "Banking stability, regulation, efficiency",
+      "count": 309,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11461",
+      "display_name": "Local Government Finance and Decentralization",
+      "count": 307,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11508",
+      "display_name": "Corporate Taxation and Avoidance",
+      "count": 307,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1402",
+        "display_name": "Accounting"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10446",
+      "display_name": "Income, Poverty, and Inequality",
+      "count": 295,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10785",
+      "display_name": "Economic Theory and Institutions",
+      "value": 0.0109829,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12137",
+      "display_name": "Economic theories and models",
+      "value": 0.0061069,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11742",
+      "display_name": "Economic Theory and Policy",
+      "value": 0.0058989,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13825",
+      "display_name": "Economic Policies and Impacts",
+      "value": 0.0054054,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11770",
+      "display_name": "Fiscal Policy and Economic Growth",
+      "value": 0.0045356,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12312",
+      "display_name": "Culture, Economy, and Development Studies",
+      "value": 0.0041008,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3317",
+        "display_name": "Demography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10393",
+      "display_name": "Economic Growth and Productivity",
+      "value": 0.0038707,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14094",
+      "display_name": "Italy: Economic History and Contemporary Issues",
+      "value": 0.003826,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10208",
+      "display_name": "Labor market dynamics and wage inequality",
+      "value": 0.0037229,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11043",
+      "display_name": "Merger and Competition Analysis",
+      "value": 0.0034476,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10503",
+      "display_name": "Global Financial Crisis and Policies",
+      "value": 0.003404,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14166",
+      "display_name": "European Monetary and Fiscal Policies",
+      "value": 0.0031661,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2003",
+        "display_name": "Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10646",
+      "display_name": "Experimental Behavioral Economics Studies",
+      "value": 0.0029836,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3311",
+        "display_name": "Safety Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10128",
+      "display_name": "Global trade and economics",
+      "value": 0.002687,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11621",
+      "display_name": "Fiscal Policies and Political Economy",
+      "value": 0.0026222,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13387",
+      "display_name": "Politics, Economics, and Education Policy",
+      "value": 0.0025765,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11544",
+      "display_name": "Gender, Labor, and Family Dynamics",
+      "value": 0.0025354,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3318",
+        "display_name": "Gender Studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10007",
+      "display_name": "Monetary Policy and Economic Impact",
+      "value": 0.002425,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13901",
+      "display_name": "State Capitalism and Financial Governance",
+      "value": 0.0023687,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1408",
+        "display_name": "Strategy and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11743",
+      "display_name": "Political Economy and Marxism",
+      "value": 0.0023604,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11461",
+      "display_name": "Local Government Finance and Decentralization",
+      "value": 0.0023498,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10446",
+      "display_name": "Income, Poverty, and Inequality",
+      "value": 0.0021112,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10605",
+      "display_name": "Historical Economic and Social Studies",
+      "value": 0.0020456,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2002",
+        "display_name": "Economics and Econometrics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14112",
+      "display_name": "Economic, financial, and policy analysis",
+      "value": 0.0018924,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2000",
+        "display_name": "General Economics, Econometrics and Finance"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/20",
+        "display_name": "Economics, Econometrics and Finance"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13186",
+      "display_name": "Russia and Soviet political economy",
+      "value": 0.0018873,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "works_count": 31,
+      "oa_works_count": 9,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2025,
+      "works_count": 135,
+      "oa_works_count": 44,
+      "cited_by_count": 128
+    },
+    {
+      "year": 2024,
+      "works_count": 120,
+      "oa_works_count": 61,
+      "cited_by_count": 899
+    },
+    {
+      "year": 2023,
+      "works_count": 111,
+      "oa_works_count": 64,
+      "cited_by_count": 1323
+    },
+    {
+      "year": 2022,
+      "works_count": 90,
+      "oa_works_count": 43,
+      "cited_by_count": 2037
+    },
+    {
+      "year": 2021,
+      "works_count": 106,
+      "oa_works_count": 56,
+      "cited_by_count": 3469
+    },
+    {
+      "year": 2020,
+      "works_count": 139,
+      "oa_works_count": 71,
+      "cited_by_count": 4447
+    },
+    {
+      "year": 2019,
+      "works_count": 70,
+      "oa_works_count": 38,
+      "cited_by_count": 2252
+    },
+    {
+      "year": 2018,
+      "works_count": 99,
+      "oa_works_count": 40,
+      "cited_by_count": 4939
+    },
+    {
+      "year": 2017,
+      "works_count": 136,
+      "oa_works_count": 58,
+      "cited_by_count": 6172
+    },
+    {
+      "year": 2016,
+      "works_count": 105,
+      "oa_works_count": 49,
+      "cited_by_count": 5602
+    },
+    {
+      "year": 2015,
+      "works_count": 144,
+      "oa_works_count": 71,
+      "cited_by_count": 11771
+    },
+    {
+      "year": 2014,
+      "works_count": 105,
+      "oa_works_count": 43,
+      "cited_by_count": 9159
+    },
+    {
+      "year": 2013,
+      "works_count": 109,
+      "oa_works_count": 27,
+      "cited_by_count": 10414
+    },
+    {
+      "year": 2012,
+      "works_count": 102,
+      "oa_works_count": 22,
+      "cited_by_count": 10814
+    },
+    {
+      "year": 2011,
+      "works_count": 94,
+      "oa_works_count": 26,
+      "cited_by_count": 11922
+    },
+    {
+      "year": 2010,
+      "works_count": 83,
+      "oa_works_count": 25,
+      "cited_by_count": 10657
+    },
+    {
+      "year": 2009,
+      "works_count": 122,
+      "oa_works_count": 27,
+      "cited_by_count": 11911
+    },
+    {
+      "year": 2008,
+      "works_count": 113,
+      "oa_works_count": 32,
+      "cited_by_count": 16898
+    },
+    {
+      "year": 2007,
+      "works_count": 133,
+      "oa_works_count": 23,
+      "cited_by_count": 17417
+    },
+    {
+      "year": 2006,
+      "works_count": 122,
+      "oa_works_count": 20,
+      "cited_by_count": 16470
+    },
+    {
+      "year": 2005,
+      "works_count": 92,
+      "oa_works_count": 27,
+      "cited_by_count": 8184
+    },
+    {
+      "year": 2004,
+      "works_count": 146,
+      "oa_works_count": 58,
+      "cited_by_count": 10380
+    },
+    {
+      "year": 2003,
+      "works_count": 146,
+      "oa_works_count": 35,
+      "cited_by_count": 9518
+    },
+    {
+      "year": 2002,
+      "works_count": 163,
+      "oa_works_count": 39,
+      "cited_by_count": 16117
+    },
+    {
+      "year": 2001,
+      "works_count": 105,
+      "oa_works_count": 18,
+      "cited_by_count": 14568
+    },
+    {
+      "year": 2000,
+      "works_count": 111,
+      "oa_works_count": 12,
+      "cited_by_count": 15918
+    },
+    {
+      "year": 1999,
+      "works_count": 107,
+      "oa_works_count": 15,
+      "cited_by_count": 13505
+    },
+    {
+      "year": 1998,
+      "works_count": 138,
+      "oa_works_count": 13,
+      "cited_by_count": 14181
+    },
+    {
+      "year": 1997,
+      "works_count": 278,
+      "oa_works_count": 38,
+      "cited_by_count": 20411
+    },
+    {
+      "year": 1996,
+      "works_count": 253,
+      "oa_works_count": 20,
+      "cited_by_count": 25751
+    },
+    {
+      "year": 1995,
+      "works_count": 245,
+      "oa_works_count": 13,
+      "cited_by_count": 18624
+    },
+    {
+      "year": 1994,
+      "works_count": 219,
+      "oa_works_count": 12,
+      "cited_by_count": 27404
+    },
+    {
+      "year": 1993,
+      "works_count": 222,
+      "oa_works_count": 8,
+      "cited_by_count": 19788
+    },
+    {
+      "year": 1992,
+      "works_count": 262,
+      "oa_works_count": 11,
+      "cited_by_count": 14277
+    },
+    {
+      "year": 1991,
+      "works_count": 213,
+      "oa_works_count": 6,
+      "cited_by_count": 24239
+    },
+    {
+      "year": 1990,
+      "works_count": 258,
+      "oa_works_count": 11,
+      "cited_by_count": 25083
+    },
+    {
+      "year": 1989,
+      "works_count": 177,
+      "oa_works_count": 3,
+      "cited_by_count": 31755
+    },
+    {
+      "year": 1988,
+      "works_count": 195,
+      "oa_works_count": 3,
+      "cited_by_count": 16077
+    },
+    {
+      "year": 1987,
+      "works_count": 185,
+      "oa_works_count": 2,
+      "cited_by_count": 16371
+    },
+    {
+      "year": 1986,
+      "works_count": 188,
+      "oa_works_count": 5,
+      "cited_by_count": 16468
+    },
+    {
+      "year": 1985,
+      "works_count": 186,
+      "oa_works_count": 15,
+      "cited_by_count": 14654
+    },
+    {
+      "year": 1984,
+      "works_count": 189,
+      "oa_works_count": 4,
+      "cited_by_count": 15223
+    },
+    {
+      "year": 1983,
+      "works_count": 191,
+      "oa_works_count": 8,
+      "cited_by_count": 37787
+    },
+    {
+      "year": 1982,
+      "works_count": 156,
+      "oa_works_count": 13,
+      "cited_by_count": 26547
+    },
+    {
+      "year": 1981,
+      "works_count": 181,
+      "oa_works_count": 11,
+      "cited_by_count": 11707
+    },
+    {
+      "year": 1980,
+      "works_count": 177,
+      "oa_works_count": 11,
+      "cited_by_count": 14097
+    },
+    {
+      "year": 1979,
+      "works_count": 199,
+      "oa_works_count": 6,
+      "cited_by_count": 10399
+    },
+    {
+      "year": 1978,
+      "works_count": 137,
+      "oa_works_count": 4,
+      "cited_by_count": 10174
+    },
+    {
+      "year": 1977,
+      "works_count": 160,
+      "oa_works_count": 8,
+      "cited_by_count": 7940
+    },
+    {
+      "year": 1976,
+      "works_count": 182,
+      "oa_works_count": 6,
+      "cited_by_count": 24862
+    },
+    {
+      "year": 1975,
+      "works_count": 179,
+      "oa_works_count": 8,
+      "cited_by_count": 11599
+    },
+    {
+      "year": 1974,
+      "works_count": 199,
+      "oa_works_count": 6,
+      "cited_by_count": 11857
+    },
+    {
+      "year": 1973,
+      "works_count": 280,
+      "oa_works_count": 7,
+      "cited_by_count": 15357
+    },
+    {
+      "year": 1972,
+      "works_count": 245,
+      "oa_works_count": 7,
+      "cited_by_count": 30588
+    },
+    {
+      "year": 1971,
+      "works_count": 195,
+      "oa_works_count": 4,
+      "cited_by_count": 8240
+    },
+    {
+      "year": 1970,
+      "works_count": 169,
+      "oa_works_count": 6,
+      "cited_by_count": 6899
+    },
+    {
+      "year": 1969,
+      "works_count": 186,
+      "oa_works_count": 5,
+      "cited_by_count": 5272
+    },
+    {
+      "year": 1968,
+      "works_count": 185,
+      "oa_works_count": 10,
+      "cited_by_count": 6388
+    },
+    {
+      "year": 1967,
+      "works_count": 177,
+      "oa_works_count": 6,
+      "cited_by_count": 6471
+    },
+    {
+      "year": 1966,
+      "works_count": 182,
+      "oa_works_count": 5,
+      "cited_by_count": 6392
+    },
+    {
+      "year": 1965,
+      "works_count": 183,
+      "oa_works_count": 7,
+      "cited_by_count": 15389
+    },
+    {
+      "year": 1964,
+      "works_count": 190,
+      "oa_works_count": 3,
+      "cited_by_count": 8549
+    },
+    {
+      "year": 1963,
+      "works_count": 156,
+      "oa_works_count": 6,
+      "cited_by_count": 6328
+    },
+    {
+      "year": 1962,
+      "works_count": 194,
+      "oa_works_count": 7,
+      "cited_by_count": 6635
+    },
+    {
+      "year": 1961,
+      "works_count": 140,
+      "oa_works_count": 6,
+      "cited_by_count": 6145
+    },
+    {
+      "year": 1960,
+      "works_count": 144,
+      "oa_works_count": 3,
+      "cited_by_count": 3227
+    },
+    {
+      "year": 1959,
+      "works_count": 146,
+      "oa_works_count": 7,
+      "cited_by_count": 8474
+    },
+    {
+      "year": 1958,
+      "works_count": 142,
+      "oa_works_count": 7,
+      "cited_by_count": 3698
+    },
+    {
+      "year": 1957,
+      "works_count": 143,
+      "oa_works_count": 7,
+      "cited_by_count": 6053
+    },
+    {
+      "year": 1956,
+      "works_count": 141,
+      "oa_works_count": 2,
+      "cited_by_count": 2543
+    },
+    {
+      "year": 1955,
+      "works_count": 148,
+      "oa_works_count": 1,
+      "cited_by_count": 2757
+    },
+    {
+      "year": 1954,
+      "works_count": 142,
+      "oa_works_count": 1,
+      "cited_by_count": 7839
+    },
+    {
+      "year": 1953,
+      "works_count": 162,
+      "oa_works_count": 1,
+      "cited_by_count": 3446
+    },
+    {
+      "year": 1952,
+      "works_count": 166,
+      "oa_works_count": 2,
+      "cited_by_count": 5797
+    },
+    {
+      "year": 1951,
+      "works_count": 128,
+      "oa_works_count": 1,
+      "cited_by_count": 6916
+    },
+    {
+      "year": 1950,
+      "works_count": 145,
+      "oa_works_count": 4,
+      "cited_by_count": 3232
+    },
+    {
+      "year": 1949,
+      "works_count": 110,
+      "oa_works_count": 0,
+      "cited_by_count": 5892
+    },
+    {
+      "year": 1948,
+      "works_count": 98,
+      "oa_works_count": 1,
+      "cited_by_count": 2378
+    },
+    {
+      "year": 1947,
+      "works_count": 73,
+      "oa_works_count": 2,
+      "cited_by_count": 7374
+    },
+    {
+      "year": 1946,
+      "works_count": 115,
+      "oa_works_count": 1,
+      "cited_by_count": 1452
+    },
+    {
+      "year": 1945,
+      "works_count": 76,
+      "oa_works_count": 1,
+      "cited_by_count": 1149
+    },
+    {
+      "year": 1944,
+      "works_count": 72,
+      "oa_works_count": 1,
+      "cited_by_count": 835
+    },
+    {
+      "year": 1943,
+      "works_count": 75,
+      "oa_works_count": 0,
+      "cited_by_count": 10888
+    },
+    {
+      "year": 1942,
+      "works_count": 71,
+      "oa_works_count": 0,
+      "cited_by_count": 1884
+    },
+    {
+      "year": 1941,
+      "works_count": 85,
+      "oa_works_count": 2,
+      "cited_by_count": 1152
+    },
+    {
+      "year": 1940,
+      "works_count": 135,
+      "oa_works_count": 2,
+      "cited_by_count": 2622
+    },
+    {
+      "year": 1939,
+      "works_count": 190,
+      "oa_works_count": 1,
+      "cited_by_count": 9969
+    },
+    {
+      "year": 1938,
+      "works_count": 182,
+      "oa_works_count": 0,
+      "cited_by_count": 5283
+    },
+    {
+      "year": 1937,
+      "works_count": 193,
+      "oa_works_count": 0,
+      "cited_by_count": 3512
+    },
+    {
+      "year": 1936,
+      "works_count": 215,
+      "oa_works_count": 1,
+      "cited_by_count": 1960
+    },
+    {
+      "year": 1935,
+      "works_count": 208,
+      "oa_works_count": 2,
+      "cited_by_count": 2833
+    },
+    {
+      "year": 1934,
+      "works_count": 150,
+      "oa_works_count": 2,
+      "cited_by_count": 2895
+    },
+    {
+      "year": 1933,
+      "works_count": 152,
+      "oa_works_count": 0,
+      "cited_by_count": 9686
+    },
+    {
+      "year": 1932,
+      "works_count": 172,
+      "oa_works_count": 0,
+      "cited_by_count": 4012
+    },
+    {
+      "year": 1931,
+      "works_count": 152,
+      "oa_works_count": 1,
+      "cited_by_count": 2586
+    },
+    {
+      "year": 1930,
+      "works_count": 160,
+      "oa_works_count": 1,
+      "cited_by_count": 2142
+    },
+    {
+      "year": 1929,
+      "works_count": 148,
+      "oa_works_count": 3,
+      "cited_by_count": 8678
+    },
+    {
+      "year": 1928,
+      "works_count": 148,
+      "oa_works_count": 1,
+      "cited_by_count": 10012
+    },
+    {
+      "year": 1927,
+      "works_count": 175,
+      "oa_works_count": 0,
+      "cited_by_count": 4335
+    },
+    {
+      "year": 1926,
+      "works_count": 149,
+      "oa_works_count": 0,
+      "cited_by_count": 1753
+    },
+    {
+      "year": 1925,
+      "works_count": 148,
+      "oa_works_count": 3,
+      "cited_by_count": 1132
+    },
+    {
+      "year": 1924,
+      "works_count": 119,
+      "oa_works_count": 2,
+      "cited_by_count": 1370
+    },
+    {
+      "year": 1923,
+      "works_count": 129,
+      "oa_works_count": 1,
+      "cited_by_count": 7591
+    },
+    {
+      "year": 1922,
+      "works_count": 118,
+      "oa_works_count": 44,
+      "cited_by_count": 1400
+    },
+    {
+      "year": 1921,
+      "works_count": 132,
+      "oa_works_count": 45,
+      "cited_by_count": 4113
+    },
+    {
+      "year": 1920,
+      "works_count": 105,
+      "oa_works_count": 38,
+      "cited_by_count": 2550
+    },
+    {
+      "year": 1919,
+      "works_count": 92,
+      "oa_works_count": 31,
+      "cited_by_count": 514
+    },
+    {
+      "year": 1918,
+      "works_count": 89,
+      "oa_works_count": 33,
+      "cited_by_count": 1133
+    },
+    {
+      "year": 1917,
+      "works_count": 91,
+      "oa_works_count": 32,
+      "cited_by_count": 347
+    },
+    {
+      "year": 1916,
+      "works_count": 101,
+      "oa_works_count": 33,
+      "cited_by_count": 735
+    },
+    {
+      "year": 1915,
+      "works_count": 125,
+      "oa_works_count": 63,
+      "cited_by_count": 966
+    },
+    {
+      "year": 1914,
+      "works_count": 133,
+      "oa_works_count": 56,
+      "cited_by_count": 1213
+    },
+    {
+      "year": 1913,
+      "works_count": 134,
+      "oa_works_count": 59,
+      "cited_by_count": 1457
+    },
+    {
+      "year": 1912,
+      "works_count": 130,
+      "oa_works_count": 50,
+      "cited_by_count": 6412
+    },
+    {
+      "year": 1911,
+      "works_count": 146,
+      "oa_works_count": 60,
+      "cited_by_count": 1073
+    },
+    {
+      "year": 1910,
+      "works_count": 157,
+      "oa_works_count": 62,
+      "cited_by_count": 1265
+    },
+    {
+      "year": 1909,
+      "works_count": 144,
+      "oa_works_count": 60,
+      "cited_by_count": 1219
+    },
+    {
+      "year": 1908,
+      "works_count": 142,
+      "oa_works_count": 59,
+      "cited_by_count": 787
+    },
+    {
+      "year": 1907,
+      "works_count": 129,
+      "oa_works_count": 54,
+      "cited_by_count": 856
+    },
+    {
+      "year": 1906,
+      "works_count": 147,
+      "oa_works_count": 69,
+      "cited_by_count": 1279
+    },
+    {
+      "year": 1905,
+      "works_count": 135,
+      "oa_works_count": 55,
+      "cited_by_count": 671
+    },
+    {
+      "year": 1904,
+      "works_count": 139,
+      "oa_works_count": 61,
+      "cited_by_count": 1565
+    },
+    {
+      "year": 1903,
+      "works_count": 132,
+      "oa_works_count": 63,
+      "cited_by_count": 1658
+    },
+    {
+      "year": 1902,
+      "works_count": 125,
+      "oa_works_count": 62,
+      "cited_by_count": 3072
+    },
+    {
+      "year": 1901,
+      "works_count": 118,
+      "oa_works_count": 50,
+      "cited_by_count": 419
+    },
+    {
+      "year": 1900,
+      "works_count": 100,
+      "oa_works_count": 42,
+      "cited_by_count": 517
+    },
+    {
+      "year": 1899,
+      "works_count": 122,
+      "oa_works_count": 55,
+      "cited_by_count": 921
+    },
+    {
+      "year": 1898,
+      "works_count": 115,
+      "oa_works_count": 60,
+      "cited_by_count": 856
+    },
+    {
+      "year": 1897,
+      "works_count": 106,
+      "oa_works_count": 37,
+      "cited_by_count": 1599
+    },
+    {
+      "year": 1896,
+      "works_count": 118,
+      "oa_works_count": 60,
+      "cited_by_count": 884
+    },
+    {
+      "year": 1895,
+      "works_count": 137,
+      "oa_works_count": 62,
+      "cited_by_count": 1112
+    },
+    {
+      "year": 1894,
+      "works_count": 129,
+      "oa_works_count": 64,
+      "cited_by_count": 1264
+    },
+    {
+      "year": 1893,
+      "works_count": 136,
+      "oa_works_count": 59,
+      "cited_by_count": 1095
+    },
+    {
+      "year": 1892,
+      "works_count": 138,
+      "oa_works_count": 57,
+      "cited_by_count": 1470
+    },
+    {
+      "year": 1891,
+      "works_count": 116,
+      "oa_works_count": 52,
+      "cited_by_count": 3405
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=primary_location.source.id:S45992627",
+  "updated_date": "2026-03-02T20:52:56",
+  "created_date": "2016-06-24T00:00:00"
+}

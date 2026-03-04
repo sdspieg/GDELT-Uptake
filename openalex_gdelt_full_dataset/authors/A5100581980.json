@@ -1,0 +1,923 @@
+{
+  "id": "https://openalex.org/A5100581980",
+  "orcid": null,
+  "display_name": "Dan Yin",
+  "display_name_alternatives": [
+    "Dan YIN",
+    "Dan Yin"
+  ],
+  "works_count": 72,
+  "cited_by_count": 392,
+  "summary_stats": {
+    "2yr_mean_citedness": 0.9333333333333333,
+    "h_index": 11,
+    "i10_index": 11
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5100581980",
+    "orcid": null
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I111950717",
+        "ror": "https://ror.org/03jqs2n27",
+        "display_name": "Macau University of Science and Technology",
+        "country_code": "MO",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I111950717",
+          "https://openalex.org/I4391767947"
+        ]
+      },
+      "years": [
+        2026,
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I114117164",
+        "ror": "https://ror.org/03grx7119",
+        "display_name": "University of Science and Technology Liaoning",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I114117164"
+        ]
+      },
+      "years": [
+        2016
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I139660479",
+        "ror": "https://ror.org/00f1zfq44",
+        "display_name": "Central South University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I139660479"
+        ]
+      },
+      "years": [
+        2011
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I152031979",
+        "ror": "https://ror.org/036trcv74",
+        "display_name": "Nanjing Normal University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I152031979"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I163340411",
+        "ror": "https://ror.org/01wd4xt90",
+        "display_name": "Hohai University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I163340411"
+        ]
+      },
+      "years": [
+        2011,
+        2010
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I176834541",
+        "ror": "https://ror.org/04k5rxe29",
+        "display_name": "Guangdong Medical College",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I176834541"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I17747738",
+        "ror": "https://ror.org/05damtm70",
+        "display_name": "Beijing University of Chinese Medicine",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I17747738"
+        ]
+      },
+      "years": [
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I177739611",
+        "ror": "https://ror.org/05bhmhz54",
+        "display_name": "Yangtze University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I177739611"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I177933477",
+        "ror": "https://ror.org/04tavpn47",
+        "display_name": "Second Military Medical University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I177933477"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I189210763",
+        "ror": "https://ror.org/0040axw97",
+        "display_name": "Yunnan University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I189210763"
+        ]
+      },
+      "years": [
+        2025,
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I200296433",
+        "ror": "https://ror.org/02drdmm93",
+        "display_name": "Chinese Academy of Medical Sciences & Peking Union Medical College",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I200296433"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I200845125",
+        "ror": "https://ror.org/02y0rxk19",
+        "display_name": "Nanjing University of Information Science and Technology",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I200845125"
+        ]
+      },
+      "years": [
+        2020
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I20231570",
+        "ror": "https://ror.org/02v51f717",
+        "display_name": "Peking University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I20231570"
+        ]
+      },
+      "years": [
+        2018
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I204512498",
+        "ror": "https://ror.org/01r4q9n85",
+        "display_name": "University of Macau",
+        "country_code": "MO",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I204512498"
+        ]
+      },
+      "years": [
+        2026,
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I204983213",
+        "ror": "https://ror.org/01yqg2h08",
+        "display_name": "Harbin Institute of Technology",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I204983213"
+        ]
+      },
+      "years": [
+        2025,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I25254941",
+        "ror": "https://ror.org/022k4wk35",
+        "display_name": "Beijing Normal University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I25254941"
+        ]
+      },
+      "years": [
+        2020
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I2800091995",
+        "ror": "https://ror.org/040nggs60",
+        "display_name": "West China Medical Center of Sichuan University",
+        "country_code": "CN",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I24185976",
+          "https://openalex.org/I2800091995"
+        ]
+      },
+      "years": [
+        2021
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I36258959",
+        "ror": "https://ror.org/0168r3w48",
+        "display_name": "University of California, San Diego",
+        "country_code": "US",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I36258959"
+        ]
+      },
+      "years": [
+        2024,
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I38877650",
+        "ror": "https://ror.org/04ypx8c21",
+        "display_name": "Zhengzhou University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I38877650"
+        ]
+      },
+      "years": [
+        2025,
+        2024,
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I3923682",
+        "ror": "https://ror.org/05t8y2r12",
+        "display_name": "Soochow University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I3923682"
+        ]
+      },
+      "years": [
+        2011
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210086011",
+        "ror": "https://ror.org/00bsdxt65",
+        "display_name": "China International Science and Technology Cooperation",
+        "country_code": "CN",
+        "type": "funder",
+        "lineage": [
+          "https://openalex.org/I4210086011"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210095059",
+        "ror": "https://ror.org/00p1jee13",
+        "display_name": "Fuyang City People's Hospital",
+        "country_code": "CN",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210095059"
+        ]
+      },
+      "years": [
+        2026
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210099662",
+        "ror": "https://ror.org/012wsxz85",
+        "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+        "country_code": "CN",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I163340411",
+          "https://openalex.org/I4210099662",
+          "https://openalex.org/I4210111986",
+          "https://openalex.org/I4210120069",
+          "https://openalex.org/I4210127390"
+        ]
+      },
+      "years": [
+        2011,
+        2010
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210121586",
+        "ror": "https://ror.org/02yacz525",
+        "display_name": "Dongzhimen Hospital Affiliated to Beijing University of Chinese Medicine",
+        "country_code": "CN",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210121586"
+        ]
+      },
+      "years": [
+        2025,
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210125143",
+        "ror": "https://ror.org/034z67559",
+        "display_name": "Chengdu University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210125143"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210151530",
+        "ror": "https://ror.org/04v5gcw55",
+        "display_name": "Shanghai Pudong New Area Gongli Hospital",
+        "country_code": "CN",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210151530"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210159428",
+        "ror": "https://ror.org/05pz4ws32",
+        "display_name": "Children's Hospital of Chongqing Medical University",
+        "country_code": "CN",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210159428"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210161896",
+        "ror": "https://ror.org/0590dnz19",
+        "display_name": "Fu Wai Hospital",
+        "country_code": "CN",
+        "type": "healthcare",
+        "lineage": [
+          "https://openalex.org/I4210161896"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210164339",
+        "ror": "https://ror.org/05cxzzq07",
+        "display_name": "Oldham Council",
+        "country_code": "GB",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I4210164339"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I49232843",
+        "ror": "https://ror.org/02an57k10",
+        "display_name": "Changchun University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I49232843"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I74837319",
+        "ror": "https://ror.org/00dc7s858",
+        "display_name": "Jiangxi Agricultural University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I74837319"
+        ]
+      },
+      "years": [
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I77631543",
+        "ror": "https://ror.org/00ab95029",
+        "display_name": "Wuxi Institute of Technology",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I77631543"
+        ]
+      },
+      "years": [
+        2011
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I87780372",
+        "ror": "https://ror.org/017z00e58",
+        "display_name": "Chongqing Medical University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I87780372"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I90259746",
+        "ror": "https://ror.org/01r5sf951",
+        "display_name": "Capital University of Economics and Business",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I90259746"
+        ]
+      },
+      "years": [
+        2020
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I111950717",
+      "ror": "https://ror.org/03jqs2n27",
+      "display_name": "Macau University of Science and Technology",
+      "country_code": "MO",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I111950717",
+        "https://openalex.org/I4391767947"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I204512498",
+      "ror": "https://ror.org/01r4q9n85",
+      "display_name": "University of Macau",
+      "country_code": "MO",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I204512498"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210095059",
+      "ror": "https://ror.org/00p1jee13",
+      "display_name": "Fuyang City People's Hospital",
+      "country_code": "CN",
+      "type": "healthcare",
+      "lineage": [
+        "https://openalex.org/I4210095059"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T12083",
+      "display_name": "Karst Systems and Hydrogeology",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13328",
+      "display_name": "Osteomyelitis and Bone Disorders Research",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10063",
+      "display_name": "Nanoparticle-Based Drug Delivery",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2502",
+        "display_name": "Biomaterials"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/25",
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10075",
+      "display_name": "Atmospheric chemistry and aerosols",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10180",
+      "display_name": "Analytical chemistry methods development",
+      "count": 3,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1602",
+        "display_name": "Analytical Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/16",
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T13677",
+      "display_name": "Magnolia and Illicium research",
+      "value": 0.0001175,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2742",
+        "display_name": "Rehabilitation"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12083",
+      "display_name": "Karst Systems and Hydrogeology",
+      "value": 9.55e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1904",
+        "display_name": "Earth-Surface Processes"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13328",
+      "display_name": "Osteomyelitis and Bone Disorders Research",
+      "value": 9.41e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2745",
+        "display_name": "Rheumatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11869",
+      "display_name": "Per- and polyfluoroalkyl substances research",
+      "value": 6.32e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2304",
+        "display_name": "Environmental Chemistry"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14262",
+      "display_name": "Extenics and Innovation Methods",
+      "value": 5.21e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "score": 0.9674131870269775
+    },
+    {
+      "id": "86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "score": 0.9299618005752563
+    },
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.9001263380050659
+    },
+    {
+      "id": "185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "score": 0.7450000047683716
+    },
+    {
+      "id": "127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "score": 0.32570987939834595
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2002,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2005,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2006,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2009,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2010,
+      "works_count": 4,
+      "oa_works_count": 0,
+      "cited_by_count": 30
+    },
+    {
+      "year": 2011,
+      "works_count": 7,
+      "oa_works_count": 0,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2012,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2013,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2014,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2016,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2017,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2018,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2019,
+      "works_count": 2,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2020,
+      "works_count": 4,
+      "oa_works_count": 3,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2021,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 31
+    },
+    {
+      "year": 2022,
+      "works_count": 9,
+      "oa_works_count": 5,
+      "cited_by_count": 69
+    },
+    {
+      "year": 2023,
+      "works_count": 14,
+      "oa_works_count": 11,
+      "cited_by_count": 171
+    },
+    {
+      "year": 2024,
+      "works_count": 4,
+      "oa_works_count": 0,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "works_count": 9,
+      "oa_works_count": 5,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2026,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    }
+  ],
+  "longest_name": "Dan Yin",
+  "parsed_longest_name": {
+    "first": "dan",
+    "middle": "",
+    "last": "yin",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "d yin",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5100581980",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2016-06-24T00:00:00"
+}

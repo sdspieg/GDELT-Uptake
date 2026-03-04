@@ -1,0 +1,394 @@
+{
+  "id": "https://openalex.org/A5101820978",
+  "orcid": "https://orcid.org/0000-0003-1571-6805",
+  "display_name": "Yuwei Xia",
+  "display_name_alternatives": [
+    "Xia, Yuwei",
+    "Yu-Wei Xia",
+    "Yuwei Xia"
+  ],
+  "works_count": 12,
+  "cited_by_count": 131,
+  "summary_stats": {
+    "2yr_mean_citedness": 4.833333333333333,
+    "h_index": 5,
+    "i10_index": 4
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5101820978",
+    "orcid": "https://orcid.org/0000-0003-1571-6805"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I19820366",
+        "ror": "https://ror.org/034t30j35",
+        "display_name": "Chinese Academy of Sciences",
+        "country_code": "CN",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I19820366"
+        ]
+      },
+      "years": [
+        2024,
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210156404",
+        "ror": "https://ror.org/04r53se39",
+        "display_name": "Institute of Information Engineering",
+        "country_code": "CN",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I19820366",
+          "https://openalex.org/I4210156404"
+        ]
+      },
+      "years": [
+        2024,
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210164339",
+        "ror": "https://ror.org/05cxzzq07",
+        "display_name": "Oldham Council",
+        "country_code": "GB",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I4210164339"
+        ]
+      },
+      "years": [
+        2023
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210165038",
+        "ror": "https://ror.org/05qbk4x57",
+        "display_name": "University of Chinese Academy of Sciences",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I19820366",
+          "https://openalex.org/I4210165038"
+        ]
+      },
+      "years": [
+        2024,
+        2023,
+        2022
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I75900474",
+        "ror": "https://ror.org/03a60m280",
+        "display_name": "Hubei University",
+        "country_code": "CN",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I75900474"
+        ]
+      },
+      "years": [
+        2020
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I19820366",
+      "ror": "https://ror.org/034t30j35",
+      "display_name": "Chinese Academy of Sciences",
+      "country_code": "CN",
+      "type": "funder",
+      "lineage": [
+        "https://openalex.org/I19820366"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I19820366",
+      "ror": "https://ror.org/034t30j35",
+      "display_name": "Chinese Academy of Sciences",
+      "country_code": "CN",
+      "type": "government",
+      "lineage": [
+        "https://openalex.org/I19820366"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210156404",
+      "ror": "https://ror.org/04r53se39",
+      "display_name": "Institute of Information Engineering",
+      "country_code": "CN",
+      "type": "facility",
+      "lineage": [
+        "https://openalex.org/I19820366",
+        "https://openalex.org/I4210156404"
+      ]
+    },
+    {
+      "id": "https://openalex.org/I4210165038",
+      "ror": "https://ror.org/05qbk4x57",
+      "display_name": "University of Chinese Academy of Sciences",
+      "country_code": "CN",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I19820366",
+        "https://openalex.org/I4210165038"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "count": 9,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11273",
+      "display_name": "Advanced Graph Neural Networks",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11307",
+      "display_name": "Domain Adaptation and Few-Shot Learning",
+      "count": 4,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11273",
+      "display_name": "Advanced Graph Neural Networks",
+      "value": 5.33e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11307",
+      "display_name": "Domain Adaptation and Few-Shot Learning",
+      "value": 4.1e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "value": 2.74e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11719",
+      "display_name": "Data Quality and Management",
+      "value": 2.49e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11574",
+      "display_name": "Artificial Intelligence in Games",
+      "value": 1.62e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "score": 0.8288910388946533
+    },
+    {
+      "id": "132525143",
+      "wikidata": "https://www.wikidata.org/wiki/Q141488",
+      "display_name": "Graph",
+      "score": 0.5955511331558228
+    },
+    {
+      "id": "154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "score": 0.5486359596252441
+    },
+    {
+      "id": "80444323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+      "display_name": "Theoretical computer science",
+      "score": 0.5401396751403809
+    },
+    {
+      "id": "119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "score": 0.46628710627555847
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2020,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2022,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "works_count": 4,
+      "oa_works_count": 3,
+      "cited_by_count": 89
+    },
+    {
+      "year": 2024,
+      "works_count": 6,
+      "oa_works_count": 3,
+      "cited_by_count": 29
+    }
+  ],
+  "longest_name": "Yu-Wei Xia",
+  "parsed_longest_name": {
+    "first": "yu-wei",
+    "middle": "",
+    "last": "xia",
+    "suffix": "",
+    "nickname": ""
+  },
+  "block_key": "y xia",
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5101820978",
+  "updated_date": "2026-03-02T21:45:40",
+  "created_date": "2023-02-04T00:00:00"
+}

@@ -1,0 +1,3532 @@
+{
+  "id": "https://openalex.org/I154526488",
+  "ror": "https://ror.org/02vjkv261",
+  "display_name": "Inserm",
+  "country_code": "FR",
+  "type": "government",
+  "type_id": "https://openalex.org/institution-types/government",
+  "lineage": [
+    "https://openalex.org/I154526488"
+  ],
+  "homepage_url": "https://www.inserm.fr",
+  "image_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Inserm.svg",
+  "image_thumbnail_url": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Inserm.svg&width=300",
+  "display_name_acronyms": [
+    "INSERM"
+  ],
+  "display_name_alternatives": [
+    "French Institute of Health and Medical Research",
+    "Inserm",
+    "Institut National de la Santé et de la Recherche Médicale"
+  ],
+  "repositories": [],
+  "works_count": 449460,
+  "cited_by_count": 67224803,
+  "summary_stats": {
+    "2yr_mean_citedness": 3.2451888905883095,
+    "h_index": 1731,
+    "i10_index": 821970
+  },
+  "ids": {
+    "openalex": "https://openalex.org/I154526488",
+    "ror": "https://ror.org/02vjkv261",
+    "grid": "grid.7429.8",
+    "wikipedia": "https://en.wikipedia.org/wiki/Inserm",
+    "wikidata": null
+  },
+  "geo": {
+    "city": "Paris",
+    "geonames_city_id": "2988507",
+    "region": "Île-de-France",
+    "country_code": "FR",
+    "country": "France",
+    "latitude": 48.85341,
+    "longitude": 2.3488
+  },
+  "international": {},
+  "associated_institutions": [
+    {
+      "id": "https://openalex.org/I110736937",
+      "ror": "https://ror.org/02e0y6e06",
+      "display_name": "Délégation Paris 5",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I169173203",
+      "ror": "https://ror.org/00bw5n526",
+      "display_name": "Délégation Paris 7",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210086115",
+      "ror": "https://ror.org/00jsv7j98",
+      "display_name": "Electrophysiology and Heart Modeling Institute",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210086343",
+      "ror": "https://ror.org/000p29f53",
+      "display_name": "Laboratoire d'Optique et Biosciences",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210086369",
+      "ror": "https://ror.org/000nhq538",
+      "display_name": "Institut Necker Enfants Malades",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210086516",
+      "ror": "https://ror.org/003sscq03",
+      "display_name": "Physiologie et Médecine Expérimentale du Coeur et des Muscles",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210086835",
+      "ror": "https://ror.org/002fxfq97",
+      "display_name": "Génomes, biologie cellulaire et thérapeutiques",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210086872",
+      "ror": "https://ror.org/0015ws592",
+      "display_name": "Institut de génétique et de biologie moléculaire et cellulaire",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210087620",
+      "ror": "https://ror.org/003412r28",
+      "display_name": "Centre de Recherche en Cancérologie de Toulouse",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210088138",
+      "ror": "https://ror.org/009p5nb11",
+      "display_name": "Centre de Référence Déficits Immunitaires Héréditaires",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210090689",
+      "ror": "https://ror.org/00bf6bf92",
+      "display_name": "Oncogenesis Stress Signaling",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210091942",
+      "ror": "https://ror.org/00kr24y60",
+      "display_name": "Institut Langevin",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210092322",
+      "ror": "https://ror.org/00dmms154",
+      "display_name": "Centre de Recherche des Cordeliers",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210092509",
+      "ror": "https://ror.org/003g1aw90",
+      "display_name": "Centre de Recherche en Cancérologie et Immunologie Intégrée Nantes Angers",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210093160",
+      "ror": "https://ror.org/00jmxvy70",
+      "display_name": "Délégation Régionale Nord Ouest",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210093987",
+      "ror": "https://ror.org/01eem7c55",
+      "display_name": "Imaging, Brain, and Neuropsychiatry",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210094820",
+      "ror": "https://ror.org/00j5dj575",
+      "display_name": "Institut thématique Bases moléculaires et structurales du vivant",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210095118",
+      "ror": "https://ror.org/00pdd0432",
+      "display_name": "Centre de Recherche en Neurosciences de Lyon",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210095197",
+      "ror": "https://ror.org/00r454w59",
+      "display_name": "Institut thématique Immunologie, inflammation, infectiologie et microbiologie",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210095750",
+      "ror": "https://ror.org/00b8mh310",
+      "display_name": "Institute for Regenerative Medicine & Biotherapy",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210096450",
+      "ror": "https://ror.org/00qdphm77",
+      "display_name": "Nutrition et obésité : approches systémiques",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210097229",
+      "ror": "https://ror.org/00cmmh940",
+      "display_name": "Physiopathologie, métabolisme et nutrition",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210098000",
+      "ror": "https://ror.org/00sbttv49",
+      "display_name": "Délégation Paris 12",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210098026",
+      "ror": "https://ror.org/00rt27171",
+      "display_name": "Laboratory of Pathogens and Host Immunity",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210098463",
+      "ror": "https://ror.org/00zbj9525",
+      "display_name": "Center for Research and Interdisciplinarity",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210099304",
+      "ror": "https://ror.org/017ed2k28",
+      "display_name": "Endothélium, valvulopathies et insuffisance cardiaque",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210100279",
+      "ror": "https://ror.org/0189yvq06",
+      "display_name": "Centre de Biologie Structurale",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210101753",
+      "ror": "https://ror.org/014ycqe77",
+      "display_name": "Institut d'Économie Publique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210102986",
+      "ror": "https://ror.org/018z38380",
+      "display_name": "COMETE - Mobilités : Vieillissement, pathologie, santé",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210103698",
+      "ror": "https://ror.org/01ed4t417",
+      "display_name": "Centre de recherche en Epidémiologie et Santé des Populations",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210105651",
+      "ror": "https://ror.org/01f1amm71",
+      "display_name": "Laboratoire Traitement du Signal et de l'Image",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210105774",
+      "ror": "https://ror.org/01qa4rf46",
+      "display_name": "Délégation Régionale Grand Ouest",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210106115",
+      "ror": "https://ror.org/00xzzba89",
+      "display_name": "Bordeaux Population Health",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210106344",
+      "ror": "https://ror.org/01et6g203",
+      "display_name": "Hypertension pulmonaire : physiopathologie et innovation thérapeutique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210106734",
+      "ror": "https://ror.org/01ddr6d46",
+      "display_name": "Délégation Régionale Occitanie Méditerranée",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210107326",
+      "ror": "https://ror.org/01c2cjg59",
+      "display_name": "Institut de Biologie Paris-Seine",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210108033",
+      "ror": "https://ror.org/01kbkse74",
+      "display_name": "The Enteric Nervous System in Gut and Brain Disorders",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210108239",
+      "ror": "https://ror.org/01p178v10",
+      "display_name": "Institut de Recherche en Santé, Environnement et Travail",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210109573",
+      "ror": "https://ror.org/01zefvs55",
+      "display_name": "Immunité et Cancer",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210110092",
+      "ror": "https://ror.org/01wftfc57",
+      "display_name": "Inserm Transfert",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210110495",
+      "ror": "https://ror.org/019kqby73",
+      "display_name": "Institut de Neurosciences des Systèmes",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210111578",
+      "ror": "https://ror.org/01s8rwd67",
+      "display_name": "Délégation Régionale Provence-Alpes-Côte d’Azur et Corse",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210112918",
+      "ror": "https://ror.org/025sfbe73",
+      "display_name": "Theories and Approaches of Genomic Complexity",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210113054",
+      "ror": "https://ror.org/024k3xe80",
+      "display_name": "Institut thématique Biologie cellulaire, développement et évolution",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210113621",
+      "ror": "https://ror.org/01mvzn566",
+      "display_name": "Centre Interdisciplinaire de Recherche en Biologie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210113666",
+      "ror": "https://ror.org/0270xt841",
+      "display_name": "Institut de Myologie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210113761",
+      "ror": "https://ror.org/02c5gc203",
+      "display_name": "Institut Jacques Monod",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210116274",
+      "ror": "https://ror.org/02baj6743",
+      "display_name": "CIC Rennes",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210117840",
+      "ror": "https://ror.org/03bnma344",
+      "display_name": "Institut de Biologie Valrose",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210118047",
+      "ror": "https://ror.org/02b9znm90",
+      "display_name": "Laboratoire d’Imagerie Biomédicale",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210118410",
+      "ror": "https://ror.org/01rfstj90",
+      "display_name": "Institut thématique Génétique, génomique et bioinformatique",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210118704",
+      "ror": "https://ror.org/029rfe283",
+      "display_name": "Centre Méditerranéen de Médecine Moléculaire",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210119200",
+      "ror": "https://ror.org/01td3kv81",
+      "display_name": "Institut de Recherche sur le Cancer et le Vieillissement de Nice",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210125028",
+      "ror": "https://ror.org/02jthx987",
+      "display_name": "Institut de Neurobiologie de la Méditerranée",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210125048",
+      "ror": "https://ror.org/02mgw3155",
+      "display_name": "Centre de Recherche en Cancérologie de Lyon",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210125684",
+      "ror": "https://ror.org/02xx07v13",
+      "display_name": "Neurocentre Magendie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210126598",
+      "ror": "https://ror.org/03e801006",
+      "display_name": "Equipe Soutenue par la Région et par l'Inserm",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210126950",
+      "ror": "https://ror.org/03bbjky47",
+      "display_name": "Laboratoire CarMeN",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210128217",
+      "ror": "https://ror.org/0366b1491",
+      "display_name": "Metabolism and Renal Physiology",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210128915",
+      "ror": "https://ror.org/0375b8f90",
+      "display_name": "Centre d'Immunologie et des Maladies Infectieuses",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129409",
+      "ror": "https://ror.org/03mxktp47",
+      "display_name": "Institut de Biologie de l'École Normale Supérieure",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129617",
+      "ror": "https://ror.org/02nxezb95",
+      "display_name": "Handicap neuromusculaire : Physiopathologie, Biothérapie et Pharmacologie appliquées",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129850",
+      "ror": "https://ror.org/03rt48n94",
+      "display_name": "Délégation Paris 6",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210129939",
+      "ror": "https://ror.org/03m0zs870",
+      "display_name": "Institut Cellule Souche et Cerveau",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210130096",
+      "ror": "https://ror.org/02gn50d10",
+      "display_name": "Centre de Recherche sur l'Inflammation",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210130508",
+      "ror": "https://ror.org/03837fc46",
+      "display_name": "Adaptateurs de Signalisation en Hématologie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210131199",
+      "ror": "https://ror.org/03gvnh520",
+      "display_name": "Paris Cardiovascular Research Center",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210132422",
+      "ror": "https://ror.org/02v2jyq75",
+      "display_name": "Centre de Recherche Médecine, Sciences, Santé, Santé Mentale, Société",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210133830",
+      "ror": "https://ror.org/03cqwn895",
+      "display_name": "Laboratoire d’immunologie intégrative du cancer",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210133907",
+      "ror": "https://ror.org/02qqh1125",
+      "display_name": "Institut Pierre Louis d‘Épidémiologie et de Santé Publique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210134185",
+      "ror": "https://ror.org/032q95r88",
+      "display_name": "Laboratoire de Recherche Vasculaire Translationnelle",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210134790",
+      "ror": "https://ror.org/0428ctr80",
+      "display_name": "Institute for Neurosciences of Montpellier",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210137329",
+      "ror": "https://ror.org/02z0jq636",
+      "display_name": "Unit of Functional and Adaptive Biology",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210137432",
+      "ror": "https://ror.org/03q7r5x87",
+      "display_name": "Laboratoire de Biologie, Bioingéniérie et Bioimagerie ostéoarticulaire",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210138494",
+      "ror": "https://ror.org/030przz70",
+      "display_name": "Modèles Insectes de l'Immunité Innée",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210138704",
+      "ror": "https://ror.org/03smk3872",
+      "display_name": "Centre de Recherche en Acquisition et Traitement de l'Image pour la Santé",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210138893",
+      "ror": "https://ror.org/03xg8m734",
+      "display_name": "Institut de Recherche Interdisciplinaire sur les Enjeux Sociaux",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210139033",
+      "ror": "https://ror.org/04d70nb60",
+      "display_name": "Centre de recherche Translationnelle en Médecine moléculaire",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210139070",
+      "ror": "https://ror.org/03k1e4r14",
+      "display_name": "Unité de Technologies Chimiques et Biologiques pour la Santé",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210140335",
+      "ror": "https://ror.org/03capj968",
+      "display_name": "Institut de Recherche en Cancérologie de Montpellier",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210141964",
+      "ror": "https://ror.org/051sk4035",
+      "display_name": "Institut Cochin",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210141980",
+      "ror": "https://ror.org/04kv7c795",
+      "display_name": "Délégation Régionale Est",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210143253",
+      "ror": "https://ror.org/056wdpc91",
+      "display_name": "Cognitive Neuroimaging Lab",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210144005",
+      "ror": "https://ror.org/03vyjkj45",
+      "display_name": "Centre d’Immunologie de Marseille-Luminy",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210144168",
+      "ror": "https://ror.org/049kkt456",
+      "display_name": "Institut du Thorax",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210144311",
+      "ror": "https://ror.org/0579jh693",
+      "display_name": "Skin Research Center",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210144489",
+      "ror": "https://ror.org/04agqs597",
+      "display_name": "Institut Européen de Chimie et Biologie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210144608",
+      "ror": "https://ror.org/0494jpz02",
+      "display_name": "Centre de Recherche en Cancérologie de Marseille",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210145195",
+      "ror": "https://ror.org/04wbsq162",
+      "display_name": "Institut thématique Santé Publique",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210145734",
+      "ror": "https://ror.org/03xssrp53",
+      "display_name": "Délégation Régionale Occitanie Pyrénées",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210147393",
+      "ror": "https://ror.org/03xe54902",
+      "display_name": "Cognition, Action, and Sensorimotor Plasticity",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210147641",
+      "ror": "https://ror.org/043y2tx42",
+      "display_name": "Unité de recherche sur les maladies cardiovasculaires et métaboliques",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210148039",
+      "ror": "https://ror.org/03ka94606",
+      "display_name": "Hemostase Inflammation Thrombosis",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210149963",
+      "ror": "https://ror.org/044rb3f07",
+      "display_name": "Délégation Régionale Nouvelle-Aquitaine",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210150358",
+      "ror": "https://ror.org/05neq8668",
+      "display_name": "Institut Systèmes Intelligents et de Robotique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210151160",
+      "ror": "https://ror.org/04as3rk94",
+      "display_name": "Grenoble Institute of Neurosciences",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210152724",
+      "ror": "https://ror.org/050gn5214",
+      "display_name": "Institut du Cerveau",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210153434",
+      "ror": "https://ror.org/05fnxds15",
+      "display_name": "Processus Infectieux en Milieu Insulaire Tropical",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210154657",
+      "ror": "https://ror.org/050c3pq49",
+      "display_name": "Fondation pour l’innovation en Cadiométabolisme et Nutrition",
+      "country_code": "FR",
+      "type": "other",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210154739",
+      "ror": "https://ror.org/04n8sc212",
+      "display_name": "Physiopathologie et Epidémiologie des Maladies Respiratoires",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210155509",
+      "ror": "https://ror.org/0530j9m17",
+      "display_name": "Délégation Régionale Auvergne-Rhône-Alpes",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210156758",
+      "ror": "https://ror.org/043wmc583",
+      "display_name": "Institut de Génomique Fonctionnelle",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210157332",
+      "ror": "https://ror.org/05xanhp90",
+      "display_name": "Récepteurs Nucléaires, Maladies Cardiovasculaires et Diabète",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210157735",
+      "ror": "https://ror.org/04zdwr798",
+      "display_name": "Institut Thématique Cancer",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210159433",
+      "ror": "https://ror.org/04qe59j94",
+      "display_name": "Institut Mondor de Recherche Biomédicale",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210159878",
+      "ror": "https://ror.org/05cx7ek10",
+      "display_name": "Structure Fédérative de Recherche en Biologie et Santé de Rennes",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210160510",
+      "ror": "https://ror.org/05kwbf598",
+      "display_name": "Institut pour l'avancée des biosciences",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210160774",
+      "ror": "https://ror.org/0589k3111",
+      "display_name": "Délégation Paris 11",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210161906",
+      "ror": "https://ror.org/059sz6q14",
+      "display_name": "Centre International de Recherche en Infectiologie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210162761",
+      "ror": "https://ror.org/05dpfhh73",
+      "display_name": "Interactions Cellulaires et Physiopathologie Hépathique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210162817",
+      "ror": "https://ror.org/055ymkj32",
+      "display_name": "Laboratoire Adhésion et inflammation",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210163188",
+      "ror": "https://ror.org/052d1cv78",
+      "display_name": "Institut Génétique, Reproduction et Développement",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210163442",
+      "ror": "https://ror.org/05e7p5n27",
+      "display_name": "Institut thématique Neurosciences, sciences cognitives, neurologie, psychiatrie",
+      "country_code": "FR",
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210163910",
+      "ror": "https://ror.org/05gd4yq49",
+      "display_name": "Institut de Biologie de Lille",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210164276",
+      "ror": "https://ror.org/05hqfh882",
+      "display_name": "Nutrition, Obésité et Risque Thrombotique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210165077",
+      "ror": "https://ror.org/05rq3rb55",
+      "display_name": "Institut des Maladies Génétiques Imagine",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210166412",
+      "ror": "https://ror.org/05dy6wv04",
+      "display_name": "Inflammation, Microbiome and Immunosurveillance",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4210166728",
+      "ror": "https://ror.org/05pchb838",
+      "display_name": "Structure et Instabilité des Génomes",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152196",
+      "ror": "https://ror.org/0266c5p67",
+      "display_name": "Immunologie intégrative des tumeurs et immunothérapie du cancer",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152267",
+      "ror": "https://ror.org/03qy9z186",
+      "display_name": "Institute for Translational Research in Inflammation",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152273",
+      "ror": "https://ror.org/04q29nn62",
+      "display_name": "OncoThAI",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152275",
+      "ror": "https://ror.org/053d03003",
+      "display_name": "Nutrition-Génétique et Exposition aux Risques Environnementaux",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152379",
+      "ror": "https://ror.org/05kkw6065",
+      "display_name": "Ischémie Reperfusion, Métabolisme et Inflammation Stérile en Transplantation",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152452",
+      "ror": "https://ror.org/02hp31992",
+      "display_name": "Empenn",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152481",
+      "ror": "https://ror.org/008qs6838",
+      "display_name": "Mécanismes moléculaires dans les démences neurodégénératives",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152496",
+      "ror": "https://ror.org/028rasm92",
+      "display_name": "Mobilités: Vieillissement, Pathologie, Santé",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152514",
+      "ror": "https://ror.org/05fjffm04",
+      "display_name": "Laboratoire de Physiologie Cellulaire",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152534",
+      "ror": "https://ror.org/04kbqb151",
+      "display_name": "BISCEm - Biologie Intégrative Santé Chimie Environnement",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152542",
+      "ror": "https://ror.org/05x9zmx47",
+      "display_name": "CANTHER - Hétérogénéité, Plasticité et Résistance aux Thérapies des Cancers",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152586",
+      "ror": "https://ror.org/0259td381",
+      "display_name": "Neurophysiologie respiratoire expérimentale et clinique",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152649",
+      "ror": "https://ror.org/012zmcc30",
+      "display_name": "Laboratory for the Bioengineering of Tissues",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152685",
+      "ror": "https://ror.org/02jp0cd74",
+      "display_name": "Innovations Thérapeutiques en Hémostase",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152741",
+      "ror": "https://ror.org/00qhm9960",
+      "display_name": "RESTORE",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152810",
+      "ror": "https://ror.org/04nk3ny21",
+      "display_name": "Centre d'Investigation Clinique de Besançon",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152811",
+      "ror": "https://ror.org/00jp5dw81",
+      "display_name": "Radiothérapie Moléculaire et Innovation Thérapeutique",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152861",
+      "ror": "https://ror.org/00nvvw130",
+      "display_name": "Stabilité Génétique, Cellules Souches et Radiations",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152865",
+      "ror": "https://ror.org/025agbr41",
+      "display_name": "RMeS - Regenerative Medicine and Skeleton",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152901",
+      "ror": "https://ror.org/05kz79f96",
+      "display_name": "Physiologie et Physiopathlogie Endocriniennes",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152908",
+      "ror": "https://ror.org/03zsnyg10",
+      "display_name": "Centre d’Investigation Clinique des Hôpitaux Universitaires de Strasbourg",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152941",
+      "ror": "https://ror.org/01vxptj17",
+      "display_name": "Centre d'Étude des Pathologies Respiratoires",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387152995",
+      "ror": "https://ror.org/01ddqfh11",
+      "display_name": "Institut Droit et Santé",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153037",
+      "ror": "https://ror.org/03t9s7t87",
+      "display_name": "Pathogénèse Bactérienne et Réponses Cellulaires",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153074",
+      "ror": "https://ror.org/0095dt357",
+      "display_name": "Cancer et génome: Bioinformatique, biostatistiques et épidémiologie des systèmes complexes",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153192",
+      "ror": "https://ror.org/016nv8j08",
+      "display_name": "Génomique fonctionnelle comparative",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153258",
+      "ror": "https://ror.org/055nbmz93",
+      "display_name": "Micro et Nanomédecines translationnelles",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153260",
+      "ror": "https://ror.org/01earvv39",
+      "display_name": "Prédicteurs moléculaires et nouvelles cibles en oncologie",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153261",
+      "ror": "https://ror.org/023h4a821",
+      "display_name": "Institut d’Epidémiologie et de Neurologie Tropicale",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153263",
+      "ror": "https://ror.org/013dngs07",
+      "display_name": "Pharmacologie & Transplantation",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153276",
+      "ror": "https://ror.org/02nfq1309",
+      "display_name": "Chimie et Modélisation pour la Biologie du Cancer",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153412",
+      "ror": "https://ror.org/00jvqbw52",
+      "display_name": "Institute for Translational Medicine and Liver Disease",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153500",
+      "ror": "https://ror.org/03y7m8990",
+      "display_name": "Physique pour la médecine Paris",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153514",
+      "ror": "https://ror.org/00p73bw06",
+      "display_name": "Contrôle transcriptionnel et épigénétique de l’hématopoïèse maligne",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153581",
+      "ror": "https://ror.org/052yj6c27",
+      "display_name": "Nutrition, Diabète et Cerveau",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153587",
+      "ror": "https://ror.org/05akjb009",
+      "display_name": "Biologie des interactions hôte-parasite",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153745",
+      "ror": "https://ror.org/056hav897",
+      "display_name": "Plateformes Lilloises en Biologie et Santé",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153827",
+      "ror": "https://ror.org/00n90tt57",
+      "display_name": "Institut Toulousain des Maladies Infectieuses et Inflammatoires",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153840",
+      "ror": "https://ror.org/00jyt4d57",
+      "display_name": "L’Inserm dans Paris et l’Île-de-France Centre Nord",
+      "country_code": null,
+      "type": "government",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153899",
+      "ror": "https://ror.org/03qge6j93",
+      "display_name": "Biologie et pharmacologie des plaquettes sanguines : hémostase, thrombose, transfusion",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153918",
+      "ror": "https://ror.org/030vwjb30",
+      "display_name": "Genopolys",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153933",
+      "ror": "https://ror.org/00vsvph51",
+      "display_name": "Physiopathologie et imagerie des troubles neurologiques",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153944",
+      "ror": "https://ror.org/05qy9ka59",
+      "display_name": "Laboratoire d'imagerie translationnelle en oncologie",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387153971",
+      "ror": "https://ror.org/014sj8802",
+      "display_name": "Recherches Translationnelles sur le VIH et les Maladies Infectieuses",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154053",
+      "ror": "https://ror.org/034feyf26",
+      "display_name": "Physiopathologie, autoimmunité, maladies neuromusculaire et thérapie régénératrice",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154066",
+      "ror": "https://ror.org/041v99f68",
+      "display_name": "Pharmacologie des anti-infectieux et antibiorésistance",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154117",
+      "ror": "https://ror.org/01zrk7293",
+      "display_name": "Physiopathogénèse et Traitement des Maladies du Foie",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154141",
+      "ror": "https://ror.org/0086epd30",
+      "display_name": "Médicaments et Molécules pour Agir sur les Systèmes Vivants",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154171",
+      "ror": "https://ror.org/02w7ezv91",
+      "display_name": "Pathologies Pulmonaires et Plasticité Cellulaire",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154178",
+      "ror": "https://ror.org/01cbgsf04",
+      "display_name": "Acides nucléiques: Régulations naturelles et artificielles",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154225",
+      "ror": "https://ror.org/01vrz7264",
+      "display_name": "Génétique et biologie du développement",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154228",
+      "ror": "https://ror.org/05thj7870",
+      "display_name": "Plateforme d'information et de services pour les maladies rares et les médicaments orphelins",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154241",
+      "ror": "https://ror.org/040d87505",
+      "display_name": "Nutrition, Inflammation et axe Microbiote-Intestin-Cerveau",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154308",
+      "ror": "https://ror.org/00t9egj41",
+      "display_name": "Centre de Recherche Épidémiologie et Statistique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154398",
+      "ror": "https://ror.org/05p7fmf80",
+      "display_name": "Microenvironment and B-cells: Immunopathology, Cell, Differentiation and Cancer",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154437",
+      "ror": "https://ror.org/008e1sp22",
+      "display_name": "HIPI -  Immunologie humaine, physiopathologie et immunithérapie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154458",
+      "ror": "https://ror.org/013nhg483",
+      "display_name": "Laboratoire Physiopathologie et Génétique du Neurone et du Muscle",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154479",
+      "ror": "https://ror.org/029hdt144",
+      "display_name": "Centre d'Investigation Clinique Antilles Guyane",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154483",
+      "ror": "https://ror.org/03pbmtd68",
+      "display_name": "Recherche translationnelle sur le diabète",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154534",
+      "ror": "https://ror.org/00gjnk018",
+      "display_name": "Pathogenèse des infections vasculaires",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154649",
+      "ror": "https://ror.org/044jxv425",
+      "display_name": "Bacterial Virulence and Chronic Infections",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154652",
+      "ror": "https://ror.org/05wzabs02",
+      "display_name": "Optimisation Thérapeutique en Neuropsychopharmacologie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154702",
+      "ror": "https://ror.org/0455vgw31",
+      "display_name": "IMPact de l'Environnement Chimique sur la Santé humaine",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154723",
+      "ror": "https://ror.org/0463z7496",
+      "display_name": "Biologie des maladies cardiovasculaires",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154898",
+      "ror": "https://ror.org/00qe5nz43",
+      "display_name": "TBM-Core",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154899",
+      "ror": "https://ror.org/02a9mrq41",
+      "display_name": "Groupe de Recherches sur l’Analyse Multimodale de la Fonction Cérébrale",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154922",
+      "ror": "https://ror.org/01exas502",
+      "display_name": "Centre d'investigation clinique Quinze-Vingts",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154930",
+      "ror": "https://ror.org/03k37h274",
+      "display_name": "Chimie et Biologie de la Cellule",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387154933",
+      "ror": "https://ror.org/04p4jgt68",
+      "display_name": "Centre d'Investigation Clinique - Innovation Technologique de Lille",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155073",
+      "ror": "https://ror.org/04p94ax69",
+      "display_name": "Lille Neurosciences & Cognition",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155075",
+      "ror": "https://ror.org/04dyeh227",
+      "display_name": "Bordeaux Imaging Center",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155156",
+      "ror": "https://ror.org/034bena10",
+      "display_name": "Centre d'Immunophénomique",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155295",
+      "ror": "https://ror.org/01wvg5605",
+      "display_name": "Maladies Rares: Génétique et Métabolisme",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155354",
+      "ror": "https://ror.org/05k267t15",
+      "display_name": "France Génomique",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155412",
+      "ror": "https://ror.org/04f6tkx67",
+      "display_name": "Neuropsychologie et Imagerie de la Mémoire Humaine",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155446",
+      "ror": "https://ror.org/031y0x195",
+      "display_name": "Bacterial RNAs & Medicine",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155456",
+      "ror": "https://ror.org/01e8w0016",
+      "display_name": "Laboratoire de Neurosciences Cognitives et Computationnelles",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155458",
+      "ror": "https://ror.org/01e4wd589",
+      "display_name": "Centre de Génétique Médicale de Marseille",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155524",
+      "ror": "https://ror.org/03hqv2x85",
+      "display_name": "Mitochondrial and Cardiovascular Physiopathology",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155530",
+      "ror": "https://ror.org/014ndnr76",
+      "display_name": "NeuroDiderot",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155602",
+      "ror": "https://ror.org/0458p8g61",
+      "display_name": "Anti-infectieux : supports moléculaires des résistances et innovations thérapeutiques",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155603",
+      "ror": "https://ror.org/05q8d3662",
+      "display_name": "Organisation Nucléaire et Oncogenèse",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155654",
+      "ror": "https://ror.org/053ppfe96",
+      "display_name": "Systèmes avancés de délivrance de principes actifs",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155787",
+      "ror": "https://ror.org/044dp1584",
+      "display_name": "Centre d'Investigation Clinique - Epidémiologie Clinique Saint-Etienne",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155818",
+      "ror": "https://ror.org/03y61y350",
+      "display_name": "Imagerie Moléculaire et Stratégies Théranostiques",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387155877",
+      "ror": "https://ror.org/05ft9wv42",
+      "display_name": "Défaillance Cardiovasculaire Aiguë et Chronique",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156011",
+      "ror": "https://ror.org/03t4pc386",
+      "display_name": "Cancer, Hétérogénéité, Instabilité et Plasticité",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156042",
+      "ror": "https://ror.org/02ncy5p18",
+      "display_name": "Research on healthcare performance",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156044",
+      "ror": "https://ror.org/05hqep952",
+      "display_name": "Infection, Anti-microbiens, Modélisation, Evolution",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156050",
+      "ror": "https://ror.org/033z83z59",
+      "display_name": "Centre d’Investigation Clinique 1436",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156116",
+      "ror": "https://ror.org/04k5h2q42",
+      "display_name": "(Epi)génomique fonctionnelle métabolique et des dysfonctions dans le diabète de type 2 et des maladies associées",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156186",
+      "ror": "https://ror.org/03cxgcr75",
+      "display_name": "Etude longitudinale française depuis l'enfance",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156255",
+      "ror": "https://ror.org/05dbe0t82",
+      "display_name": "Immunologie - Immunopathologie - Immunothérapie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156304",
+      "ror": "https://ror.org/05vqkgf08",
+      "display_name": "Physiopathologie, cibles et thérapies de la polyarthrite rhumatoïde",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156355",
+      "ror": "https://ror.org/02mtpz628",
+      "display_name": "Hypoxie et Poumon",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156389",
+      "ror": "https://ror.org/04dx32582",
+      "display_name": "Interdisciplinarité en Santé Publique Interventions et Instruments de mesure complexes – Région Est",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156401",
+      "ror": "https://ror.org/04rfxk768",
+      "display_name": "Laboratoire de Neurosciences Expérimentales et Cliniques",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156410",
+      "ror": "https://ror.org/03zb6nw87",
+      "display_name": "Nutrition, métabolismes et cancer",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4387156468",
+      "ror": "https://ror.org/01c1p7750",
+      "display_name": "Centre d'Investigation Clinique de Vaccinologie Cochin-Pasteur",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425247",
+      "ror": "https://ror.org/01r19bq53",
+      "display_name": "Replication des chromosomes eucaryotes et ses points de contrôle",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425249",
+      "ror": "https://ror.org/04ph5sm90",
+      "display_name": "PremUP",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425250",
+      "ror": "https://ror.org/05hb8m595",
+      "display_name": "PHOTOSYNTHESE",
+      "country_code": null,
+      "type": "other",
+      "relationship": "related"
+    },
+    {
+      "id": "https://openalex.org/I4389425324",
+      "ror": "https://ror.org/01jr1v359",
+      "display_name": "Laboratoire d'Informatique Médicale et d'Ingénierie des Connaissances en e-Santé",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425357",
+      "ror": "https://ror.org/01ph0t361",
+      "display_name": "Fondation Voir & Entendre",
+      "country_code": "FR",
+      "type": "nonprofit",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425361",
+      "ror": "https://ror.org/01zprwd36",
+      "display_name": "Centre d'Acquisition et de Traitement des Images",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425373",
+      "ror": "https://ror.org/0387w4y93",
+      "display_name": "Maladies génétiques d’expression pédiatrique",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425387",
+      "ror": "https://ror.org/02e3eqz10",
+      "display_name": "Centre de Recherche en Myologie",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425412",
+      "ror": "https://ror.org/04fgntk96",
+      "display_name": "Tara Oceans Systems Ecology & Evolution",
+      "country_code": null,
+      "type": "other",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4389425460",
+      "ror": "https://ror.org/05pm2xt51",
+      "display_name": "UMS Phénotypage du petit animal",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4390039341",
+      "ror": "https://ror.org/01x3ydm75",
+      "display_name": "Maladies rénales fréquentes et rares : des mécanismes moléculaires à la médecine personnalisée",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4390039343",
+      "ror": "https://ror.org/00ex3jm11",
+      "display_name": "Cohortes épidémiologiques en population",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4390039363",
+      "ror": "https://ror.org/021sh3243",
+      "display_name": "Infection et inflammation",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4390039364",
+      "ror": "https://ror.org/02k243t26",
+      "display_name": "Laboratoire physiopathologie et pharmacologie clinique de la douleur",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4391768231",
+      "ror": "https://ror.org/035gq6r08",
+      "display_name": "Laboratoire d'Excellence en Recherche sur le Médicament et l'Innovation Thérapeutique",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4392021138",
+      "ror": "https://ror.org/05k71g406",
+      "display_name": "Génomique du cancer et du cerveau",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4392021141",
+      "ror": "https://ror.org/02tg88m31",
+      "display_name": "Translational Research in Gene Therapy",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4392021159",
+      "ror": "https://ror.org/02yvdat18",
+      "display_name": "Neuroendocrine, Endocrine and Germinal Differentiation Communication",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4392021173",
+      "ror": "https://ror.org/01a6c6c20",
+      "display_name": "Dynamique Microbienne associée aux Infections Urinaires et Respiratoires",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4392021178",
+      "ror": "https://ror.org/04b8tg719",
+      "display_name": "Unité de recherche interdisciplinaire pour la prévention et le traitement des cancers",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4392021193",
+      "ror": "https://ror.org/018dfmm35",
+      "display_name": "Immunologie et Nouveaux Concepts en Immunothérapie",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4392021198",
+      "ror": "https://ror.org/01165k395",
+      "display_name": "Center for Research in Transplantation and Translational Immunology",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4392021239",
+      "ror": "https://ror.org/013m8h627",
+      "display_name": "methodS in Patient-centered outcomes and HEalth ResEarch",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4394709158",
+      "ror": "https://ror.org/016wpzq40",
+      "display_name": "Laboratoire de Génétique Médicale",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4394709185",
+      "ror": "https://ror.org/05dd6kb95",
+      "display_name": "Neuroscience et Psychiatrie Translationnelle de Strasbourg",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4394709198",
+      "ror": "https://ror.org/03k7yrw82",
+      "display_name": "Immuno-Rhumathologie moléculaire",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4400008889",
+      "ror": "https://ror.org/04r5nwv94",
+      "display_name": "UMS BioCore",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4400008982",
+      "ror": "https://ror.org/01027m165",
+      "display_name": "Brain Tech Laboratory",
+      "country_code": "FR",
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4400009043",
+      "ror": "https://ror.org/0557vhy43",
+      "display_name": "Laboratoire Biologie et Biotechnologie pour la Santé",
+      "country_code": null,
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4400009065",
+      "ror": "https://ror.org/039j4x695",
+      "display_name": "Laboratoire Biosciences et bioingénierie pour la Santé",
+      "country_code": null,
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4400573281",
+      "ror": "https://ror.org/03vyv3y87",
+      "display_name": "Haute Technologie Animale Grenobloise",
+      "country_code": null,
+      "type": "education",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4400600947",
+      "ror": "https://ror.org/0459x4g44",
+      "display_name": "Hypoxie et Physiopathologies cardiovasculaires et respiratoires",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4401200263",
+      "ror": "https://ror.org/05dh21g53",
+      "display_name": "Structure Fédérative de Recherche Santé Lyon Est",
+      "country_code": null,
+      "type": "other",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4402554039",
+      "ror": "https://ror.org/04x7ec535",
+      "display_name": "BioCampus Montpellier",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4402554101",
+      "ror": "https://ror.org/019v7sr25",
+      "display_name": "Développement Embryonnaire, Fertilité et Environnement",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4402554122",
+      "ror": "https://ror.org/03gbgw380",
+      "display_name": "Institut de Science des Données de Montpellier",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4402554172",
+      "ror": "https://ror.org/01dwzy755",
+      "display_name": "Institut Desbrest d'Epidémiologie et de Santé Publique",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4402554173",
+      "ror": "https://ror.org/01yw9jt43",
+      "display_name": "Pathogenesis and Control of Chronic and Emerging Infections",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4402554203",
+      "ror": "https://ror.org/01hrtf583",
+      "display_name": "Synchrotron Radiation for Biomedicine",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386480",
+      "ror": "https://ror.org/04dtbh109",
+      "display_name": "Centre d'Investigation Clinique Bichat",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386506",
+      "ror": "https://ror.org/00tj21473",
+      "display_name": "CArcinose Péritoine Paris-Technologies",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386518",
+      "ror": "https://ror.org/04q1vy171",
+      "display_name": "Marqueurs cardiovasculaires en situation de stress",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386531",
+      "ror": "https://ror.org/0251tqx66",
+      "display_name": "Centre d'Investigation Clinique Hôpital Européen Georges Pompidou",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386578",
+      "ror": "https://ror.org/00ejmq608",
+      "display_name": "Centre d'Investigation Clinique Biothérapies Necker",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386587",
+      "ror": "https://ror.org/053p5te48",
+      "display_name": "Structure fédérative de recherche Necker",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386609",
+      "ror": "https://ror.org/00kjer521",
+      "display_name": "Evolution et ingénierie de systèmes dynamiques",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386629",
+      "ror": "https://ror.org/03s5x2j36",
+      "display_name": "Centre d'Investigation Clinique Robert Debré",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386632",
+      "ror": "https://ror.org/04t9v8r67",
+      "display_name": "Ecotaxie, Microenvironnement et développement lymphocytaire",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386642",
+      "ror": "https://ror.org/052dpkx72",
+      "display_name": "Membrane dynamics in and outside the cell",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386661",
+      "ror": "https://ror.org/00drt4541",
+      "display_name": "Centre d'Investigation Clinique Saint-Louis",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386693",
+      "ror": "https://ror.org/04gh2v067",
+      "display_name": "Physiologie De L'Axe Gonadotrope",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386707",
+      "ror": "https://ror.org/04k5bcn60",
+      "display_name": "Fédération de recherche en imagerie multi-modalité",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386744",
+      "ror": "https://ror.org/001br4864",
+      "display_name": "Biomedtech Facilities",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386761",
+      "ror": "https://ror.org/015144r31",
+      "display_name": "Trajectoires développementales & psychiatrie",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403386800",
+      "ror": "https://ror.org/03h3j0z67",
+      "display_name": "Chimie médicinale et recherche translationnelle",
+      "country_code": null,
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403928344",
+      "ror": "https://ror.org/02cypx016",
+      "display_name": "Hématopoïèse normale et pathologique : Emergence, environnement et recherche translationnelle",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4403928347",
+      "ror": "https://ror.org/03r83qv57",
+      "display_name": "France Cohortes",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253049",
+      "ror": "https://ror.org/008e8k888",
+      "display_name": "Structure Fédérative de Recherche Biosciences",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405253846",
+      "ror": "https://ror.org/0152wf839",
+      "display_name": "Dynamique des Cellules Tumorales",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254696",
+      "ror": "https://ror.org/024c3xj78",
+      "display_name": "Maladies et hormones du système nerveux",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405254847",
+      "ror": "https://ror.org/02a849f66",
+      "display_name": "Signalisation, radiobiologie et cancer",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255169",
+      "ror": "https://ror.org/02pgsjq66",
+      "display_name": "Neuro-SU",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255443",
+      "ror": "https://ror.org/030sqvy05",
+      "display_name": "Laboratoire de Signalisation et Physiopathologie Cardiovasculaire",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255629",
+      "ror": "https://ror.org/037y9hb39",
+      "display_name": "Centre d'Investigation Clinique - Innovation Technologique de Garches",
+      "country_code": "FR",
+      "type": "healthcare",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255793",
+      "ror": "https://ror.org/03e75qp68",
+      "display_name": "Immunologie anti-tumorale et immunothérapie des cancers",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255799",
+      "ror": "https://ror.org/03ef0j886",
+      "display_name": "Analyse moléculaire, modélisation et imagerie de la maladie cancéreuse",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405255986",
+      "ror": "https://ror.org/03mshhe73",
+      "display_name": "Modèles de cellules souches malignes et thérapeutiques",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405256027",
+      "ror": "https://ror.org/03p96ke84",
+      "display_name": "Développement Adaptation et Vieillissement",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257098",
+      "ror": "https://ror.org/04wkrkf28",
+      "display_name": "Cellules souches hématopoïétiques et développement des hémopathies myéloïdes",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257261",
+      "ror": "https://ror.org/052rhgg57",
+      "display_name": "Institut Biomédical du Val de Bièvre",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257443",
+      "ror": "https://ror.org/059bq3232",
+      "display_name": "Ingénierie et Plateformes au Service de l'Innovation Thérapeutique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257681",
+      "ror": "https://ror.org/05jekdj60",
+      "display_name": "Centre d'Imagerie Multimodale",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257812",
+      "ror": "https://ror.org/05pwqr258",
+      "display_name": "Interactions Cellules souches-niches: physiologie, tumeurs et réparation tissulaire",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405257954",
+      "ror": "https://ror.org/05w3vvc59",
+      "display_name": "Interactions Hôte-Greffon-Tumeur & Ingénierie Cellulaire et Génique",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405258175",
+      "ror": "https://ror.org/0081d5r66",
+      "display_name": "Membrane Signalling and Inflammation in reperfusion Injuries",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405258428",
+      "ror": "https://ror.org/00my0j309",
+      "display_name": "Heka : Méthodes basées sur les données et modèles en santé pour l'acquisition de connaissances",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405258652",
+      "ror": "https://ror.org/01138xk88",
+      "display_name": "Mécanismes en sciences intégratives du vivant",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405258877",
+      "ror": "https://ror.org/01bcn3f20",
+      "display_name": "Pathobiologie et thérapie des maladies du foie",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405258897",
+      "ror": "https://ror.org/01cgtm828",
+      "display_name": "Santé Orale",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259047",
+      "ror": "https://ror.org/01mxn9q79",
+      "display_name": "Laboratoire d'Imagerie Biomédicale Multimodale Paris-Saclay",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259162",
+      "ror": "https://ror.org/01v75d751",
+      "display_name": "Neurodéveloppement humain et pathologies associées",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259646",
+      "ror": "https://ror.org/02gezhp66",
+      "display_name": "BoRdeaux Institute of onCology",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259658",
+      "ror": "https://ror.org/02gz6nd21",
+      "display_name": "FC3R - Groupement d’Intérêt Scientifique French Center 3R",
+      "country_code": "FR",
+      "type": "other",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259912",
+      "ror": "https://ror.org/02xqz5k24",
+      "display_name": "Morphogénèse et antigénicité du VIH et des virus des hépatites et émergents",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405259992",
+      "ror": "https://ror.org/031j52y75",
+      "display_name": "Methods and Applied Research for Trial",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405260353",
+      "ror": "https://ror.org/03m5vq622",
+      "display_name": "Centre de RÉférence, d'Innovation, d'eXpertise et de transfert",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405260800",
+      "ror": "https://ror.org/049t65d67",
+      "display_name": "Analyse des Systèmes Biologiques",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405260931",
+      "ror": "https://ror.org/04ge2hn26",
+      "display_name": "Immunologie des Maladies Virales, Auto-immunes, Hématologiques et Bactériennes",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405261664",
+      "ror": "https://ror.org/05naveh50",
+      "display_name": "Niche, Nutrition, Cancer et métabolisme oxydatif",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405261777",
+      "ror": "https://ror.org/05twhbr06",
+      "display_name": "Neurinfo",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405261788",
+      "ror": "https://ror.org/05v8kmm60",
+      "display_name": "Nanomédecine, Biologie extracellulaire Intégratome et Innovations en santé",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "child"
+    },
+    {
+      "id": "https://openalex.org/I4405263312",
+      "ror": "https://ror.org/053zfjn49",
+      "display_name": "Centre régional d’exploration fonctionnelle et ressources expérimentales",
+      "country_code": "FR",
+      "type": "facility",
+      "relationship": "related"
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2028,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2027,
+      "works_count": 2,
+      "oa_works_count": 2,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2026,
+      "works_count": 3869,
+      "oa_works_count": 2591,
+      "cited_by_count": 374
+    },
+    {
+      "year": 2025,
+      "works_count": 28049,
+      "oa_works_count": 20719,
+      "cited_by_count": 37321
+    },
+    {
+      "year": 2024,
+      "works_count": 25506,
+      "oa_works_count": 19341,
+      "cited_by_count": 141391
+    },
+    {
+      "year": 2023,
+      "works_count": 25403,
+      "oa_works_count": 19157,
+      "cited_by_count": 263203
+    },
+    {
+      "year": 2022,
+      "works_count": 24501,
+      "oa_works_count": 17504,
+      "cited_by_count": 407984
+    },
+    {
+      "year": 2021,
+      "works_count": 25139,
+      "oa_works_count": 17748,
+      "cited_by_count": 728089
+    },
+    {
+      "year": 2020,
+      "works_count": 23460,
+      "oa_works_count": 16728,
+      "cited_by_count": 858833
+    },
+    {
+      "year": 2019,
+      "works_count": 20112,
+      "oa_works_count": 13043,
+      "cited_by_count": 747665
+    },
+    {
+      "year": 2018,
+      "works_count": 19332,
+      "oa_works_count": 10930,
+      "cited_by_count": 781381
+    },
+    {
+      "year": 2017,
+      "works_count": 17991,
+      "oa_works_count": 9759,
+      "cited_by_count": 806266
+    },
+    {
+      "year": 2016,
+      "works_count": 17234,
+      "oa_works_count": 8583,
+      "cited_by_count": 804954
+    },
+    {
+      "year": 2015,
+      "works_count": 15975,
+      "oa_works_count": 7577,
+      "cited_by_count": 784799
+    },
+    {
+      "year": 2014,
+      "works_count": 15132,
+      "oa_works_count": 6767,
+      "cited_by_count": 768719
+    },
+    {
+      "year": 2013,
+      "works_count": 14707,
+      "oa_works_count": 6635,
+      "cited_by_count": 818857
+    },
+    {
+      "year": 2012,
+      "works_count": 13245,
+      "oa_works_count": 5707,
+      "cited_by_count": 731197
+    },
+    {
+      "year": 2011,
+      "works_count": 12087,
+      "oa_works_count": 5216,
+      "cited_by_count": 753628
+    },
+    {
+      "year": 2010,
+      "works_count": 10947,
+      "oa_works_count": 4496,
+      "cited_by_count": 695559
+    }
+  ],
+  "roles": [
+    {
+      "role": "funder",
+      "id": "https://openalex.org/F4320320893",
+      "works_count": 43304
+    },
+    {
+      "role": "institution",
+      "id": "https://openalex.org/I154526488",
+      "works_count": 449460
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11020",
+      "display_name": "Immune Cell Function and Interaction",
+      "count": 11282,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10077",
+      "display_name": "Neuroscience and Neuropharmacology Research",
+      "count": 9480,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2804",
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10031",
+      "display_name": "T-cell and B-cell Immunology",
+      "count": 8687,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10580",
+      "display_name": "Immunotherapy and Immune Responses",
+      "count": 7584,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10351",
+      "display_name": "Liver Disease Diagnosis and Treatment",
+      "count": 7377,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11178",
+      "display_name": "Receptor Mechanisms and Signaling",
+      "count": 6313,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11016",
+      "display_name": "Monoclonal and Polyclonal Antibodies Research",
+      "count": 6079,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2741",
+        "display_name": "Radiology, Nuclear Medicine and Imaging"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10112",
+      "display_name": "HIV Research and Treatment",
+      "count": 5552,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2406",
+        "display_name": "Virology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10151",
+      "display_name": "Hepatitis C virus research",
+      "count": 5091,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2721",
+        "display_name": "Hepatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10301",
+      "display_name": "Mitochondrial Function and Pathology",
+      "count": 5047,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10839",
+      "display_name": "Pancreatic function and diabetes",
+      "count": 5002,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10604",
+      "display_name": "RNA Research and Splicing",
+      "count": 4725,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10814",
+      "display_name": "Neuropeptides and Animal Physiology",
+      "count": 4662,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2804",
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11457",
+      "display_name": "Adipose Tissue and Metabolism",
+      "count": 4631,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10340",
+      "display_name": "Hepatitis B Virus Studies",
+      "count": 4609,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2713",
+        "display_name": "Epidemiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10581",
+      "display_name": "Neural dynamics and brain function",
+      "count": 4569,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2805",
+        "display_name": "Cognitive Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10493",
+      "display_name": "Ion channel regulation and function",
+      "count": 4546,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10831",
+      "display_name": "Cell Adhesion Molecules Research",
+      "count": 4500,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2723",
+        "display_name": "Immunology and Allergy"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11482",
+      "display_name": "RNA modifications and cancer",
+      "count": 4494,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12267",
+      "display_name": "Diet and metabolism studies",
+      "count": 4411,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10269",
+      "display_name": "Epigenetics and DNA Methylation",
+      "count": 4362,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10602",
+      "display_name": "Glycosylation and Glycoproteins Research",
+      "count": 4116,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10521",
+      "display_name": "RNA and protein synthesis mechanisms",
+      "count": 4115,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10051",
+      "display_name": "Asthma and respiratory diseases",
+      "count": 4106,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2737",
+        "display_name": "Physiology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10158",
+      "display_name": "Cancer Immunotherapy and Biomarkers",
+      "count": 4106,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T10031",
+      "display_name": "T-cell and B-cell Immunology",
+      "value": 0.0309238,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11020",
+      "display_name": "Immune Cell Function and Interaction",
+      "value": 0.0299168,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11772",
+      "display_name": "Genetics and Neurodevelopmental Disorders",
+      "value": 0.0280186,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1311",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10441",
+      "display_name": "Muscle Physiology and Disorders",
+      "value": 0.0274922,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14186",
+      "display_name": "Healthcare Systems and Practices",
+      "value": 0.0272284,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3600",
+        "display_name": "General Health Professions"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/36",
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10112",
+      "display_name": "HIV Research and Treatment",
+      "value": 0.0271414,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2406",
+        "display_name": "Virology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12061",
+      "display_name": "Axon Guidance and Neuronal Signaling",
+      "value": 0.0269167,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2804",
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14486",
+      "display_name": "Cardiovascular, Neuropeptides, and Oxidative Stress Research",
+      "value": 0.0269083,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10151",
+      "display_name": "Hepatitis C virus research",
+      "value": 0.0264674,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2721",
+        "display_name": "Hepatology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11628",
+      "display_name": "Myeloproliferative Neoplasms: Diagnosis and Treatment",
+      "value": 0.0263992,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2716",
+        "display_name": "Genetics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10949",
+      "display_name": "Genetic Neurodegenerative Diseases",
+      "value": 0.0261462,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2804",
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10746",
+      "display_name": "Platelet Disorders and Treatments",
+      "value": 0.0260406,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2720",
+        "display_name": "Hematology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10727",
+      "display_name": "Ultrasound Imaging and Elastography",
+      "value": 0.0254288,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2741",
+        "display_name": "Radiology, Nuclear Medicine and Imaging"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10580",
+      "display_name": "Immunotherapy and Immune Responses",
+      "value": 0.0252904,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13648",
+      "display_name": "Cerebrovascular and genetic disorders",
+      "value": 0.0251849,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2728",
+        "display_name": "Neurology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12528",
+      "display_name": "IL-33, ST2, and ILC Pathways",
+      "value": 0.0242331,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12672",
+      "display_name": "Phagocytosis and Immune Regulation",
+      "value": 0.0241482,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11618",
+      "display_name": "Cholesterol and Lipid Metabolism",
+      "value": 0.0238703,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11491",
+      "display_name": "CAR-T cell therapy research",
+      "value": 0.0236404,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2730",
+        "display_name": "Oncology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10993",
+      "display_name": "Complement system in diseases",
+      "value": 0.0235975,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2403",
+        "display_name": "Immunology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/24",
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13505",
+      "display_name": "Apelin-related biomedical research",
+      "value": 0.0235565,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2736",
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10526",
+      "display_name": "HIV/AIDS drug development and treatment",
+      "value": 0.0231018,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2725",
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10814",
+      "display_name": "Neuropeptides and Animal Physiology",
+      "value": 0.0226852,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2804",
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10309",
+      "display_name": "Acute Myeloid Leukemia Research",
+      "value": 0.0226722,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2720",
+        "display_name": "Hematology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10608",
+      "display_name": "Neurogenesis and neuroplasticity mechanisms",
+      "value": 0.0225594,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2806",
+        "display_name": "Developmental Neuroscience"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/28",
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "is_super_system": false,
+  "works_api_url": "https://api.openalex.org/works?filter=institutions.id:I154526488",
+  "updated_date": "2026-03-03T06:01:00",
+  "created_date": "2016-06-24T00:00:00"
+}
