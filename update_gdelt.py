@@ -63,7 +63,7 @@ DB_CONFIG = {
     "port": 5432,
     "dbname": "war_datasets",
     "user": "postgres",
-    "password": "***DB_PASSWORD_REDACTED***",
+    "password": os.environ.get("PG_WARDATASETS_PASSWORD", ""),
 }
 
 SCHEMA = "global_events"
